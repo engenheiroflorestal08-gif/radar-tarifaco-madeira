@@ -1,0 +1,47 @@
+name: Atualizar radar de noticias
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions usa UTC. 10:00 UTC corresponde a 07:00 em Sao Paulo.
+    - cron: "0 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-radar-tarifaco
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Atualizar noticias
+        run: python scripts/atualizar_noticias.py
+
+      - name: Salvar alteracoes
+        run: |
+          git config user.name "radar-tarifaco-bot"
+          git config user.email "radar-tarifaco-bot@users.noreply.github.com"
+          git add data/noticias.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao encontrada."
+          else
+            git commit -m "Atualiza radar de noticias"
+            git push
+          fi
