@@ -1,0 +1,58 @@
+{
+  "consultas_google_news": [
+    "tarifa Brasil Estados Unidos madeira",
+    "tarifaço Brasil indústria madeireira",
+    "Section 301 Brazil wood lumber",
+    "Section 232 timber lumber Brazil",
+    "ABIMCI tarifa Estados Unidos",
+    "exportações madeira Brasil Estados Unidos",
+    "madeira processada tarifa EUA",
+    "molduras compensado madeira serrada exportação EUA"
+  ],
+  "feeds_rss": [
+    {
+      "nome": "MDIC - Informativos de Comércio Exterior",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS",
+      "tipo": "Oficial"
+    }
+  ],
+  "paginas_monitoradas": [
+    {
+      "nome": "ABIMCI",
+      "url": "https://abimci.com.br/",
+      "tipo": "Setorial"
+    },
+    {
+      "nome": "USTR",
+      "url": "https://ustr.gov/about/policy-offices/press-office/news",
+      "tipo": "Oficial"
+    },
+    {
+      "nome": "MDIC",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias",
+      "tipo": "Oficial"
+    }
+  ],
+  "termos_madeira": [
+    "madeira", "madeireira", "madeireiro", "madeira processada", "pinus",
+    "moldura", "molduras", "compensado", "plywood", "madeira serrada",
+    "lumber", "timber", "wood", "millwork", "porta de madeira", "portas de madeira",
+    "piso de madeira", "pisos de madeira", "painel de madeira", "painéis de madeira",
+    "floresta plantada", "setor florestal", "abimci"
+  ],
+  "termos_tarifarios": [
+    "tarifa", "tarifas", "tarifaço", "taxação", "sobretaxa", "alíquota",
+    "section 301", "seção 301", "section 232", "seção 232", "ustr",
+    "ordem executiva", "federal register", "trade act", "direito aduaneiro"
+  ],
+  "termos_comercio": [
+    "exportação", "exportações", "importação", "comércio exterior", "comex stat",
+    "estados unidos", "eua", "united states", "brasil", "competitividade",
+    "ncm", "hts", "aduaneiro", "aduana"
+  ],
+  "fontes_oficiais": [
+    "ustr.gov", "federalregister.gov", "gov.br", "planalto.gov.br", "whitehouse.gov"
+  ],
+  "dias_de_retencao": 180,
+  "maximo_de_itens": 300
+}

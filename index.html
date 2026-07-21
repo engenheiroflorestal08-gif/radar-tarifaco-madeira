@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Painel diário de notícias e alertas sobre tarifas comerciais e a indústria brasileira da madeira." />
+  <title>Radar Tarifaço & Madeira</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav shell">
+      <a class="brand" href="#top" aria-label="Radar Tarifaço e Madeira">
+        <span class="brand-mark">TM</span>
+        <span><strong>Radar Tarifaço</strong><small>Indústria da madeira</small></span>
+      </a>
+      <div class="nav-actions">
+        <span id="update-status" class="status-pill"><span class="pulse"></span>Carregando dados</span>
+        <button id="theme-toggle" class="icon-button" type="button" aria-label="Alternar tema">◐</button>
+      </div>
+    </nav>
+
+    <section id="top" class="hero-content shell">
+      <div>
+        <p class="eyebrow">MONITORAMENTO DIÁRIO</p>
+        <h1>Tarifas, comércio exterior e impactos na madeira.</h1>
+        <p class="hero-copy">Um painel enxuto para acompanhar notícias, medidas oficiais e sinais relevantes para empresas brasileiras do setor madeireiro.</p>
+      </div>
+      <aside class="hero-card">
+        <span class="hero-card-label">Última atualização</span>
+        <strong id="last-update">—</strong>
+        <p id="coverage-text">Aguardando leitura do arquivo de dados.</p>
+      </aside>
+    </section>
+  </header>
+
+  <main class="shell main-content">
+    <section class="metric-grid" aria-label="Indicadores principais">
+      <article class="metric-card">
+        <span>Total monitorado</span>
+        <strong id="metric-total">0</strong>
+        <small>itens na base</small>
+      </article>
+      <article class="metric-card critical-card">
+        <span>Alertas críticos</span>
+        <strong id="metric-critical">0</strong>
+        <small>alta relevância</small>
+      </article>
+      <article class="metric-card">
+        <span>Foco em madeira</span>
+        <strong id="metric-wood">0</strong>
+        <small>notícias do setor</small>
+      </article>
+      <article class="metric-card">
+        <span>Fontes oficiais</span>
+        <strong id="metric-official">0</strong>
+        <small>governos e órgãos</small>
+      </article>
+    </section>
+
+    <section id="critical-banner" class="critical-banner hidden" aria-live="polite">
+      <div>
+        <span class="banner-kicker">ATENÇÃO</span>
+        <strong id="critical-title">Há novos acontecimentos de alta relevância.</strong>
+        <p id="critical-description"></p>
+      </div>
+      <button id="show-critical" type="button">Ver alertas</button>
+    </section>
+
+    <section class="workspace">
+      <aside class="sidebar">
+        <div class="panel-block">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-label">VISÃO GERAL</span>
+              <h2>Distribuição</h2>
+            </div>
+          </div>
+          <div id="category-chart" class="bar-chart" aria-label="Distribuição por categoria"></div>
+        </div>
+
+        <div class="panel-block source-block">
+          <span class="section-label">FONTES PRIORITÁRIAS</span>
+          <ul>
+            <li><span>USTR e Federal Register</span><b>Oficial EUA</b></li>
+            <li><span>MDIC e Comex Stat</span><b>Oficial Brasil</b></li>
+            <li><span>ABIMCI e setor florestal</span><b>Setorial</b></li>
+            <li><span>Imprensa econômica</span><b>Notícias</b></li>
+          </ul>
+        </div>
+
+        <div class="panel-block disclaimer">
+          <span class="section-label">IMPORTANTE</span>
+          <p>O painel é informativo. Confirme decisões comerciais, jurídicas ou aduaneiras nas fontes oficiais e com especialistas responsáveis.</p>
+        </div>
+      </aside>
+
+      <section class="feed-panel">
+        <div class="section-heading">
+          <div>
+            <span class="section-label">RADAR DE NOTÍCIAS</span>
+            <h2>Atualizações encontradas</h2>
+          </div>
+          <span id="result-count" class="result-count">0 resultados</span>
+        </div>
+
+        <div class="filters" role="search">
+          <label class="search-field">
+            <span aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" placeholder="Buscar por tarifa, madeira, produto, empresa..." autocomplete="off" />
+          </label>
+          <select id="category-filter" aria-label="Filtrar por categoria">
+            <option value="all">Todas as categorias</option>
+          </select>
+          <select id="priority-filter" aria-label="Filtrar por prioridade">
+            <option value="all">Todas as prioridades</option>
+            <option value="critica">Crítica</option>
+            <option value="alta">Alta</option>
+            <option value="media">Média</option>
+            <option value="baixa">Baixa</option>
+          </select>
+          <select id="period-filter" aria-label="Filtrar por período">
+            <option value="all">Todo o período</option>
+            <option value="1">Últimas 24 horas</option>
+            <option value="7">Últimos 7 dias</option>
+            <option value="30">Últimos 30 dias</option>
+            <option value="90">Últimos 90 dias</option>
+          </select>
+        </div>
+
+        <div id="news-list" class="news-list" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state hidden">
+          <strong>Nenhum item encontrado</strong>
+          <p>Tente remover algum filtro ou pesquisar outro termo.</p>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-content">
+      <div>
+        <strong>Radar Tarifaço & Madeira</strong>
+        <p>MVP de monitoramento público. Não armazena informações internas da BrasPine.</p>
+      </div>
+      <a href="README.md">Como funciona</a>
+    </div>
+  </footer>
+
+  <template id="news-card-template">
+    <article class="news-card">
+      <div class="news-meta">
+        <span class="priority-badge"></span>
+        <span class="category-badge"></span>
+        <span class="source-type"></span>
+      </div>
+      <h3><a class="news-link" target="_blank" rel="noopener noreferrer"></a></h3>
+      <p class="news-summary"></p>
+      <div class="news-footer">
+        <span class="news-source"></span>
+        <time class="news-date"></time>
+      </div>
+      <div class="news-tags"></div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
