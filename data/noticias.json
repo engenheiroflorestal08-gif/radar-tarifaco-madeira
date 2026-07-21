@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-21T14:27:20.751518-03:00",
+    "atualizado_em": "2026-07-21T15:39:22.494636-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 249,
+    "novos_itens_encontrados": 250,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T14:27:20.726677-03:00",
+      "data_publicacao": "2026-07-21T15:39:22.472468-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T14:27:20.724828-03:00",
+      "data_publicacao": "2026-07-21T15:39:22.471402-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T14:27:20.687547-03:00",
+      "data_publicacao": "2026-07-21T15:39:22.444055-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-21T14:27:19.966593-03:00",
+      "data_publicacao": "2026-07-21T15:39:21.753355-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +84,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-21T14:27:19.959855-03:00",
+      "data_publicacao": "2026-07-21T15:39:21.748426-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -101,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenVZWUEtZFFGaDlSR1o5WWItTG5teXVhSXVNaHFaeFY5TzBpR2tkQWw3N0I3ZUUzVkxDZm8tQWhzZl9xdDAzMExreWE0RGE1UHhBRnhOZ2o4MGdzSjlKb0VqMW5lUWpJTFItNHp5X2pyNjh2b2NKNnA4SzF0SVdrYVdlZUZaazZNVFZUbV9CT29GZTg5MFNkVUYyV2NyR1ZXLWdFblF3cXp0aVpqWDJaNXVLREVoSDBS?oc=5",
       "fonte": "band.com.br",
       "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-21T13:43:24-03:00",
+      "data_publicacao": "2026-07-21T13:47:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "media",
       "foco_madeira": true,
@@ -1206,6 +1206,21 @@
         "tarifa",
         "Brasil",
         "exportações"
+      ]
+    },
+    {
+      "id": "a903d0b7ec3b150047c6",
+      "titulo": "Nova tarifa dos EUA afetaria mais o setor de máquinas e equipamentos, diz ministro",
+      "resumo": "Nova tarifa dos EUA afetaria mais o setor de máquinas e equipamentos, diz ministro Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnNFNFhDNnNJRVd0OVF1SmxRTnA0dTY3a1VXcHU3U2lwZGp4LW1qY2VxTmJqdkdiMjJ2Y3Y5YzFqNWRTT0k1eTY1dTctaEZJdlFOOU9PSThmWGl4SHViVHVRaUJGVlJPSk0wY1QtS2pRZ29FT1lYRFdmcmpJdEtpYThfZ1Vvbjhtb193S2lOMy00YmY0NmVnb0RGVm9jQWFtdGhxcFJqU3FxTzB6WEE4bDNRTFVrQU05Z0lNZkUwdjZ4X09Hb2d0cGI3WUMxN3JXdnFV0gHiAUFVX3lxTE9ydnJ2cEpPWnMxMGVQc09LbFNJejUzQXZiVk9LUDhVak5VM0RlZkJjMUhEVnVXamgzcEJMRFFYbzBEdC1seTRsU0FXcEdsdEJPYVNlZkxsWkNVNWhSZVpYbXMzTlJwZlhKeE5DTVFsYjFHa1NnQXFOemRzT2dSSGRFTjN3NUZzZXJMSFk0RHJqbTFOTGFOSV9VczllckxtU25aaTdFN1ZGRmpPeEh6V3Y5LXlUSTVuY0NxMmFFTm1lelB2Q3h2VjhiQWhWRU9MbTg4WnFEVFgxMVFCQW1CTlU4OWc?oc=5",
+      "fonte": "Valor Econômico",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
