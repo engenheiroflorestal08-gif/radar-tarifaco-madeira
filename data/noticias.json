@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-22T09:53:02.580317-03:00",
+    "atualizado_em": "2026-07-22T12:53:40.401570-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 250,
+    "novos_itens_encontrados": 255,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T09:53:02.552760-03:00",
+      "data_publicacao": "2026-07-22T12:53:40.378758-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T09:53:02.551571-03:00",
+      "data_publicacao": "2026-07-22T12:53:40.377662-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T09:53:02.517522-03:00",
+      "data_publicacao": "2026-07-22T12:53:40.349835-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-22T09:53:02.019665-03:00",
+      "data_publicacao": "2026-07-22T12:53:39.703577-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +84,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-22T09:53:02.014556-03:00",
+      "data_publicacao": "2026-07-22T12:53:39.698640-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -92,6 +92,55 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "559379a1aa77e2f2e208",
+      "titulo": "Trump impõe tarifa de 25% sobre produtos do Brasil",
+      "resumo": "Trump impõe tarifa de 25% sobre produtos do Brasil SpaceMoney",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXBwNHBOLXFtQ3NERTlpMDZYUXA4aGtHeDBuMmh3ak1iMWFOY3N3Rlp5NXB3dU9tYk5zd0xLQlVnZzF5a3BpV0x2dGduYjV6U1lLYjgzVmh4dUZoMGdURDdJNE9pQTRzRElBNDVNWXRvV2oyN2ZhNGNsOE1OLXV6WFN5S3NLeUd0Q1ZQUDVJcG4wdw?oc=5",
+      "fonte": "SpaceMoney",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T11:20:53-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "8b2525f3c53efcae2be8",
+      "titulo": "Trump mira o Brasil com tarifa de 25% e atinge calçados, etanol e madeira",
+      "resumo": "Trump mira o Brasil com tarifa de 25% e atinge calçados, etanol e madeira InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFpSUjVjbXJtd2hscUpaRE1ITFJQQzRGeGFsRkNmLVkzNDdrT2ltZkE3VGRaazhUQjhtanFfNzNObDlSZ1ExaE5Td2lVTk9xeVZrY0dSdzQ0VktDV1NMRk9HcDA0WHI4WHBQVVpFdmgyeXpXYms5SDJUNGlKMHluSFlKcnNncU5NelRQRlBqbnBhZ21Eb2ZWajVWemR5X3dubklOZExRQ1B4TkRET3I00gG0AUFVX3lxTE1fTXRGN0NpSzJIc1RJVHV3WHJUbFg3WFlOaGFMNnJVQzlralZqejJ1WHZTTTQtRHIxcnZTamhXcUpIeVFCaS1BVjlMZ1RYcXRWOVI0WXdWQ1NlY0NfaFNNLWVIRndxaVRwX21fMy1oekJ4TE5nNGdOdHJ4ajg5bFA2SDByUEJPS3JHZjRYYXgySVlTZ0kyTXBBT0ZaVGZZeVU2b2RnLURBZ3BzaWYwbEZFOVp2MA?oc=5",
+      "fonte": "InfoMoney",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T11:17:39-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira"
+      ]
+    },
+    {
+      "id": "30f37b8b4a86da0d6a29",
+      "titulo": "Tarifa dos EUA começa e ameaça indústria do Paraná",
+      "resumo": "Tarifa dos EUA começa e ameaça indústria do Paraná Blog do Esmael",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50TkxHOXAwaHdYZXF0Q0lVTlRSUjNCY3pKcEZwa2NQTTVLVnNHUkdYdDA5Z1Y0eVVsYV9mUTd5MVRhTlZCeDR0a0FDX1pRLWN5bTJGVnlOeW5kelB6SmxLU2M1aUZvbVhGOHhnNE5TZzZSTEJJdGc?oc=5",
+      "fonte": "Blog do Esmael",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T09:03:49-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "USTR"
       ]
     },
     {
@@ -111,6 +160,22 @@
       ]
     },
     {
+      "id": "c5540d5794e0a2070894",
+      "titulo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná",
+      "resumo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná Tarobá",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1ZHQUw5X1I4aTl2Z2J6aFRYN293OHFiNDh5UlFqZU56VTB4MFdRaGFibFFBYWxjT2UyQ3cwVG1YeG9jaGJFWjg3dDdtdmlmeDJuSXNFUzg0TVVsUVlTQTR5TE5FQ1BHVjl0bW1LcVB0RlFQb2didnV1Q3dMSU5jWTBCcHNaZ2VNVkl5cG03RGhGS3I4WDZybFZySGt2ckxT?oc=5",
+      "fonte": "Tarobá",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-21T21:30:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira"
+      ]
+    },
+    {
       "id": "67fd6a774c45bda4d8ab",
       "titulo": "Tarifa dos EUA tem impacto menor que o esperado para o agro de MS",
       "resumo": "Tarifa dos EUA tem impacto menor que o esperado para o agro de MS progresso.com.br",
@@ -123,22 +188,6 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
-      ]
-    },
-    {
-      "id": "f637ecc695917b830c82",
-      "titulo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná",
-      "resumo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenVZWUEtZFFGaDlSR1o5WWItTG5teXVhSXVNaHFaeFY5TzBpR2tkQWw3N0I3ZUUzVkxDZm8tQWhzZl9xdDAzMExreWE0RGE1UHhBRnhOZ2o4MGdzSjlKb0VqMW5lUWpJTFItNHp5X2pyNjh2b2NKNnA4SzF0SVdrYVdlZUZaazZNVFZUbV9CT29GZTg5MFNkVUYyV2NyR1ZXLWdFblF3cXp0aVpqWDJaNXVLREVoSDBS?oc=5",
-      "fonte": "band.com.br",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-21T13:47:00-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "media",
-      "foco_madeira": true,
-      "tags": [
-        "tarifa",
-        "madeira"
       ]
     },
     {
