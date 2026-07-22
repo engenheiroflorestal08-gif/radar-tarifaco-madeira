@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-21T15:39:22.494636-03:00",
+    "atualizado_em": "2026-07-22T09:53:02.580317-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T15:39:22.472468-03:00",
+      "data_publicacao": "2026-07-22T09:53:02.552760-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T15:39:22.471402-03:00",
+      "data_publicacao": "2026-07-22T09:53:02.551571-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-21T15:39:22.444055-03:00",
+      "data_publicacao": "2026-07-22T09:53:02.517522-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-21T15:39:21.753355-03:00",
+      "data_publicacao": "2026-07-22T09:53:02.019665-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +84,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-21T15:39:21.748426-03:00",
+      "data_publicacao": "2026-07-22T09:53:02.014556-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -92,6 +92,37 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "9f2ce7998ac786d13535",
+      "titulo": "Novo tarifaço atinge quase 25% do setor de papel e celulose brasileiro",
+      "resumo": "Novo tarifaço atinge quase 25% do setor de papel e celulose brasileiro CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzI1ZVExeVgwemkxVmJ5N2RaeWlwWkVOd3NBUGp2MWZtbEpLMmFvSGFRNnN3OXJwc1RXU0dxOWw3Z1JwbF9RalVES0YxcjZ5MXN4cDR6UzZEWm5oSXpiT1NEWm5keDgtV1oxZFVEMVVxSzFZZnd2bnNMTjJiNGhyNmJrRWVHdjVNZW50RVZMbzljWi1GdmhfQ0xwVWlKczNrLW50Y0U3RHNSSjFEajBlSS00M1l6RkRRLS1MdVpwQQ?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T08:08:57-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "67fd6a774c45bda4d8ab",
+      "titulo": "Tarifa dos EUA tem impacto menor que o esperado para o agro de MS",
+      "resumo": "Tarifa dos EUA tem impacto menor que o esperado para o agro de MS progresso.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEJFTTlmUEJLM0ZxV3Nac2V6MGZpQldqQndHWm5qZEdyRjNsTnJCZ29kSEFTR0RCcTgxRk9oT2lsc1hNOV9ZOVc5aVdoY1ZBQjBBa2QtZzgxb2I1aGhKMXNydF9aVzZ4STZsR2RNY0xCbk5yeGVqcHZxT0FYVDZ2aE5LcThQQmVpZGstMzNpTFVPSkhVVWEwVmlEUlJvbC1JWE9GQUNPWERIOWZpaU8wQkZB?oc=5",
+      "fonte": "progresso.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-21T16:15:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -220,6 +251,22 @@
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "5903a2ba6d25c2046307",
+      "titulo": "Tarifaço: setor madeireiro opera com metade da capacidade e cobra retomada imediata de negociação com os EUA",
+      "resumo": "Tarifaço: setor madeireiro opera com metade da capacidade e cobra retomada imediata de negociação com os EUA Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaVphOVdONzBOYWxkb0NBaWJjeldhb2czZjVpQlBhUmJOQk40djF0UzF3ZDU3ai01VlR3UUt4UG4zdF9RRlJtN2d0aGhLMEdQdnRIdFhQZVFPeHg4eG9PWVhfRXlfNmg3a0U0cFdURGJvR3NMUjhoQ1l1YXUzeGZYZjk4Njd4ZFpOLTJoUEdzbENfX091bGUteVoweHVOVHI5VVJKTUIycjk2cnZWd2psMS13VHFqczRBdGZTVjY3LUdhS3Zxb2N4MFhLY3RVZTA5ODVldmVPU05Odw?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-18T06:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
       "tags": [
         "tarifa",
         "Brasil"
@@ -877,6 +924,22 @@
         "tarifa",
         "Brasil",
         "madeira",
+        "USTR"
+      ]
+    },
+    {
+      "id": "94895468b3b0fe050c28",
+      "titulo": "APRE Florestas acompanha as audiências de comércio exterior dos Estados Unidos e aguarda com expectativa a decisão do dia 15",
+      "resumo": "APRE Florestas acompanha as audiências de comércio exterior dos Estados Unidos e aguarda com expectativa a decisão do dia 15 Diário Indústria & Comércio",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYllGWjI3bk5NTU9NREJGUXV1aFVabl9vREYzUFR5NFJndndybl9qTTZXc1RyUHcxOTJybXNLeXUza2U4cXRrSTE2aVJSdlJCbXVUUjRHRDVVNWZJTmpJbVlmeE43MnMxaGp0cVBBakFmdVk1NkhMS0xPSGp2Vkk0dW9vaXlnY0JneVFvVU9kNldHbTNObXd5eDBpZnZXU1ZjUEU2Qmx5VXpQXzFDMkdvdEp2bTRuc0Vic2cwXzgzZFhXRU9uSlVvaTFzSjU4ZDVQUHFOZ1EwQ1cwdjBTQl9hV25mOGV1OGhyRmVmX0dtOXZYazA5UC1MNkpEWVExeUNCbGQ3MA?oc=5",
+      "fonte": "Diário Indústria & Comércio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-08T19:12:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "Estados Unidos",
         "USTR"
       ]
     },
