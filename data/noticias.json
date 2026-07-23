@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-22T12:53:40.401570-03:00",
+    "atualizado_em": "2026-07-23T13:08:15.347627-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 255,
+    "novos_itens_encontrados": 262,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T12:53:40.378758-03:00",
+      "data_publicacao": "2026-07-23T13:08:15.320034-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T12:53:40.377662-03:00",
+      "data_publicacao": "2026-07-23T13:08:15.318878-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-22T12:53:40.349835-03:00",
+      "data_publicacao": "2026-07-23T13:08:15.285430-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-22T12:53:39.703577-03:00",
+      "data_publicacao": "2026-07-23T13:08:14.837602-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +84,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-22T12:53:39.698640-03:00",
+      "data_publicacao": "2026-07-23T13:08:14.832562-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -92,6 +92,73 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "065942fb8417e8ae4975",
+      "titulo": "Associação alerta para risco de demissões no setor madeireiro por tarifa dos EUA",
+      "resumo": "Associação alerta para risco de demissões no setor madeireiro por tarifa dos EUA n3news.com.br",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3RzN1N5VU9WM1Y0M1E1eU1xbUdVT1VBVnFtTC10OVVuaWp0MFpZWnpoelloc0EzTENhaFB5eHlPaUlsWktnUFc0WVo1YTROSjdVMVNKc3VoUzFfam8tR0FZQlZGT2lBaUhwX054NGhxSHRYQkpmZWdxVmhIY3ViN2pYek5tUkFib0hvTEZFbnVUaGxhanc?oc=5",
+      "fonte": "n3news.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-23T09:18:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
+      "id": "b16221f0d3ac47d26241",
+      "titulo": "Tarifa dos Estados Unidos ameaça setor da madeira no Paraná e já afeta empresas",
+      "resumo": "Tarifa dos Estados Unidos ameaça setor da madeira no Paraná e já afeta empresas CBN Curitiba",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOE9CN2NtRVliN18wQ3pQT1AxZFVZLXJ0NVRSZkFEYWI5cTNkOUVkaHlvMHZlS00zQ3NmT3YwaVZuLXQxdVJtbU1zQ2xDLXVnWk41WjRYRjhBT0U2bXdteTM2TVpqeGhqRXA0dmxmUzFTRHVUTHFwcG1uRlR3VTk3d1pKVHhuX2hqZlNTVmhLaGl4eGdnZTZWa0lQU041MlhrS3BpRDBBeW4wX281NmF1UTdITFl5UUk?oc=5",
+      "fonte": "CBN Curitiba",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-07-22T18:43:54-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Estados Unidos",
+        "madeira"
+      ]
+    },
+    {
+      "id": "2bbd54e6d232e2dadd93",
+      "titulo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira",
+      "resumo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira Canal Rural",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzZtM05COFlsbWhxY0xyVXctXzFXVnRyLXJ4OUhkcUI2a3U5cmhYRGQ0TVJTdzhvTjVYaXhEdXktR0pKT2tndE8talVKZEdyMnJITzQ2OGZaM0pIUWhnWXNia0ZKSU1LbmZFVE1jZFI0d25NZ0EteWhfaWhEOWFDMGlWbEJjZ3l6NC1COTUtcDRoaXR3bWpvQUhyQ3ZzbzF0MHg1VUF2S042ejR6dzdkWVlQejgzOFBybUs4?oc=5",
+      "fonte": "Canal Rural",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T17:06:04-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações",
+        "USTR"
+      ]
+    },
+    {
+      "id": "bd5a7816d9d6b69ed76f",
+      "titulo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço",
+      "resumo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2FSdlByQzFmN1RfLUxOWjlFd2plelFZQV9zZVZEaXRXMzFwSmZfNmtEaEtjRS1VMm04dUtveHRtUVJkSWllbHdEOFVDbXkxTW1aRHhlajhwRmZvaGRDME4xWktpVDlDVnBXTzE4Mm5IR0ZTTU1BTzdKRjc1cFFwd3VsclJONFlSU3V3VHhZZk13V3NzRGpmRi1ibVgtRENWWXZodmZSSHM?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T15:07:17-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
@@ -795,6 +862,23 @@
       ]
     },
     {
+      "id": "b6ac6cdcd01893eed31b",
+      "titulo": "Tarifaço: Indústria madeireira critica sobretaxa e cobra negociação do governo brasileiro",
+      "resumo": "Tarifaço: Indústria madeireira critica sobretaxa e cobra negociação do governo brasileiro Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUk5VjFsVWlIRkZLTWxJM0diUE1PMkdWMHNMcVV1c0FHa3Fyd2gwM1lyNXJUb2VONXh2Wmh3alZaeV82VzZacldYRFJLT2RkNlVfTFBOTWh5VldNV2NIRU0xLUQtNk9QRGxHQWNudDYzd1pfT1IyODUtS2dtTFRISnY5TU9hTTRGXzNaVGJLX015SXB4Z3ZNT1NQOEJPRWJ3MXl0UXVPZlFkdm56NHE4Mzg1YVFDVWcxZWt4VTBsZ20?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T13:15:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "critica",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "USTR"
+      ]
+    },
+    {
       "id": "202fa49ccbd222eb8432",
       "titulo": "Tarifaço compromete continuidade de negócios nos EUA, diz indústria madeireira brasileira",
       "resumo": "Tarifaço compromete continuidade de negócios nos EUA, diz indústria madeireira brasileira Valor Econômico",
@@ -1123,6 +1207,22 @@
       ]
     },
     {
+      "id": "d1deb5f08e989998fd36",
+      "titulo": "Nem Trump convence o mercado: empresas dos EUA afirmam que o Brasil não tem substituto, pressionam Washington contra a tarifa de 25% e alertam que a medida pode elevar preços, provocar demissões, atrasar obras e prejudicar setores que depe…",
+      "resumo": "Nem Trump convence o mercado: empresas dos EUA afirmam que o Brasil não tem substituto, pressionam Washington contra a tarifa de 25% e alertam que a medida pode elevar preços, provocar demissões, atrasar obras e prejudicar setores que dependem CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTF5Z3BVRGJ5eXF5ZVZYNmlqLUhJMGpYN05KdTlkRkRBZVozeFVtRkpvZUVLY3piSDZOX18tSmtNNnAxQ0lkTWs2czVhZVV3emJYS1Y3QWx1Z0p3TklIbE9JTTVfMkFrU0VjWGhsQUpqVG12X3FGTkZ4Zmoxal92QWxkNVRnQmZYcEpEaXE0WklnNWM?oc=5",
+      "fonte": "CPG Click Petróleo e Gás",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-20T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "7404d6c6426728e96a27",
       "titulo": "Tarifaço coloca em risco exportações e empregos no Sul, Sudeste e Nordeste",
       "resumo": "Tarifaço coloca em risco exportações e empregos no Sul, Sudeste e Nordeste DComercio",
@@ -1206,10 +1306,10 @@
       ]
     },
     {
-      "id": "cc9f0ca2642cb27fadd6",
+      "id": "6a6d5991dcf8e6bda09f",
       "titulo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA",
       "resumo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA G1",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaGFOUlBqU296SXpwUnF1VzMxd2VQWEFocUxUZnduVlBBYTNad0pkeG9Zd0QzSWZxWDBIV1VmVEM3OGhUV2ZrMDlRbXc5Z2dWUURjREFiZWNZS0xTbWJsWlZzeno0ZC16RFZFeF9tZ1VMTlNBTXYwbVFlU190T0JXdkIyaXkxd0VLcnJZQzVmWGJOb3J5eWlRVjh5XzFFdVpLRUdwUHJpZGd0RlNBZTRYOWpzS2JmcGhGNmFnb0l4NjB0c2dlQXhhU0RwWWRrMEcteGo4VnVlc0QwZzVGMVlKS0pCaWE2VDdodXhucjZGVGlUWjJoRG56YjN3akJVNzJMMTBySnd6Mm94WmVmeWJBMnJzQlVsOVdzbXpv0gGqAkFVX3lxTE9Ndkd1Yy14dGs4djdtTjVvdmw2SDB3ellsSFpyaVFZbXFvZlpobFJUTk9GTkl3M2JfM0F4Qk1mZkw5M21SRkd1eGV5NW1vNjlsbDkwS0k5NUdRaWQ2SzN2bzJyTENVb1d3OHc3TzFnanVYekp6YlM5U19GOW5OYk5INXRraGRqMTd0U0k3Q1JNMk04WWxhQWhHeGJEQmpzd2ZpdHMwcVkwLUJzU29pY29xTEw0VHc0WDZENWZuT0Jhem9EY3NRSHVtN1hCZDMwbm5rYkF5eTdDb0FlQ21wU1g3c2kxLVFZcDNCRldmMTdGYUc1amd4ZWoxUDd0amtSbGNoZXVhVVFaVVRnd3dHM29wWnZ6Z0d6eFdIV3hZLVdGREctY0IwSjI2RVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaGFOUlBqU296SXpwUnF1VzMxd2VQWEFocUxUZnduVlBBYTNad0pkeG9Zd0QzSWZxWDBIV1VmVEM3OGhUV2ZrMDlRbXc5Z2dWUURjREFiZWNZS0xTbWJsWlZzeno0ZC16RFZFeF9tZ1VMTlNBTXYwbVFlU190T0JXdkIyaXkxd0VLcnJZQzVmWGJOb3J5eWlRVjh5XzFFdVpLRUdwUHJpZGd0RlNBZTRYOWpzS2JmcGhGNmFnb0l4NjB0c2dlQXhhU0RwWWRrMEcteGo4VnVlc0QwZzVGMVlKS0pCaWE2VDdodXhucjZGVGlUWjJoRG56YjN3akJVNzJMMTBySnd6Mm94WmVmeWJBMnJzQlVsOVdzbXpv?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
@@ -1367,6 +1467,24 @@
         "Brasil",
         "madeira",
         "exportações"
+      ]
+    },
+    {
+      "id": "39f0d31becd7670e1b9e",
+      "titulo": "UE confirma tarifa antidumping contra compensados de madeira do Brasil",
+      "resumo": "UE confirma tarifa antidumping contra compensados de madeira do Brasil Terra",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTc5OXQ5MThnbDRFZEhtUGI3dEZnT1M0ZUlQQkJTYTVfWDdyWEpneHNVRDQwd3VhM1FUWXp1aVAzU2lRX0RNWFYya1VQVzlfSHdWaDk3VG5mYnc1aWtCcGc2ZGdrVjVpVjFvcHJiajN5ZDNTMU5ES2J6d1BaNTRLdUdlTV9ObmF5b2lfREl0RDFOZEZzbnRzQVZMdlE0Qjk5Z2pxUEFFc09BVFY4RjlKeDdRZXpMZC1uT1A1RXo4dzJiNE9vaXkxZmtoV1gxbWdQcUhtNmVjc0NwdmV5X1ZlZkJVYlZHTmZPdjhQMQ?oc=5",
+      "fonte": "Terra",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-04-15T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira",
+        "compensado"
       ]
     },
     {
