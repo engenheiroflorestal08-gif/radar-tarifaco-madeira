@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-23T13:08:15.347627-03:00",
+    "atualizado_em": "2026-07-24T12:18:38.578514-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 262,
+    "novos_itens_encontrados": 250,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-23T13:08:15.320034-03:00",
+      "data_publicacao": "2026-07-24T12:18:38.551885-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-23T13:08:15.318878-03:00",
+      "data_publicacao": "2026-07-24T12:18:38.550738-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-23T13:08:15.285430-03:00",
+      "data_publicacao": "2026-07-24T12:18:38.515376-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-23T13:08:14.837602-03:00",
+      "data_publicacao": "2026-07-24T12:18:37.889369-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +84,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-23T13:08:14.832562-03:00",
+      "data_publicacao": "2026-07-24T12:18:37.884251-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -92,6 +92,38 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "bf41d5737076d0cdc76b",
+      "titulo": "Estados Unidos isentam 471 produtos de nova tarifa de 12,5% - Portal IN - Pompeu Vasconcelos",
+      "resumo": "Estados Unidos isentam 471 produtos de nova tarifa de 12,5% - Portal IN - Pompeu Vasconcelos Balada IN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmIyMGNJUmdrS2lnc2kzeW9CYThCZ2ozZWpnWE5Kbm02TUdTUERxNjNiQUhDQjZoZUZ2WEhfTk04UzlHM0hMQlh1NkU0bTJjbWZfVVMyOFc1VUZuSjBGTTN2dzRYay1vYkthd1AtSUFIRU03OEhsYnRkYjh2cDVsZ25pUkFkNExNenNuWElWT0g0c2EyYWJVR2VjRQ?oc=5",
+      "fonte": "Balada IN",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T00:01:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "id": "7255255677fd1f20b1d8",
+      "titulo": "“O que estava ruim, ficou pior”, diz Abicalçados sobre taxação dupla dos EUA que eleva tarifa a 37,5%",
+      "resumo": "“O que estava ruim, ficou pior”, diz Abicalçados sobre taxação dupla dos EUA que eleva tarifa a 37,5% Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVY4VDR0ZmZQVnFlYWFySFE0NVFDbXdRZm55VHdnLXhVMlNHX1ZwcTEwT3h6eWIzRnpTRHBzNUV5Y3E5MURCQlVob0JnZi14bmRTVFRpVjJrNGgzVk5CT25XcGF5TDBTT2ZLTjNLYTg4TXFXZFdEdHNFWjlKZ2NaVTFMM2hMNnVXOXUxdHZ6WFhYS1pVVnh1SGRsUVpPN1dkcHVGZkZQYXYzejhFWnNlNDNHM05ITkloNmlJemxZMkNkRVNody1KRVR3?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-23T22:34:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -127,6 +159,23 @@
       ]
     },
     {
+      "id": "bd5a7816d9d6b69ed76f",
+      "titulo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço",
+      "resumo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2FSdlByQzFmN1RfLUxOWjlFd2plelFZQV9zZVZEaXRXMzFwSmZfNmtEaEtjRS1VMm04dUtveHRtUVJkSWllbHdEOFVDbXkxTW1aRHhlajhwRmZvaGRDME4xWktpVDlDVnBXTzE4Mm5IR0ZTTU1BTzdKRjc1cFFwd3VsclJONFlSU3V3VHhZZk13V3NzRGpmRi1ibVgtRENWWXZodmZSSHM?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T18:07:17-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
       "id": "2bbd54e6d232e2dadd93",
       "titulo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira",
       "resumo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira Canal Rural",
@@ -142,23 +191,6 @@
         "Brasil",
         "exportações",
         "USTR"
-      ]
-    },
-    {
-      "id": "bd5a7816d9d6b69ed76f",
-      "titulo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço",
-      "resumo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2FSdlByQzFmN1RfLUxOWjlFd2plelFZQV9zZVZEaXRXMzFwSmZfNmtEaEtjRS1VMm04dUtveHRtUVJkSWllbHdEOFVDbXkxTW1aRHhlajhwRmZvaGRDME4xWktpVDlDVnBXTzE4Mm5IR0ZTTU1BTzdKRjc1cFFwd3VsclJONFlSU3V3VHhZZk13V3NzRGpmRi1ibVgtRENWWXZodmZSSHM?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-22T15:07:17-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
       ]
     },
     {
@@ -320,6 +352,22 @@
         "tarifa",
         "Brasil",
         "Estados Unidos"
+      ]
+    },
+    {
+      "id": "844fc39f672c79bbeed3",
+      "titulo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil?",
+      "resumo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil? band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0dhSmtmcEJsSGZ0eXVjbVRXVHh6NVFWSzVhUkM4RDlidGxwbk5WM2ViMWxOQ0pJc2VBWEdCTVFpS3RuOVd3NEhISEUwamNYUjhESTIxRFE0cXh3ZUJKMDZrdDlYY1pBM054SVp2Rko3cHVSY2g4YlVUTm5OaTU1ZFd2TWJjWjBLT3A1czd1RG1iRHkzN2JhM0UxZlQza2RnUmw3SExOLTA3OVUyT3hEU0VTaUN5cm5Rbkw1cUcxenRndktM?oc=5",
+      "fonte": "band.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-19T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -846,22 +894,6 @@
       ]
     },
     {
-      "id": "844fc39f672c79bbeed3",
-      "titulo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil?",
-      "resumo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil? band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0dhSmtmcEJsSGZ0eXVjbVRXVHh6NVFWSzVhUkM4RDlidGxwbk5WM2ViMWxOQ0pJc2VBWEdCTVFpS3RuOVd3NEhISEUwamNYUjhESTIxRFE0cXh3ZUJKMDZrdDlYY1pBM054SVp2Rko3cHVSY2g4YlVUTm5OaTU1ZFd2TWJjWjBLT3A1czd1RG1iRHkzN2JhM0UxZlQza2RnUmw3SExOLTA3OVUyT3hEU0VTaUN5cm5Rbkw1cUcxenRndktM?oc=5",
-      "fonte": "band.com.br",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T13:25:33-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
       "id": "b6ac6cdcd01893eed31b",
       "titulo": "Tarifaço: Indústria madeireira critica sobretaxa e cobra negociação do governo brasileiro",
       "resumo": "Tarifaço: Indústria madeireira critica sobretaxa e cobra negociação do governo brasileiro Times Brasil | CNBC",
@@ -953,7 +985,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzJaZUlwNTVxaDFDX3B0UEd1QW53S3ZGcUVqWUhmcnluUmpMY2JJbUw2S1pBYlNDcTc1Tzl1Vkl6UzVuTjl4UVJZcXA3cnh4Q1RXUGN0MlJhSHZNV190T0lNRFRpdnFsY2lGZEhBSVRtbW9qTE9FZHFwMjhieDBEMHBmNjlVS3Z5TVA5Y01vMENVNjY0THYzYV9kU05CTEthME96bmZ3MUFKazRpa09CcW52c3Vhby1lUThtZUtQNXRIQnNjTFJxMFFVa9IB2gFBVV95cUxQT290NzJubnNKTkdDblhTYW1PUVNWTjloUC1UbW1IUjMtYVdIZ2NZSEZYMTZHb1A0bEk0NFFQX3k2U3J1ZGFQRWhydF9tYnd6S3hEYlRBT1RpbW5WSUNsUkJVNXZiVXpwVDR4S1VCZ1ZrVVZZMjFFSndTeEE0WFR4RTZEYldpRUljYmoxTXNFa29pd1JmdXoweGFBSXMzbFVMZ2V6MnVOVmRhNU5ZSEhQR2NBUjF4eFNwVE1GbU9JOFNUbW5HU0Jic3JDWDMxY0hXcVhHQXNDaDhYUQ?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T00:25:05-03:00",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -1017,6 +1049,22 @@
       "fonte": "BH 24 Horas",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-13T19:43:18-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "d39f2a503d1fe0a0a49d",
+      "titulo": "Tarifas de 25% dos EUA sobre Brasil serão definidas nesta quarta (15)",
+      "resumo": "Tarifas de 25% dos EUA sobre Brasil serão definidas nesta quarta (15) Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUk3cVEyWGNoamFoZjJFblg0UnBfMk1GTjZMQ2hnOHpRRXU0akhzcW1YSkhkV2lvTTdlZkpDeElfZHJ0WFZYLUVsSW5TMHRaVDMwejVnQ0RFMmtrVnl3YWV2cEZtMGVaLVpQa252MW13V1U5dU5TNWdyelQxbndwSm43SQ?oc=5",
+      "fonte": "Rádio Itatiaia",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-13T04:00:00-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -1433,6 +1481,22 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "630c90d01b3d9fb464cd",
+      "titulo": "Urgente: Tarifa de Trump ameaça competitividade dos nossos móveis",
+      "resumo": "Urgente: Tarifa de Trump ameaça competitividade dos nossos móveis Móveis de Valor",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjNRdjkxSy1GZ3N5VVBFX2tZai05Y1pDZmJKZ1AtaE4zUGZQLThvRXVqWnREZ1RpRGF6ei1TSnI5X3lPYWZGNktNR3pBekwwMFRMMGJDNDVRX1pJY3hxNEppczdXc280bHdNeHVYVzlLeU5OMTVGYi12RmN6ZzBYdmR0WDdHZjROTHRpSTZVd190RDZKbDh2cFB0WWNSN2c?oc=5",
+      "fonte": "Móveis de Valor",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "competitividade"
       ]
     },
     {
