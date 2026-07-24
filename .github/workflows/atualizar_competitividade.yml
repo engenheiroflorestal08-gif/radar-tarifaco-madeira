@@ -1,0 +1,49 @@
+name: Atualizar competitividade de molduras
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Executa diariamente as 10:30 UTC, aproximadamente 07:30 em Sao Paulo.
+    - cron: "30 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-competitividade-molduras
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Atualizar competitividade
+        run: python scripts/atualizar_competitividade.py
+
+      - name: Salvar alteracoes
+        run: |
+          git config user.name "radar-tarifaco-bot"
+          git config user.email "radar-tarifaco-bot@users.noreply.github.com"
+          git add data/competitividade.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao encontrada."
+          else
+            git commit -m "Atualiza competitividade de molduras"
+            git push
+          fi
