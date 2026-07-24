@@ -1,28 +1,33 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Painel diário de notícias e alertas sobre tarifas comerciais e a indústria brasileira da madeira." />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Radar de tarifas, comércio exterior e competitividade de molduras de pinus no mercado dos Estados Unidos.">
   <title>Radar Tarifaço & Madeira</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+  <script src="assets/competitividade.js" defer></script>
 </head>
 <body>
   <header class="hero">
     <nav class="nav shell">
-      <a class="brand" href="#top" aria-label="Radar Tarifaço e Madeira">
+      <a class="brand" href="#top" aria-label="Radar Tarifaço">
         <span class="brand-mark">TM</span>
         <span><strong>Radar Tarifaço</strong><small>Indústria da madeira</small></span>
       </a>
       <div class="nav-actions">
-        <span id="update-status" class="status-pill"><span class="pulse"></span>Carregando dados</span>
-        <button id="theme-toggle" class="icon-button" type="button" aria-label="Alternar tema">◐</button>
+        <span class="status-pill"><span class="pulse"></span><span id="update-status">Carregando dados</span></span>
+        <button class="icon-button" id="theme-toggle" type="button" title="Alternar tema" aria-label="Alternar tema">◐</button>
       </div>
     </nav>
 
-    <section id="top" class="hero-content shell">
+    <div class="hero-content shell" id="top">
       <div>
-        <p class="eyebrow">MONITORAMENTO DIÁRIO</p>
+        <span class="eyebrow">MONITORAMENTO DIÁRIO</span>
         <h1>Tarifas, comércio exterior e impactos na madeira.</h1>
         <p class="hero-copy">Um painel enxuto para acompanhar notícias, medidas oficiais e sinais relevantes para empresas brasileiras do setor madeireiro.</p>
       </div>
@@ -31,55 +36,98 @@
         <strong id="last-update">—</strong>
         <p id="coverage-text">Aguardando leitura do arquivo de dados.</p>
       </aside>
-    </section>
+    </div>
   </header>
 
-  <main class="shell main-content">
-    <section class="metric-grid" aria-label="Indicadores principais">
-      <article class="metric-card">
-        <span>Total monitorado</span>
-        <strong id="metric-total">0</strong>
-        <small>itens na base</small>
-      </article>
-      <article class="metric-card critical-card">
-        <span>Alertas críticos</span>
-        <strong id="metric-critical">0</strong>
-        <small>alta relevância</small>
-      </article>
-      <article class="metric-card">
-        <span>Foco em madeira</span>
-        <strong id="metric-wood">0</strong>
-        <small>notícias do setor</small>
-      </article>
-      <article class="metric-card">
-        <span>Fontes oficiais</span>
-        <strong id="metric-official">0</strong>
-        <small>governos e órgãos</small>
-      </article>
+  <main class="main-content shell">
+    <section class="metric-grid" aria-label="Indicadores do radar">
+      <article class="metric-card"><span>Total monitorado</span><strong id="metric-total">0</strong><small>itens na base</small></article>
+      <article class="metric-card critical-card"><span>Alertas críticos</span><strong id="metric-critical">0</strong><small>alta relevância</small></article>
+      <article class="metric-card"><span>Foco em madeira</span><strong id="metric-wood">0</strong><small>notícias do setor</small></article>
+      <article class="metric-card"><span>Fontes oficiais</span><strong id="metric-official">0</strong><small>governos e órgãos</small></article>
     </section>
 
-    <section id="critical-banner" class="critical-banner hidden" aria-live="polite">
-      <div>
-        <span class="banner-kicker">ATENÇÃO</span>
-        <strong id="critical-title">Há novos acontecimentos de alta relevância.</strong>
-        <p id="critical-description"></p>
-      </div>
+    <section class="critical-banner hidden" id="critical-banner">
+      <div><span class="banner-kicker">ATENÇÃO</span><strong id="critical-title">Há novos acontecimentos de alta relevância.</strong><p id="critical-description"></p></div>
       <button id="show-critical" type="button">Ver alertas</button>
     </section>
 
-    <section class="workspace">
-      <aside class="sidebar">
-        <div class="panel-block">
-          <div class="section-heading compact">
-            <div>
-              <span class="section-label">VISÃO GERAL</span>
-              <h2>Distribuição</h2>
-            </div>
-          </div>
-          <div id="category-chart" class="bar-chart" aria-label="Distribuição por categoria"></div>
+    <section class="competitiveness-panel" id="competitividade">
+      <div class="section-heading competitiveness-heading">
+        <div>
+          <span class="section-label">COMPETITIVIDADE INTERNACIONAL</span>
+          <h2>Molduras de pinus no mercado dos Estados Unidos</h2>
+          <p class="section-intro">Comparação de valor unitário de importação, tarifa e preço equivalente após a tarifa para os códigos HTS 4409.10.40.10 e 4409.10.40.90.</p>
         </div>
+        <div class="competition-status">
+          <span id="competition-status-badge">Carregando</span>
+          <small id="competition-period">Período: —</small>
+        </div>
+      </div>
 
-        <div class="panel-block source-block">
+      <div class="competition-controls">
+        <div class="profile-control">
+          <label for="profile-thickness">Espessura do perfil</label>
+          <div><input id="profile-thickness" type="number" min="1" step="0.1" value="18"><span>mm</span></div>
+        </div>
+        <div class="profile-control">
+          <label for="profile-width">Largura do perfil</label>
+          <div><input id="profile-width" type="number" min="1" step="0.1" value="70"><span>mm</span></div>
+        </div>
+        <button class="recalc-button" id="recalc-competition" type="button">Recalcular US$/m³</button>
+        <p class="profile-note">A conversão para m³ usa uma seção retangular equivalente. Ajuste as dimensões para o perfil que deseja comparar.</p>
+      </div>
+
+      <div class="competition-rankings">
+        <article class="ranking-card">
+          <span>Maior tarifa aplicada</span>
+          <strong id="ranking-tariff-country">—</strong>
+          <small id="ranking-tariff-value">—</small>
+        </article>
+        <article class="ranking-card">
+          <span>Maior preço médio</span>
+          <strong id="ranking-price-country">—</strong>
+          <small id="ranking-price-value">—</small>
+        </article>
+        <article class="ranking-card highlight-ranking">
+          <span>Menor preço após tarifa</span>
+          <strong id="ranking-landed-country">—</strong>
+          <small id="ranking-landed-value">—</small>
+        </article>
+      </div>
+
+      <div class="table-wrap">
+        <table class="competition-table">
+          <thead>
+            <tr>
+              <th>País</th>
+              <th>Preço médio<br><small>US$/m linear</small></th>
+              <th>Preço equivalente<br><small>US$/m³</small></th>
+              <th>Tarifa legal<br><small>atual/configurada</small></th>
+              <th>Tarifa efetiva<br><small>observada no mês</small></th>
+              <th>Preço após tarifa<br><small>US$/m³</small></th>
+              <th>Volume<br><small>m lineares</small></th>
+            </tr>
+          </thead>
+          <tbody id="competition-body">
+            <tr><td colspan="7" class="table-loading">Carregando dados de competitividade…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="competition-footnotes">
+        <p id="competition-message">O preço médio é calculado pelo valor aduaneiro dividido pela quantidade importada.</p>
+        <p><strong>Importante:</strong> o valor unitário de importação é uma aproximação estatística, não o preço comercial praticado pela BrasPine ou por empresas concorrentes.</p>
+      </div>
+    </section>
+
+    <div class="workspace">
+      <aside class="sidebar">
+        <section class="panel-block">
+          <span class="section-label">VISÃO GERAL</span>
+          <h2>Distribuição</h2>
+          <div class="bar-chart" id="category-chart"></div>
+        </section>
+        <section class="panel-block source-block">
           <span class="section-label">FONTES PRIORITÁRIAS</span>
           <ul>
             <li><span>USTR e Federal Register</span><b>Oficial EUA</b></li>
@@ -87,83 +135,47 @@
             <li><span>ABIMCI e setor florestal</span><b>Setorial</b></li>
             <li><span>Imprensa econômica</span><b>Notícias</b></li>
           </ul>
-        </div>
-
-        <div class="panel-block disclaimer">
+        </section>
+        <section class="panel-block disclaimer">
           <span class="section-label">IMPORTANTE</span>
           <p>O painel é informativo. Confirme decisões comerciais, jurídicas ou aduaneiras nas fontes oficiais e com especialistas responsáveis.</p>
-        </div>
+        </section>
       </aside>
 
       <section class="feed-panel">
-        <div class="section-heading">
-          <div>
-            <span class="section-label">RADAR DE NOTÍCIAS</span>
-            <h2>Atualizações encontradas</h2>
-          </div>
-          <span id="result-count" class="result-count">0 resultados</span>
+        <div class="section-heading compact">
+          <div><span class="section-label">RADAR DE NOTÍCIAS</span><h2>Atualizações encontradas</h2></div>
+          <span class="result-count" id="result-count">0 resultados</span>
         </div>
-
-        <div class="filters" role="search">
-          <label class="search-field">
-            <span aria-hidden="true">⌕</span>
-            <input id="search-input" type="search" placeholder="Buscar por tarifa, madeira, produto, empresa..." autocomplete="off" />
-          </label>
-          <select id="category-filter" aria-label="Filtrar por categoria">
-            <option value="all">Todas as categorias</option>
+        <div class="filters">
+          <label class="search-field"><span>⌕</span><input id="search-input" type="search" placeholder="Pesquisar assunto, fonte ou produto"></label>
+          <select id="category-filter"><option value="all">Todas as categorias</option></select>
+          <select id="priority-filter">
+            <option value="all">Todas as prioridades</option><option value="critica">Crítica</option><option value="alta">Alta</option><option value="media">Média</option><option value="baixa">Baixa</option>
           </select>
-          <select id="priority-filter" aria-label="Filtrar por prioridade">
-            <option value="all">Todas as prioridades</option>
-            <option value="critica">Crítica</option>
-            <option value="alta">Alta</option>
-            <option value="media">Média</option>
-            <option value="baixa">Baixa</option>
-          </select>
-          <select id="period-filter" aria-label="Filtrar por período">
-            <option value="all">Todo o período</option>
-            <option value="1">Últimas 24 horas</option>
-            <option value="7">Últimos 7 dias</option>
-            <option value="30">Últimos 30 dias</option>
-            <option value="90">Últimos 90 dias</option>
-          </select>
+          <select id="period-filter"><option value="all">Todo o período</option><option value="1">Últimas 24 horas</option><option value="7">Últimos 7 dias</option><option value="30">Últimos 30 dias</option><option value="90">Últimos 90 dias</option></select>
         </div>
-
-        <div id="news-list" class="news-list" aria-live="polite"></div>
-        <div id="empty-state" class="empty-state hidden">
-          <strong>Nenhum item encontrado</strong>
-          <p>Tente remover algum filtro ou pesquisar outro termo.</p>
-        </div>
+        <div class="news-list" id="news-list"></div>
+        <div class="empty-state hidden" id="empty-state"><strong>Nenhum item encontrado</strong><p>Tente remover algum filtro ou pesquisar outro termo.</p></div>
       </section>
-    </section>
-  </main>
-
-  <footer>
-    <div class="shell footer-content">
-      <div>
-        <strong>Radar Tarifaço & Madeira</strong>
-        <p>MVP de monitoramento público. Não armazena informações internas da BrasPine.</p>
-      </div>
-      <a href="README.md">Como funciona</a>
     </div>
-  </footer>
+  </main>
 
   <template id="news-card-template">
     <article class="news-card">
-      <div class="news-meta">
-        <span class="priority-badge"></span>
-        <span class="category-badge"></span>
-        <span class="source-type"></span>
-      </div>
+      <div class="news-meta"><span class="priority-badge"></span><span class="category-badge"></span><span class="source-type"></span></div>
       <h3><a class="news-link" target="_blank" rel="noopener noreferrer"></a></h3>
       <p class="news-summary"></p>
-      <div class="news-footer">
-        <span class="news-source"></span>
-        <time class="news-date"></time>
-      </div>
+      <div class="news-footer"><span class="news-source"></span><time class="news-date"></time></div>
       <div class="news-tags"></div>
     </article>
   </template>
 
-  <script src="assets/app.js" defer></script>
+  <footer>
+    <div class="footer-content shell">
+      <div><strong>Radar Tarifaço & Madeira</strong><p>MVP de monitoramento público. Não armazena informações internas da BrasPine.</p></div>
+      <a href="README.md">Como funciona</a>
+    </div>
+  </footer>
 </body>
 </html>

@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "atualizado_em": "2026-07-24T14:51:19-03:00",
+    "periodo_referencia": "aguardando integração com U.S. Census",
+    "status": "aguardando_chave",
+    "mensagem": "A tabela está pronta, mas a API do U.S. Census exige uma chave gratuita. Cadastre CENSUS_API_KEY nos Secrets do GitHub e execute novamente o workflow.",
+    "fonte_precos": "U.S. Census Bureau - Monthly U.S. Imports by Harmonized System",
+    "fonte_tarifas_efetivas": "Calculated Duty / Customs Value, U.S. Census Bureau",
+    "hts": [
+      "4409104010",
+      "4409104090"
+    ]
+  },
+  "perfil_conversao": {
+    "espessura_mm": 18,
+    "largura_mm": 70,
+    "descricao": "Seção retangular equivalente editável no painel"
+  },
+  "paises": [
+    {
+      "pais": "Brasil",
+      "iso": "BR",
+      "codigo_census": "3510",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": 25.0,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "USTR - Seção 301",
+      "observacao_tarifa": "25% adicional desde 22/07/2026; confirmar classificação e exceções"
+    },
+    {
+      "pais": "Chile",
+      "iso": "CL",
+      "codigo_census": "3370",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Argentina",
+      "iso": "AR",
+      "codigo_census": "3570",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "México",
+      "iso": "MX",
+      "codigo_census": "2010",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "China",
+      "iso": "CN",
+      "codigo_census": "5700",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Pode incluir medidas adicionais; usar dado efetivamente calculado"
+    },
+    {
+      "pais": "Vietnã",
+      "iso": "VN",
+      "codigo_census": "5520",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Indonésia",
+      "iso": "ID",
+      "codigo_census": "5600",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Malásia",
+      "iso": "MY",
+      "codigo_census": "5570",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Canadá",
+      "iso": "CA",
+      "codigo_census": "1220",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Nova Zelândia",
+      "iso": "NZ",
+      "codigo_census": "6141",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    },
+    {
+      "pais": "Alemanha",
+      "iso": "DE",
+      "codigo_census": "4280",
+      "preco_usd_m_linear": null,
+      "quantidade_m_linear": null,
+      "valor_importado_usd": null,
+      "tarifa_legal_atual_pct": null,
+      "tarifa_efetiva_pct": null,
+      "fonte_tarifa": "Tarifa efetiva observada",
+      "observacao_tarifa": "Será calculada pelos dados mensais do U.S. Census"
+    }
+  ]
+}

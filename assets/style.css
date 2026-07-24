@@ -183,3 +183,69 @@ footer { border-top: 1px solid var(--line); background: var(--surface); }
   .news-footer { flex-direction: column; gap: 4px; }
   .footer-content { align-items: flex-start; flex-direction: column; justify-content: center; }
 }
+
+/* Versao 2 - competitividade de molduras */
+.competitiveness-panel {
+  margin-top: 26px;
+  padding: 26px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.competitiveness-heading { align-items: flex-start; }
+.section-intro { max-width: 780px; color: var(--muted); font-size: 13px; margin: 8px 0 0; }
+.competition-status { min-width: 180px; text-align: right; }
+.competition-status span {
+  display: inline-block; padding: 7px 10px; border-radius: 999px;
+  background: var(--green-soft); color: var(--green); font-size: 11px; font-weight: 800;
+}
+.competition-status span.warning { background: var(--amber-soft); color: var(--amber); }
+.competition-status span.error { background: var(--red-soft); color: var(--red); }
+.competition-status small { display: block; margin-top: 7px; color: var(--muted); font-size: 10px; }
+.competition-controls {
+  display: grid; grid-template-columns: 160px 160px auto 1fr; gap: 12px; align-items: end;
+  margin: 22px 0 16px; padding: 16px; border-radius: 14px; background: var(--surface-alt);
+}
+.profile-control label { display: block; font-size: 10px; font-weight: 800; color: var(--muted); margin-bottom: 6px; }
+.profile-control div { display: flex; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.profile-control input { width: 100%; height: 40px; border: 0; outline: 0; background: transparent; color: var(--text); padding: 0 10px; }
+.profile-control div span { padding-right: 10px; font-size: 11px; color: var(--muted); }
+.recalc-button { height: 42px; border: 0; border-radius: 10px; padding: 0 14px; background: var(--green); color: white; font-weight: 800; cursor: pointer; }
+.profile-note { margin: 0; align-self: center; color: var(--muted); font-size: 11px; }
+.competition-rankings { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 16px; }
+.ranking-card { border: 1px solid var(--line); border-radius: 14px; padding: 16px; background: var(--surface-alt); }
+.ranking-card span, .ranking-card small { display: block; color: var(--muted); }
+.ranking-card span { font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
+.ranking-card strong { display: block; margin: 6px 0 2px; font-size: 20px; }
+.ranking-card small { font-size: 11px; }
+.highlight-ranking { background: var(--green-soft); border-color: color-mix(in srgb, var(--green) 28%, var(--line)); }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
+.competition-table { width: 100%; min-width: 970px; border-collapse: collapse; font-size: 12px; }
+.competition-table th { padding: 13px 12px; text-align: right; background: var(--surface-alt); color: var(--muted); border-bottom: 1px solid var(--line); font-size: 10px; text-transform: uppercase; letter-spacing: .04em; }
+.competition-table th:first-child, .competition-table td:first-child { text-align: left; }
+.competition-table th small { font-size: 9px; text-transform: none; letter-spacing: 0; font-weight: 500; }
+.competition-table td { padding: 13px 12px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.competition-table tbody tr:last-child td { border-bottom: 0; }
+.competition-table tbody tr:hover { background: color-mix(in srgb, var(--green-soft) 45%, transparent); }
+.country-cell { display: flex; align-items: center; gap: 8px; }
+.country-code { width: 28px; height: 22px; display: grid; place-items: center; border-radius: 6px; background: var(--green-soft); color: var(--green); font-size: 9px; font-weight: 800; }
+.country-cell small { display: block; color: var(--muted); font-size: 9px; }
+.value-strong { font-weight: 800; }
+.tariff-high { color: var(--red); font-weight: 800; }
+.tariff-medium { color: var(--amber); font-weight: 800; }
+.table-loading { text-align: center !important; color: var(--muted); padding: 34px !important; }
+.competition-footnotes { margin-top: 12px; color: var(--muted); font-size: 10px; }
+.competition-footnotes p { margin: 4px 0; }
+
+@media (max-width: 980px) {
+  .competition-controls { grid-template-columns: 1fr 1fr; }
+  .profile-note { grid-column: 1 / -1; }
+}
+@media (max-width: 680px) {
+  .competitiveness-panel { padding: 18px; }
+  .competitiveness-heading { flex-direction: column; align-items: flex-start; }
+  .competition-status { text-align: left; }
+  .competition-controls { grid-template-columns: 1fr; }
+  .competition-rankings { grid-template-columns: 1fr; }
+}
