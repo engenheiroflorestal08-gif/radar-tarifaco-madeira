@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-24T12:18:38.578514-03:00",
+    "atualizado_em": "2026-07-25T11:47:02.679943-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 250,
+    "novos_itens_encontrados": 244,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-24T12:18:38.551885-03:00",
+      "data_publicacao": "2026-07-25T11:47:02.654810-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-24T12:18:38.550738-03:00",
+      "data_publicacao": "2026-07-25T11:47:02.653680-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -42,13 +42,32 @@
       ]
     },
     {
+      "id": "0e98136513f49f9d76c9",
+      "titulo": "Alcance das Medidas Tarifárias dos Estados Unidos sobre Exportações Brasileiras",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-07-25T11:47:02.649602-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "Estados Unidos",
+        "exportações",
+        "MDIC"
+      ]
+    },
+    {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
       "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas Anuais",
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-24T12:18:38.515376-03:00",
+      "data_publicacao": "2026-07-25T11:47:02.617186-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +85,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-24T12:18:37.889369-03:00",
+      "data_publicacao": "2026-07-25T11:47:02.135546-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,7 +103,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-24T12:18:37.884251-03:00",
+      "data_publicacao": "2026-07-25T11:47:02.130522-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -92,6 +111,139 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "ccb7a1320dd4b5ce1dc5",
+      "titulo": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade",
+      "resumo": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VzJRNGIxX0FzQ3NKc1pBLXAydjRoaHN6QkNsX3VTMU9GNms1bWJpY2VtWHh1ak1MVzR3M19UUlZINE95WDNmVEE0bUZvTUlNYXgyZEpYajd4NVJpbDBGaTJrdk04eV8xTUNKdnRkYTF4ZUt4YUV3Rw?oc=5",
+      "fonte": "ICL Notícias",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-25T10:32:51-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "competitividade"
+      ]
+    },
+    {
+      "id": "a42ed54f0849d90cbba0",
+      "titulo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor",
+      "resumo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDNMSHRzWVhmOVFkNklicFZoaFFvRld3X0Qwb3QzenkyT0VKRTJWMmRDdTFJTnhha01VVHhUeWdTcl9STXBTZkNaaEVISm1mRHFROGhTQTZPLXEycElYejE3b3A0bVkxcElYVkdwMTBINm82NkVTTUNhazZYRjhyZU9oWllSMEozQnFzcnZFa09xTGNiRE9EUVpOX1VldC1Hc2c?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-25T10:17:46-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
+      ]
+    },
+    {
+      "id": "42b783edfda9bcfc37fe",
+      "titulo": "Geraldo Alckmin critica tarifas dos EUA e defende legislação trabalhista brasileira",
+      "resumo": "Geraldo Alckmin critica tarifas dos EUA e defende legislação trabalhista brasileira blogdosilvalima.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVFZbDhuNWswYzlJWEplUG44U1pLaXE3eVBLcE1WRUpFY0pCU3hnSHZRLW1jYlhvOUdiMklCMVE5R3NCbHhfVTlfdlctNzBXTXdXT2U0dkJEcVpPRzBEM09HSzdZWmR2NzgtZ0xPM0ZLNk5NTVJPQzhRYTA2ZmFvM1ExRjlHaEduYzhQd28xYVdwNkJvWkRwZmk1bFplWElxQnRXaDFFYVFxb2R3LXFjZnYwbTZXQQ?oc=5",
+      "fonte": "blogdosilvalima.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T20:30:31-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "5d2df18d76165ceed410",
+      "titulo": "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil",
+      "resumo": "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil portalsaobentonoticias.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3F4YjFjOHBNWnVndWw3dkJvclY0eFJoc01VTjRTYVF5ZzRKazh3R05kaFpRN0JGNWdBelBSOWducTBLS04zMHU5ZnFmMVdBVWI2bzBFSVJ6MjJWc1YxMTg1QTlRQkhvaktBM2hONU1lS3JWc0VHUGN3TFdDU2FST1l5UXNQRmUzY2JwRnBMSnhUTjgzeE9FTWpLb0VZcXRVcFZsMEdBVlliREwydzJvWkRNRlk?oc=5",
+      "fonte": "portalsaobentonoticias.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T18:48:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
+      "id": "1b266ad36ad37d0b5fbe",
+      "titulo": "Do açúcar à madeira, veja quanto cada setor brasileiro pagará para entrar nos EUA",
+      "resumo": "Do açúcar à madeira, veja quanto cada setor brasileiro pagará para entrar nos EUA Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS00waV9KVldEUXB1T1lVODB1dVJ4OVFwRDNYVm5WRGNGNEdSekk4V1RCQmd2TmFvVGVURVdsYjMyMXdmTUNoVUx0RkZENG00RmlQVGZxc2ZwM1BjU3ozS1dQV05wdjhtdjhoaEZnU3M3bUJfTDVOVGFrbmV1Y3lQQzVZNUNHOTF4R3NjaEdEUkdpRFVqR1gzc3RoeC1HNHZsR3pXalBFd01TbzdHWDRMNEhqMUE3MTlRMng1LW9ncnNIRXpwQjhSSUJjejJJV3R2dG5FNHA5aWh0QQ?oc=5",
+      "fonte": "Tribuna do Sertão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T17:39:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
+      ]
+    },
+    {
+      "id": "218fc150cb32e31fce48",
+      "titulo": "Tarifa dos EUA ameaça exportações da indústria da madeira",
+      "resumo": "Tarifa dos EUA ameaça exportações da indústria da madeira Jornal Dia Dia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTW9BM1k0V1M2dzJaSVZmT2l5R3FwNE9hRlhHUjZPa2lzYU9KOTFYSGdqSDFzUlh3S3FtZThISzlxeFNnVno4SXJWR2x5dzJWcUN2SVNaZl9FV1JMQlZFWHF6OUpFQTV3SmVNOW5mRTRkR1A0Si1FU2FNaTF2alpGN25nbDlRM2pXb2NoSGdIZw?oc=5",
+      "fonte": "Jornal Dia Dia",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T15:44:34-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira",
+        "exportações",
+        "USTR"
+      ]
+    },
+    {
+      "id": "3813ff14f5d1c16a3423",
+      "titulo": "471 produtos brasileiros estão isentos de nova tarifa de 12,5% dos Estados Unidos",
+      "resumo": "471 produtos brasileiros estão isentos de nova tarifa de 12,5% dos Estados Unidos Grupo Lomes de Comunicação",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2R2bVoyWnhpSXhqeE8wZy1hOXVjcE8yZjdGMDY1aGdIc212OFVoUnptVnd6WGxVVHQ4M2t0QUNGN1pvZnlrTG84d2UtSUxyd2E1SUFWaElENUwyOGRnMTFvVU9uSjlNbWg3TzBCT1hzZ2hsbk9JU0RFZ2FRTjNfWFhYeHQxLWc4WW5NVzNWZWt2RkhaX1pJS3ZIdXhLYXZObWNWUQ?oc=5",
+      "fonte": "Grupo Lomes de Comunicação",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T15:31:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "id": "61f68471102aa0cf026e",
+      "titulo": "Tarifa dupla de 37,5% atingirá quase 4.000 produtos e R$ 55 bilhões em exportações, diz CNI",
+      "resumo": "Tarifa dupla de 37,5% atingirá quase 4.000 produtos e R$ 55 bilhões em exportações, diz CNI Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTFfeXdlRE84ZEpxNzN1anBZdEVkNU5adDBmTjFTWTRqRExVeEphVlNob0w1amZITFBFaGg5OG9XSnN0Yy1ydXFiMGNuS1dDZl84eE05UllRQlFGR2JDdzdONkFoYUhEbkc3WFVDRE1iWGxzS005RzNRNU1pOVh3cEltakRyR3k4Ym9RZEtxSmE4aWRiR0RCWmJfLS1EWDRKYTIwNmJCdHlGQ3RsUUk4SjN0X2c3TlVQbG15X0huVkRueU52bGd4cHBVQ01TeElfU0o4RzROUlpuTEYz?oc=5",
+      "fonte": "Folha de S.Paulo",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T15:29:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
       ]
     },
     {
@@ -550,6 +702,22 @@
       ]
     },
     {
+      "id": "d9afb239c83ef49f0971",
+      "titulo": "Nova tarifa dos EUA mantém indústria sob pressão e exige avanço nas negociações",
+      "resumo": "Nova tarifa dos EUA mantém indústria sob pressão e exige avanço nas negociações Agência de Notícias da Indústria",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdlRoakFKMnFrX0FlellxZ0RZZldxVEVlRDBmakZfYWlSSTVfd2laNld1dXIzYXktNnNiUDRZUUJndHVzNzhCMWZKa3hob3F2RFh1dUh0MWxWLUJrMUdfeTNIblppWG03VkU4NTdkU3FtN0RWSzVlV0ItcjFfcDFEOHczUzlSTDJsR0xVMlJYNlpNWkZFSG1wOHFMdU1wSE9NcDFIQ0FNT2xYenRPNURFb3pGOXV2bHdlWkt2dUtOR3JQWU9RZmRLMDBVRjY3RTM4YXFNcHJlbzZBemdBOW5r?oc=5",
+      "fonte": "Agência de Notícias da Indústria",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T11:51:02-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "USTR"
+      ]
+    },
+    {
       "id": "ac532db3bf391507f80e",
       "titulo": "Novas tarifas dos Estados Unidos afetam a competitividade da indústria madeireira brasileira, alerta Abimci",
       "resumo": "Novas tarifas dos Estados Unidos afetam a competitividade da indústria madeireira brasileira, alerta Abimci jornalafolha.com.br",
@@ -658,7 +826,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnJNMEEwMnNaWXM5dEp6WkF3LXFfZXkyVFNtTkpfRzdzQXk4azQ5dkM5MnVrSWNyaWhXS0xtclRGcTJubW9SYnFTQjl5WjZpTFhIY1doeVhSbFE5eFY0UzlRandpMWg4MWlXZEhfeW5GM0hDUEFPNllnYmc5SE43TDZCWnZvQlZidjZvRkFlYVVNRjd3TTVWcEFzNDlYRndyd0dwSXFTVFNoY1ZFeDg3SUVLelhsM0hyeHM1QW9tdU4xMmx0TkNzS2Yza9IB2gFBVV95cUxNS29vU2dkVnY2eGtZRTN6SFBtMkZLM25feEgzS2NBcHUxWFpNelRmWExZMVhUWWZPS2xleTdlOHBCMTJQWmlKdUhqSjA1U1FLblhINkZqektWS3BwOFJVZDdMRzIwaW9yWEVlZV8tUUhtcGkxeVdqMzNCNTNYWWw3QnZGemZqVnNNUE5Nd19fR3pOc05qQzl3cHl4UEZoNVVMYWt4MzNDZXFCdFIzVWxvaURZSHhPV0hKM1ZMUUhpcHA2dFZUZzRfQWhOc1Q0ZHJxdjEtNVh6bDB3Zw?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T01:00:08-03:00",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -696,22 +864,6 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
-      ]
-    },
-    {
-      "id": "d9afb239c83ef49f0971",
-      "titulo": "Nova tarifa dos EUA mantém indústria sob pressão e exige avanço nas negociações",
-      "resumo": "Nova tarifa dos EUA mantém indústria sob pressão e exige avanço nas negociações Agência de Notícias da Indústria",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdlRoakFKMnFrX0FlellxZ0RZZldxVEVlRDBmakZfYWlSSTVfd2laNld1dXIzYXktNnNiUDRZUUJndHVzNzhCMWZKa3hob3F2RFh1dUh0MWxWLUJrMUdfeTNIblppWG03VkU4NTdkU3FtN0RWSzVlV0ItcjFfcDFEOHczUzlSTDJsR0xVMlJYNlpNWkZFSG1wOHFMdU1wSE9NcDFIQ0FNT2xYenRPNURFb3pGOXV2bHdlWkt2dUtOR3JQWU9RZmRLMDBVRjY3RTM4YXFNcHJlbzZBemdBOW5r?oc=5",
-      "fonte": "Agência de Notícias da Indústria",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T21:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "USTR"
       ]
     },
     {
@@ -1599,6 +1751,21 @@
         "madeira",
         "madeira processada",
         "USTR"
+      ]
+    },
+    {
+      "id": "8c568cb1acb8eee79cba",
+      "titulo": "Redução de tarifas dos EUA ainda não chegou a exportadores gaúchos, que recuperam parte das perdas com novos mercados",
+      "resumo": "Redução de tarifas dos EUA ainda não chegou a exportadores gaúchos, que recuperam parte das perdas com novos mercados GZH",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQOWoyaXN5Z0NmOG10UVAxek5DTW5UWFlmLW1pTlJDM1FzdGdTMEpob2tKWi1GSlNZNU5PR3VkSUhUMG9Wb1BVTmlEMmtPSXVCRXpLUXhhSWFTR3pvcFRBOGotLVlyMkRUaExzcW9PY3BNZmtzaFFrTC1ZWmxaVTNUZjNmSnNfQUNVUlR5SUpOYWc4RElOaWhicngyZnRSSFB3N1I2b3lQUmg3VUJObmtRTjd3Q3BPTWpKcTYxczY3TFVIR25ocUhsM1JsQVV6TGJwUGt0M25raVRxNzFoSGsyRGhPcnVjUHk3dEtDbDV1MlJfeUpxMExIa09vU2dvTlF0ZFQyZU5zeDdvdDRKN0l3X1dOa0QtY1JtZVAyRXpHOHJhX3Y2VHhGdFJ2YVg?oc=5",
+      "fonte": "GZH",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-03-09T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
