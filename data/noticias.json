@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-26T11:49:27.841336-03:00",
+    "atualizado_em": "2026-07-27T14:12:32.704452-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 239,
+    "novos_itens_encontrados": 241,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-26T11:49:27.818534-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.678016-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-26T11:49:27.817529-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.676865-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-26T11:49:27.813953-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.672783-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -67,7 +67,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-26T11:49:27.786179-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.639847-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -85,7 +85,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-26T11:49:27.089896-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.009589-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -103,7 +103,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-26T11:49:27.085370-03:00",
+      "data_publicacao": "2026-07-27T14:12:32.004494-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -114,13 +114,13 @@
       ]
     },
     {
-      "id": "544fa7aee597875dafff",
+      "id": "ccb7a1320dd4b5ce1dc5",
       "titulo": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade",
-      "resumo": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade Diario de Cuiabá",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZExxbmdsQ3RnbjRiQm5FMHp3QmhfOU9NRVJpZm8zVlN6MDBzTUJucHAtcm1sbGFqTnVRLUY3RWxreVJXcUhOS0FvVW9sNG9UOFc4d2VHV3g5UzBMdU53V0VDN3JxSVhmYWlEaWxOTDNSWlZ0cmhkcXFYLWhWNm8wX19Uc2tibENBbGZ3bmhZc1JwbmhVUTd3OTU5LWFMRllCNW1UZzZUZzJnRGIzVkYyODRST1VHVDYwcjRtaUVvMWtTV1d0dlFMbkYzTHlrd3lSUHF0ZU5lSQ?oc=5",
-      "fonte": "Diario de Cuiabá",
+      "resumo": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VzJRNGIxX0FzQ3NKc1pBLXAydjRoaHN6QkNsX3VTMU9GNms1bWJpY2VtWHh1ak1MVzR3M19UUlZINE95WDNmVEE0bUZvTUlNYXgyZEpYajd4NVJpbDBGaTJrdk04eV8xTUNKdnRkYTF4ZUt4YUV3Rw?oc=5",
+      "fonte": "ICL Notícias",
       "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-26T07:00:00-03:00",
+      "data_publicacao": "2026-07-27T07:32:51-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -128,6 +128,38 @@
         "tarifa",
         "Brasil",
         "competitividade"
+      ]
+    },
+    {
+      "id": "f5556ff95a91ee814b81",
+      "titulo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor",
+      "resumo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor brasilagro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblFGTXFqTURnckFxZkR4TFRybUw2bnFqd2ROYW81NVBYSm9Ed1d4QzA4MWJaejJpNDA1RDlobHpCQTU3SHhReWpCYmxaaFZIUDNBRWswWUw1dXZrY0ZaRUJnckxiYVpuSUZySHF3aVZfMmdEMGNNdzBLcG5kZTRQNDZISXpUYjZrMkJRQWY4SjdvSmpJbTlXR3VhdDFRdWhJbEk2Y0JfdlA2aF9pOGc?oc=5",
+      "fonte": "brasilagro.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-27T04:38:10-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
+      ]
+    },
+    {
+      "id": "e775581c17b7396b7bab",
+      "titulo": "Tarifas dos EUA ameaçam empregos e exportações em cidades do Paraná",
+      "resumo": "Tarifas dos EUA ameaçam empregos e exportações em cidades do Paraná HojePR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFNkZ0xrMU82ZE4yaGRjYVo5UkM0QjZBYWhJSWk3YU5PV3FETnVlQmhTTkxhZURMWmFJV3VIUk16ancyV1BwQWhRRE41NFlhQ0FDVDJqbWdyRDM5NXB0NzZka213TmdFMnNTMkZ6WS1MYlBnRThXWFdvVS13ZF82SzhTUmgtRWZmOVNRWDZTTEo?oc=5",
+      "fonte": "HojePR",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-26T13:52:44-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
       ]
     },
     {
@@ -187,22 +219,6 @@
       "fonte": "Portal AZ",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-25T11:40:01-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "media",
-      "foco_madeira": true,
-      "tags": [
-        "Brasil",
-        "madeira"
-      ]
-    },
-    {
-      "id": "a42ed54f0849d90cbba0",
-      "titulo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor",
-      "resumo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDNMSHRzWVhmOVFkNklicFZoaFFvRld3X0Qwb3QzenkyT0VKRTJWMmRDdTFJTnhha01VVHhUeWdTcl9STXBTZkNaaEVISm1mRHFROGhTQTZPLXEycElYejE3b3A0bVkxcElYVkdwMTBINm82NkVTTUNhazZYRjhyZU9oWllSMEozQnFzcnZFa09xTGNiRE9EUVpOX1VldC1Hc2c?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-25T10:17:46-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "media",
       "foco_madeira": true,
@@ -572,6 +588,24 @@
       ]
     },
     {
+      "id": "02a4f228b2d88b13ccbc",
+      "titulo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira",
+      "resumo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjhpMnBXSUFjZm1sN2luTjlxSC10R1Y2eXNWQTVpcXF1cDYtaGx5d05nUzE3ODFQc2o2cURKbkhIWHNaeTRJZTd2UTVYSGJvdS1TdDVGNWxRMVh3MHVfeXFENGg5YVZIOTdyZDl2U2dISks3YS13ZHpGcWJFeEpjOE80VWk4bTFzSWRpUzlXa2djSjlxZFBubnAzcDV6cW9GZjFUOVlSR0NVYjFhTFQwLUFPd0tTQzB3ZTJZWnVRUTBQUEpXeFZJUlE5SEkxa1U?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-19T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira",
+        "USTR"
+      ]
+    },
+    {
       "id": "844fc39f672c79bbeed3",
       "titulo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil?",
       "resumo": "Pix, etanol e corrupção: o que motivou as novas tarifas dos EUA ao Brasil? band.com.br",
@@ -585,24 +619,6 @@
       "tags": [
         "tarifa",
         "Brasil"
-      ]
-    },
-    {
-      "id": "02a4f228b2d88b13ccbc",
-      "titulo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira",
-      "resumo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjhpMnBXSUFjZm1sN2luTjlxSC10R1Y2eXNWQTVpcXF1cDYtaGx5d05nUzE3ODFQc2o2cURKbkhIWHNaeTRJZTd2UTVYSGJvdS1TdDVGNWxRMVh3MHVfeXFENGg5YVZIOTdyZDl2U2dISks3YS13ZHpGcWJFeEpjOE80VWk4bTFzSWRpUzlXa2djSjlxZFBubnAzcDV6cW9GZjFUOVlSR0NVYjFhTFQwLUFPd0tTQzB3ZTJZWnVRUTBQUEpXeFZJUlE5SEkxa1U?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-19T03:45:03-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "alta",
-      "foco_madeira": true,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "madeira",
-        "USTR"
       ]
     },
     {
@@ -1275,6 +1291,22 @@
       ]
     },
     {
+      "id": "28275a0a506e9edb80c2",
+      "titulo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção",
+      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção Diário do Comércio",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xcjdWcGk3LTcxVjRMT21kVWxFSWNIXzVOT2xUSDl4M0kyTll4dUFXSzNKZ0o2bXhSTU56ZHpSLXFZX2lwOWV0amd6bWxqeHJKSzdneVQxZGxKREM4M3dKTE5uanBndmx0MW93LTJFM0gyeFF3OUE3X3V3?oc=5",
+      "fonte": "Diário do Comércio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-14T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "USTR"
+      ]
+    },
+    {
       "id": "0beec8d3409c8220923e",
       "titulo": "EUA definem tarifas de 25% sobre produtos brasileiros nesta quarta-feira",
       "resumo": "EUA definem tarifas de 25% sobre produtos brasileiros nesta quarta-feira BH 24 Horas",
@@ -1587,10 +1619,10 @@
       ]
     },
     {
-      "id": "6a6d5991dcf8e6bda09f",
+      "id": "cc9f0ca2642cb27fadd6",
       "titulo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA",
       "resumo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA G1",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaGFOUlBqU296SXpwUnF1VzMxd2VQWEFocUxUZnduVlBBYTNad0pkeG9Zd0QzSWZxWDBIV1VmVEM3OGhUV2ZrMDlRbXc5Z2dWUURjREFiZWNZS0xTbWJsWlZzeno0ZC16RFZFeF9tZ1VMTlNBTXYwbVFlU190T0JXdkIyaXkxd0VLcnJZQzVmWGJOb3J5eWlRVjh5XzFFdVpLRUdwUHJpZGd0RlNBZTRYOWpzS2JmcGhGNmFnb0l4NjB0c2dlQXhhU0RwWWRrMEcteGo4VnVlc0QwZzVGMVlKS0pCaWE2VDdodXhucjZGVGlUWjJoRG56YjN3akJVNzJMMTBySnd6Mm94WmVmeWJBMnJzQlVsOVdzbXpv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaGFOUlBqU296SXpwUnF1VzMxd2VQWEFocUxUZnduVlBBYTNad0pkeG9Zd0QzSWZxWDBIV1VmVEM3OGhUV2ZrMDlRbXc5Z2dWUURjREFiZWNZS0xTbWJsWlZzeno0ZC16RFZFeF9tZ1VMTlNBTXYwbVFlU190T0JXdkIyaXkxd0VLcnJZQzVmWGJOb3J5eWlRVjh5XzFFdVpLRUdwUHJpZGd0RlNBZTRYOWpzS2JmcGhGNmFnb0l4NjB0c2dlQXhhU0RwWWRrMEcteGo4VnVlc0QwZzVGMVlKS0pCaWE2VDdodXhucjZGVGlUWjJoRG56YjN3akJVNzJMMTBySnd6Mm94WmVmeWJBMnJzQlVsOVdzbXpv0gGqAkFVX3lxTE9Ndkd1Yy14dGs4djdtTjVvdmw2SDB3ellsSFpyaVFZbXFvZlpobFJUTk9GTkl3M2JfM0F4Qk1mZkw5M21SRkd1eGV5NW1vNjlsbDkwS0k5NUdRaWQ2SzN2bzJyTENVb1d3OHc3TzFnanVYekp6YlM5U19GOW5OYk5INXRraGRqMTd0U0k3Q1JNMk04WWxhQWhHeGJEQmpzd2ZpdHMwcVkwLUJzU29pY29xTEw0VHc0WDZENWZuT0Jhem9EY3NRSHVtN1hCZDMwbm5rYkF5eTdDb0FlQ21wU1g3c2kxLVFZcDNCRldmMTdGYUc1amd4ZWoxUDd0amtSbGNoZXVhVVFaVVRnd3dHM29wWnZ6Z0d6eFdIV3hZLVdGREctY0IwSjI2RVE?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
@@ -1603,10 +1635,10 @@
       ]
     },
     {
-      "id": "04ce008ea9e66eb80c4c",
-      "titulo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço",
-      "resumo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço G1",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ0gHKAUFVX3lxTE80MXRkS093eFgwbWdPYXRVSXF2NDJRZkJ4S0h6NUt5b2V0ajZUNkZHUEFDUmp0VWpfdkgtb21oRVlDMzJEREJoTEpUZm1XLXQxUVJrMTRZNmExV0NKZlJoQk5SOU9hVEhPcHlCWkdQajBLVjg3djhBUHItdHJYRVlJQTllZzJsc0hCbll5OGd5Z3pYNG4yRU80ajJRZ0lSbnAzWUZhQW5WVnNjMExtTU84ZDBCWjF3NEs4VWNQVUVPeTdUSXhfRjhRckE?oc=5",
+      "id": "db64a7b31e6948197afc",
+      "titulo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate",
+      "resumo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate G1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
@@ -1624,6 +1656,22 @@
       "resumo": "Máquinas, calçados, plástico, madeira e setor pesqueiro podem ser os mais afetados por tarifa de 25% dos EUA Folha BV",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkp1WlY4dk1fMXZYOHR4Vl95TGNfVnprdzlub001dC1vTXlXQ1p5OXNiN2h2SVpoTzN4YVBsNDlpOGV6MGs3eFBvNnUtb2MwQ3RaYXl5eGZzdENtb1NSWWVHYVJhVENXSnlxa25BaS0zNWtEZnpzQWlDaXlxaVZacjJrRmRsZl9qbDhiSk9VUDk2YndzSjkySjV3bVg2di12VVFCUklSdUNodmJSanpmeENNeGNpOUZKRWUwaHRDS1ZOeE8zdTBEU2hBeHdmMzJuOWlFS240bHBBdw?oc=5",
       "fonte": "Folha BV",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-03T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira"
+      ]
+    },
+    {
+      "id": "04ce008ea9e66eb80c4c",
+      "titulo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço",
+      "resumo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço G1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ0gHKAUFVX3lxTE80MXRkS093eFgwbWdPYXRVSXF2NDJRZkJ4S0h6NUt5b2V0ajZUNkZHUEFDUmp0VWpfdkgtb21oRVlDMzJEREJoTEpUZm1XLXQxUVJrMTRZNmExV0NKZlJoQk5SOU9hVEhPcHlCWkdQajBLVjg3djhBUHItdHJYRVlJQTllZzJsc0hCbll5OGd5Z3pYNG4yRU80ajJRZ0lSbnAzWUZhQW5WVnNjMExtTU84ZDBCWjF3NEs4VWNQVUVPeTdUSXhfRjhRckE?oc=5",
+      "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
       "categoria": "Indústria da madeira",
