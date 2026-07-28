@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-27T14:12:32.704452-03:00",
+    "atualizado_em": "2026-07-28T13:22:25.356763-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 241,
+    "novos_itens_encontrados": 244,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-27T14:12:32.678016-03:00",
+      "data_publicacao": "2026-07-28T13:22:25.335237-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-27T14:12:32.676865-03:00",
+      "data_publicacao": "2026-07-28T13:22:25.334184-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-27T14:12:32.672783-03:00",
+      "data_publicacao": "2026-07-28T13:22:25.330586-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -63,11 +63,11 @@
     {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
-      "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas Anuais",
+      "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Depreciação Acelerada Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas…",
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-27T14:12:32.639847-03:00",
+      "data_publicacao": "2026-07-28T13:22:25.302468-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -85,7 +85,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-27T14:12:32.009589-03:00",
+      "data_publicacao": "2026-07-28T13:22:24.848574-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -103,7 +103,7 @@
       "url": "https://abimci.com.br/nota-abimci-sobre-a-possibilidade-de-novas-taxacoes-dos-eua/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-27T14:12:32.004494-03:00",
+      "data_publicacao": "2026-07-28T13:22:24.843609-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -111,6 +111,41 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "705a8c7e9ca74b0a31d0",
+      "titulo": "Tarifa de até 37,5% dos EUA atinge US$ 6,6 bilhões em exportações brasileiras e amplia incertezas para o comércio exterior",
+      "resumo": "Tarifa de até 37,5% dos EUA atinge US$ 6,6 bilhões em exportações brasileiras e amplia incertezas para o comércio exterior Portal do Agronegócio",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcTc4U2xkcEVxYm1rNHNYRHdVTllHelNTM21Odm85NkZ1bGJ3UGFDLW53QUdUZmpjeXlQZmxMSUVkd0JQMFBBR0NCLTI2S3RRQ2F6eXBVZ0NqNFdOcTZIb21BYUlCWlJyT2tKQWxJRjJaS1FFT19Qb1hNSGtlNkMxQlBodVFCYUQ3dTlPYUE3SWZvVkFCX0pGVWJtSld5dkp3OVlKbXdySUQzX2RWWlFUa3JmanNIX1lPb3dlQk1vRXNVdmtpX2FvZThTaHpSR0JINVJ4QURUQ3RuS2lwMVdJaDU2czRhdzdVUEY4YUVDOWE5MjljT0NnR0UtWm5vazQ1OXYwQ1hnVnp5ajh3Z3dYZ0plR1RjVHFzMHBoRHRlekRWbVpoc1FV?oc=5",
+      "fonte": "Portal do Agronegócio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-27T19:20:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
+      "id": "d598c531b15ce30c04ab",
+      "titulo": "Tarifa dos EUA agrava crise na indústria da madeira e acelera busca por novos mercados e investimentos no Brasil",
+      "resumo": "Tarifa dos EUA agrava crise na indústria da madeira e acelera busca por novos mercados e investimentos no Brasil Portal do Agronegócio",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTkFHMDQ3dUFVd3pIdDBFUkZrbUNnZFhiUHFJbHljcDg1dkt6WHY1NE5OSC1HZlpwaE9yZTloWklwR3BreEZUUGRGN05Ob1dNbjdBaHNpSElVdk4xSE1YOTBpSWdJb0l6eGFEZTZaNlYydlR4UHQ1MEF6Tk84RjJfN2tEWGtmcVBrV0JHODlYS0RhQlh4bU9zR1p3TVRqN1FqNVVWYk93WTVoaFA5SllTaVZYeU5KUWJEMWFJQW5QanhscXlCZVEtV2habExkV2ptOURwamlrcmM4U2dabll6cHdLdkJ0REV5NkpMT1pfLWpnZ2tIZlNwUGtQU1YxN19CWUhJZlhUVU1xOVNWX1otamtTdVZ5djA?oc=5",
+      "fonte": "Portal do Agronegócio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-27T17:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira",
+        "USTR"
       ]
     },
     {
@@ -160,6 +195,22 @@
       "tags": [
         "tarifa",
         "exportações"
+      ]
+    },
+    {
+      "id": "12a39f692ef39f26e063",
+      "titulo": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+      "resumo": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxmVlIzOFdlLXlGZUI1OTVzR19aQmtpZTJQMDZhYjFWeEl3T0IyRlpWYzJWOG5TOUJIUGwxWm9ENTV5bkZ4bzBfaW9qYW9mLVdOeTl4S1J3eDlkQVpPekpCMGZnTjA0Qk5BN1ZqTV9FeFE1dldHaHhzbTBMLVFRSVptNDR1MmlBOXQ1bkNYMVR4MjZqQmxQSWg5WnJ2dzZPOFFIb0JkdFF6TkMzRUMwZmc1eW5mV0U2NUpsStIBwgFBVV95cUxPZ0t2RmdrSDN2b3pYWndWcVVIM2JxRmFub0xmMEpaUDI1ekNoLWFvX2hUeUhoTFVQSzhGOUpTMjIzeTVVcG5IYkV5NUE2RXJNY0d4NF9UNVYteUNiMXFnbUJYMEw5cVdRRERIRVkwWTZWUVlwTHhIREFMdzZrSS1CVTBYTW1IUm9fRjIyeWVLdkpFbHgwSmw0eTAzTS1oUklha3dSYkg5VDZBZll2VFlmNHRfT2l6VVBuZ2wyUWRoeHdFQQ?oc=5",
+      "fonte": "Estadão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-26T05:30:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -360,10 +411,10 @@
       ]
     },
     {
-      "id": "065942fb8417e8ae4975",
+      "id": "1dedf97f9be82939a7ad",
       "titulo": "Associação alerta para risco de demissões no setor madeireiro por tarifa dos EUA",
       "resumo": "Associação alerta para risco de demissões no setor madeireiro por tarifa dos EUA n3news.com.br",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3RzN1N5VU9WM1Y0M1E1eU1xbUdVT1VBVnFtTC10OVVuaWp0MFpZWnpoelloc0EzTENhaFB5eHlPaUlsWktnUFc0WVo1YTROSjdVMVNKc3VoUzFfam8tR0FZQlZGT2lBaUhwX054NGhxSHRYQkpmZWdxVmhIY3ViN2pYek5tUkFib0hvTEZFbnVUaGxhanc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnVOTTZmTjlqbkViTVpybGZCVmc1b0pDQzQ1NEVHZUxVTlN6akIxX1FqeHhhalVLek9WZUNYenZKX2tZYnMxaHhfZTdRcTkyLVIzZks5eGlXa3FYZFpESmUtQzZVbUVMUVI1eEF5WWttX2ExZks0amNaaGczT2ltNHU0M1hXaFJNcXJvQ2xkZ3c?oc=5",
       "fonte": "n3news.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-23T09:18:00-03:00",
@@ -1259,6 +1310,22 @@
       ]
     },
     {
+      "id": "de91512bc999cb2cf1e5",
+      "titulo": "Tarifaço dos EUA pode atingir mais de 80% das exportações de SC, analisa Fiesc",
+      "resumo": "Tarifaço dos EUA pode atingir mais de 80% das exportações de SC, analisa Fiesc NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDY2QnVORkRvRTRkb1hqcjlZTXNwUThoZG9PWmExa05XdGgxME1jLVR4bXpJLWxsbE1WNHNYX1RBMUMyNHVIZGxMZi15YlhzdGZTU1gtSkp3UTlvMjh6NV9VaVY5d2UzYk1hVHg2bGdyR0ZrWUtkQ192bGpfQnQwV3RMZy1kMV84NE8zeXNoNllTMHlMSkZ4SXBSQnZMcXhDam5LVVRITTk3V2h0b0xuNU9lTQ?oc=5",
+      "fonte": "NSC Total",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-15T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
+      ]
+    },
+    {
       "id": "e2ec1cf5d8c23e06339e",
       "titulo": "Indústria prevê perdas e demissões com novas tarifas dos EUA",
       "resumo": "Indústria prevê perdas e demissões com novas tarifas dos EUA O Estado CE",
@@ -1586,10 +1653,10 @@
       ]
     },
     {
-      "id": "2c07784f4570e1a30ee3",
+      "id": "445f6376b74a23cb22f2",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
       "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQT21ITndLOXQwQlV4S2t1MmczOXZIMlRRMWhYOWllaDhVOW56eFJiQXJqMk9IaXRrNGI3Q0lNRUhDT3JuY1Y0NmdULXlpbGlwT3Q4UE9lVlBDVmpnS00zeTZFN3R0ZV9fYnlCYVptWk1fU20tWE55NFhrYmdWbUF6VUJVU2liV0VCQkZzQlFrSTlRRDFxSkkzNjlqMTlyQzR4eTVMR3ByRVBLMFMyaVhaR3pnQ3U2YmZ4Q0M3OW9WRW9McmlWemdtSEVXZV81QnM5X0tuY2RUMVl2U2M0bnUwc0hYZTVvYzdjM2FrMDdIV0Z0M2JpcHZZVlFtRFNEckVUOEVkTnctTEVLbWthaGpoX1Q3bzVydmhMQndPd2dKbTJwSDJtX0dF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcklQcDFCWE1MTERJd214alBQQnNtN2p2SWNQRlNoWVo2XzVCazB6aTJ6N3lhZ2V4NldkdHlZUEdoNjJrS3BfVDZGZkVtTnVhVENRTXN4NzdJeEdRaXB0d0c3NFVzTUkwUkhLSlo3SDROVXhWZDdFTnNkMU9KREU2d08teXptWXFuU0Z6SXRleXpiMzlPLURSRVc4cHplemNlRWIxazdac0UtOWFITmVEX0tLMEVTT1JnRGwxcUpOcXp5REliM25yRDh0RzR1OUdvT2w2WFptWmFGZTVuMU12TnY4WE1ZYnVYb0FQdVFocTUwLUs5STFHV05kNGlZek9DU0d5US1rUFBGMFFQQWoxLV9wUUhkTE5oZXhMWmp2aGR6Zw?oc=5",
       "fonte": "Portal do Agronegócio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
@@ -1635,10 +1702,10 @@
       ]
     },
     {
-      "id": "db64a7b31e6948197afc",
-      "titulo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate",
-      "resumo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate G1",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ?oc=5",
+      "id": "04ce008ea9e66eb80c4c",
+      "titulo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço",
+      "resumo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço G1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ0gHKAUFVX3lxTE80MXRkS093eFgwbWdPYXRVSXF2NDJRZkJ4S0h6NUt5b2V0ajZUNkZHUEFDUmp0VWpfdkgtb21oRVlDMzJEREJoTEpUZm1XLXQxUVJrMTRZNmExV0NKZlJoQk5SOU9hVEhPcHlCWkdQajBLVjg3djhBUHItdHJYRVlJQTllZzJsc0hCbll5OGd5Z3pYNG4yRU80ajJRZ0lSbnAzWUZhQW5WVnNjMExtTU84ZDBCWjF3NEs4VWNQVUVPeTdUSXhfRjhRckE?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
@@ -1667,10 +1734,10 @@
       ]
     },
     {
-      "id": "04ce008ea9e66eb80c4c",
-      "titulo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço",
-      "resumo": "EUA apontam pecuária e exploração de madeira como motores do desmatamento, mas isentam produtos do tarifaço G1",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ0gHKAUFVX3lxTE80MXRkS093eFgwbWdPYXRVSXF2NDJRZkJ4S0h6NUt5b2V0ajZUNkZHUEFDUmp0VWpfdkgtb21oRVlDMzJEREJoTEpUZm1XLXQxUVJrMTRZNmExV0NKZlJoQk5SOU9hVEhPcHlCWkdQajBLVjg3djhBUHItdHJYRVlJQTllZzJsc0hCbll5OGd5Z3pYNG4yRU80ajJRZ0lSbnAzWUZhQW5WVnNjMExtTU84ZDBCWjF3NEs4VWNQVUVPeTdUSXhfRjhRckE?oc=5",
+      "id": "db64a7b31e6948197afc",
+      "titulo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate",
+      "resumo": "EUA isentam carne e madeira de tarifa apesar de críticas ao desmate G1",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJvaEs4UWxBb1hEZjNHOURiajVRYkpUUWdJUmRPUmdrell2UlFlTHhCQWFPbWVqa1hCV3VhU3lvWUlLNnRkbkZQVWNmTmk5TFdjY2V2ODhjbEJ5REFyYndWNnNCUW9DSnVZZlZ0UC1MdGpfUlhRYTRZVmctTVdRNVFYSUJYM3M1cmhUSVZja2tPNjMtZFFTZXV4cnEtNGt0ejJRcUw2dWJBQ05uZlN3QnNnX2tnUGRzb2VJ?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
