@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-07-28T13:22:25.356763-03:00",
+    "atualizado_em": "2026-07-29T08:57:56.537329-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 244,
+    "novos_itens_encontrados": 250,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-28T13:22:25.335237-03:00",
+      "data_publicacao": "2026-07-29T08:57:56.512413-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-28T13:22:25.334184-03:00",
+      "data_publicacao": "2026-07-29T08:57:56.511293-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-28T13:22:25.330586-03:00",
+      "data_publicacao": "2026-07-29T08:57:56.507364-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -67,7 +67,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-07-28T13:22:25.302468-03:00",
+      "data_publicacao": "2026-07-29T08:57:56.472640-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -85,7 +85,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-07-28T13:22:24.848574-03:00",
+      "data_publicacao": "2026-07-29T08:57:55.832161-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -94,6 +94,22 @@
         "ABIMCI",
         "madeira",
         "compensado"
+      ]
+    },
+    {
+      "id": "681c619d6c6754232f2f",
+      "titulo": "Mesmo em trânsito, cargas de madeira serão taxadas pelos EUA nesta quarta",
+      "resumo": "Mesmo em trânsito, cargas de madeira serão taxadas pelos EUA nesta quarta CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1JfWnFyNjdxVnpzTFZPbTJkOHFSaG91VzhTcmNGRkxGcEY5S0tNa1JPdnd1cHNjMk1yRjZqQmhzeDk2d2ZwbWJ3MGlLV1VBTUVFaDdHZFFKNWJtUkZnQk42azZaNTJMbmxxVnR4YkpsLXNxcUxCWXlYSmZ2RFNRX0cyTS0xTDVGMTlQS0xPcFBVTDV0eHNLVnZKbWRxRTM2ODFUeXdfUXNFY1E?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-28T18:02:45-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
       ]
     },
     {
@@ -111,6 +127,39 @@
         "tarifa",
         "Estados Unidos",
         "ABIMCI"
+      ]
+    },
+    {
+      "id": "b1b7ec445d9a1d3e6d1e",
+      "titulo": "Confira as cidades de SC mais afetadas pelo tarifaço dos EUA",
+      "resumo": "Confira as cidades de SC mais afetadas pelo tarifaço dos EUA SCC10",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tTlQ2elE2Ui1qUUo4Q3phb0hNZXhBNDNjTW1KNllwVDVScmtzU1VJYzR4My1jMlRfUkZobUM5T1Zmd3VpQ0dsUXZrRDY3Sld6VnZsWFBiWlpab3kybUc3ZFhnMEtSNlZVY2FtRFRFZGs?oc=5",
+      "fonte": "SCC10",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-28T12:18:58-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
+      "id": "21f32068d64c46d140c0",
+      "titulo": "Notícias 28/07/2026 Semana Internacional da Madeira reúne os principais eventos da indústria madeireira A programação inclui Woodtrade Brazil, Feira Lignum Latin America, Encapp e encontros técnicos voltados à inovação, negócios e competit…",
+      "resumo": "Notícias 28/07/2026 Semana Internacional da Madeira reúne os principais eventos da indústria madeireira A programação inclui Woodtrade Brazil, Feira Lignum Latin America, Encapp e encontros técnicos voltados à inovação, negócios e competitividade do setor.",
+      "url": "https://abimci.com.br/semana-internacional-da-madeira-reune-os-principais-eventos-da-industria-madeireira/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-07-28T12:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "critica",
+      "foco_madeira": true,
+      "tags": [
+        "ABIMCI",
+        "madeira",
+        "USTR",
+        "competitividade"
       ]
     },
     {
@@ -460,6 +509,24 @@
       ]
     },
     {
+      "id": "134b9239eed75dfe17bc",
+      "titulo": "Tarifa dos EUA derruba exportações de madeira do Brasil",
+      "resumo": "Tarifa dos EUA derruba exportações de madeira do Brasil SpaceMoney",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0FxYjlERGV6ZzRveXFDeGM2X1hzNTA1ZWhoMjNyS0FuT18yNlZyY2FBZkYxZmMxQk5OOS1xdUZQd3k4Tmt5SGRBV3B3anpocFNnLUluc3JyVmRHS3A4S0IxbHNVUFpvdllNM1pHc3c1M2p5NFVIdXF6NUlpUnVmVVRaT0tIQUE?oc=5",
+      "fonte": "SpaceMoney",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T17:20:05-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira",
+        "exportações"
+      ]
+    },
+    {
       "id": "2bbd54e6d232e2dadd93",
       "titulo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira",
       "resumo": "Tarifa dos EUA impacta severamente exportações da indústria madeireira brasileira Canal Rural",
@@ -543,10 +610,10 @@
       ]
     },
     {
-      "id": "c5540d5794e0a2070894",
+      "id": "f1387a3d4047e592a39a",
       "titulo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná",
       "resumo": "Tarifa de 25% dos EUA ameaça exportação de madeira do Paraná Tarobá",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1ZHQUw5X1I4aTl2Z2J6aFRYN293OHFiNDh5UlFqZU56VTB4MFdRaGFibFFBYWxjT2UyQ3cwVG1YeG9jaGJFWjg3dDdtdmlmeDJuSXNFUzg0TVVsUVlTQTR5TE5FQ1BHVjl0bW1LcVB0RlFQb2didnV1Q3dMSU5jWTBCcHNaZ2VNVkl5cG03RGhGS3I4WDZybFZySGt2ckxT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWRnTGQzWTlWX0tnMUpZSUxjOXI1N0lKRlJTbjFiZ19pOXF2TmJfNG1yQmNTMEh0V2xKRlhqcTRWYWhKeHV1UTZWS01FWUd6WDh3SnJPOTZaVDVKbDZzNWJGUDBSZFZJTmltNUFjek15SUd5WE0tSENJYXlRQWNsZkdRV2JGMWVzT2ppRjNsOTR2Zmd6Wk9vRTJLcw?oc=5",
       "fonte": "Tarobá",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-21T21:30:00-03:00",
@@ -1518,6 +1585,24 @@
       "tags": [
         "Brasil",
         "ABIMCI",
+        "USTR"
+      ]
+    },
+    {
+      "id": "60556ae3592bf5f7887a",
+      "titulo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro",
+      "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro Canal Rural",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1RQbmFJRFZ4TGludmZvVWtFUC1ZbEJ0VFNyMjFHc1ZtcGNndDEycnZzNVFiekN5dmVEdzZaS2ZHOV9Vek9Pc21TSk9GcVRHd1JKdDZYTHUtUnpmZVRvdzN0amVCUVQ1Rm9YS1RhUGVnOE5mMEhqaTlVNXRZUkxDRGJjMkc5emZqa1JMV2lBbWJNV1QzdmFJWTRVUDVXVHAwdGpCMk1NVWpyMnJRYmRFMHNoUlFTWVc2Z3lpSGtoZ3hoUVFMb3Zyd0I0TGVMTUMyUjhv?oc=5",
+      "fonte": "Canal Rural",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-03T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "critica",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira",
         "USTR"
       ]
     },
