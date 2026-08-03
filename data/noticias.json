@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-02T08:13:17.954306-03:00",
+    "atualizado_em": "2026-08-03T09:52:33.803169-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 248,
+    "novos_itens_encontrados": 252,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/governo-federal-realiza-entrevista-coletiva-sobre-tarifa-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-02T08:13:17.939660-03:00",
+      "data_publicacao": "2026-08-03T09:52:33.777669-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -31,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-02T08:13:17.939004-03:00",
+      "data_publicacao": "2026-08-03T09:52:33.776525-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-02T08:13:17.936599-03:00",
+      "data_publicacao": "2026-08-03T09:52:33.772409-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -67,7 +67,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-02T08:13:17.916287-03:00",
+      "data_publicacao": "2026-08-03T09:52:33.736625-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -85,7 +85,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-02T08:13:17.311539-03:00",
+      "data_publicacao": "2026-08-03T09:52:33.374329-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -99,9 +99,9 @@
     {
       "id": "2c4dcbe5c98ec4dab7bf",
       "titulo": "Tarifaço: Os 10 setores brasileiros mais vulneráveis à sobretaxa de Trump",
-      "resumo": "Tarifaço: Os 10 setores brasileiros mais vulneráveis à sobretaxa de Trump Times Brasil | CNBC",
+      "resumo": "Tarifaço: Os 10 setores brasileiros mais vulneráveis à sobretaxa de Trump timesbrasil.com.br",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0xmcXhNSTU5RHBJVi1saDhQSHRSTm5aRFBJdW53bnQ0X2l5UC14NjlDUV94bUNYTFNPVlo1YlY0eDZhOG9hVzJkSFN0dGFiTnJrNFZSTEJZMW9TTEp1STdrS29kWnhRMFdjR1ZOWHdNcW1abEZKb3hiR0ZyU0NVRGdJYXRqNGVtQ3VPaDl4aTdRYW9TdTU2aEJIMnBxWlFqa0hadVZLdGd5MjA?oc=5",
-      "fonte": "Times Brasil | CNBC",
+      "fonte": "timesbrasil.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-08-01T14:15:00-03:00",
       "categoria": "Política tarifária",
@@ -330,9 +330,9 @@
     {
       "id": "80572b516915f1ebfcfe",
       "titulo": "Investimento americano em madeira acende alerta para exportadores do Brasil",
-      "resumo": "Investimento americano em madeira acende alerta para exportadores do Brasil orebate.com.br",
+      "resumo": "Investimento americano em madeira acende alerta para exportadores do Brasil O Rebate",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3dyN0trZFFJZWN6Z09Gbzk1THhmLVRrVC01NXpRcDVpUlIyZlAyR0lCSFp0VF9WTklEdDllaDVkUXBHVm9JTFZYY3B5Rk1nRVI5eno3ellHckF2bmlEWi14Yk5pcEgyb0dNXzA0SWhiRmVLWEhEWk9zdlFwR0ZEcERfcjRLUzJmZF9FN1dFbnJvblBuWmlyV1V1UGhEYWFXZGRoUXVIaEQtX1nSAbABQVVfeXFMUGdoa0Qzc2g4MGZjek42dUJuNl9WVXpYVTRhZFVoaWdKUkFJOHVzMWRZcklFOGxNR25VaGpLck9pbTJKZHJSN2swcnhUblc1MlFkQ0VBVEFYV3NQb1BPbUItYUZvMndzNXJwMHhacjh3di1Dcm55QzhDb3RDTHI5b2xWdHF4T1A5T2o3V1Q0eURUYy1VbUNXSGlyOEp3cERhZjRfM2M3TEdXM3pPbFd1TXA?oc=5",
-      "fonte": "orebate.com.br",
+      "fonte": "O Rebate",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-25T22:01:23-03:00",
       "categoria": "Indústria da madeira",
@@ -688,6 +688,23 @@
       "tags": [
         "tarifa",
         "Brasil"
+      ]
+    },
+    {
+      "id": "709e7f29087ac99cc656",
+      "titulo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros",
+      "resumo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros Aliança News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTNsYzh4aEwzbnhvYmpfRzNOWTgzWVBFa0xaMjllU19oTHJSWU54cUxaQXk2X0xLdHBvZHhJYk9TUGZoV2p4NEZhU3UxV2FBTkJOY1lYbGV0UGdmeFNTM1k1bVRxVGZNOWRZb0Q1T1ctWkdiUVFCZDZScVI5THBOUUJmakgwTDlzQUVUakdvVUxhMnh1ZVB6OVRPalE0YnFKX3lmRVY5UDM3YU9VSGNMMHkyaDhxdnFPcVZBOWlPa0xPYXNaSkdqUGdya0XSAbIBQVVfeXFMUFRQZGNvMGZtU191VVdHSl8wMldrdTZnQm1WVWZvY3MzQVRXVkxfampsOGZscHJyXzY0NXVHdmhDX1EzckZrc0lfZ0dRdVQwdUNMbHlpd0JiSXZiOTBIck03SEpYN2gxak5CRXVLdEVkbTZlX3FhclFQQ2ZnaEdLVzV3UGtHSlkxcGpseTkyUzBBV0pLWFZlQ2lKSHJOanRGOTB5R1NpRXR5X1VDbzFicHVtUQ?oc=5",
+      "fonte": "Aliança News",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "Estados Unidos"
       ]
     },
     {
@@ -1118,9 +1135,9 @@
     {
       "id": "f38dc33ef428caf39244",
       "titulo": "Em dez pontos, governo brasileiro rebate argumentos do tarifaço 301 estadunidense",
-      "resumo": "Em dez pontos, governo brasileiro rebate argumentos do tarifaço 301 estadunidense correiodecorumbapantanal.com.br",
+      "resumo": "Em dez pontos, governo brasileiro rebate argumentos do tarifaço 301 estadunidense Correio de Corumbá",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWVjQWtaYVhwZ1ZPbnNrR082OUd6TWJXNWVDQUhuWjFKTDdGUXZPbS11THZLTnNHQ253Q0QyanVVbDNraTJlWFRRSEVTRXluREtVRUlfZWE5QzBKRTlRRkx4WHpsbktaSnR6dkgwcEs3XzA5VEJKaXI5YmxfTHNBWEl5a1Y2bkxrWE94Ulp4SWNHMzJZRVBhUm9Ta1FjTlp2b1pRaFRIRWtUczFCTUo5dXppNWFoU0JMOEk0eHhmVzVsYXA1Mjg2dC1ITEp0QdIBzgFBVV95cUxPeU03RFkxVmVrS0NSVENocVh3MGtiVjlEZFNjOGp6bEgwcmEtY3h1bTRvejJkYWYzQVM1bGNaT01Vb1QwR05KTGFYcFJSSU1PQi1wTjJPYXYtcHpRaWpUcEpTZFZLdzdEZndnODBiNDl4Z3RPOXFLVmQtbXotc0N3LTZwSno5UGRFbTZYT2k3WmdGV3NETEloTHIwWGdNc2Q4bmd1RHJqdkZNMnZLaW5LOHcxQXZHSUZRM2ROeGc2TXRjNkNVcjRoYnlaVS1Tdw?oc=5",
-      "fonte": "correiodecorumbapantanal.com.br",
+      "fonte": "Correio de Corumbá",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T23:19:00-03:00",
       "categoria": "Política tarifária",
@@ -1622,9 +1639,9 @@
     {
       "id": "47c40b99253f4b1da3a1",
       "titulo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos",
-      "resumo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos rbj.com.br",
+      "resumo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos Grupo RBJ de Comunicação",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUEzYnhibGFsVUFpNTBkT3U3VGQ5b2ViNHE2Q0VyUl9kSnBDaE5BYl9nRWxTbU16dFltc20xWENFc3Y1V1JvOENxbFZSTTdMcFJYZ0duVHlqbWNFYlFLNmNZZVg2NGE4Q3dYdjg0aUdBZVIzUHFLNHgzZTZoYjRqcW9RSHhVUjd0VG1kY0dNZW5rUzZfcC1SaDV4WG9tYkZQZW1pNjhVT29zTWs?oc=5",
-      "fonte": "rbj.com.br",
+      "fonte": "Grupo RBJ de Comunicação",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-08T15:00:01-03:00",
       "categoria": "Indústria da madeira",
@@ -1802,9 +1819,9 @@
     {
       "id": "83b3ba445925aec43418",
       "titulo": "Novo tarifaço de Trump ameaça 54% das exportações brasileiras aos Estados Unidos",
-      "resumo": "Novo tarifaço de Trump ameaça 54% das exportações brasileiras aos Estados Unidos Gazeta Digital",
+      "resumo": "Novo tarifaço de Trump ameaça 54% das exportações brasileiras aos Estados Unidos gazetadigital.com.br",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMGQtWXE5d1FXTGhHRDFsQWhLLWpITzF0d2pwRUt6SkoyeThrc1c1NGotZnVHSXkxZ0p5TjR0eTBRU0JNb0NJeUN3M1lMYXJGMGZMQXQzTG4zaU9QS3BTd2dzcVRtSWhKZHlQMGlybmZNT3kzUkh3TkxDMEJGaEZnLVRJWklQV0NKbFVHaHB2Xzc3b2t4RGE0UHhCWDNSTFpTUkI5OUQ5Ylp3dUpaNFNjQy1tbGZ5VEtYUV83VU5scURUbWhqSXU3VkNpOThET2dWTjY2MF9Kb0Zrc3dCNmZSQg?oc=5",
-      "fonte": "Gazeta Digital",
+      "fonte": "gazetadigital.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-16T04:00:00-03:00",
       "categoria": "Política tarifária",
