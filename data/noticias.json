@@ -1,13 +1,84 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-06T08:59:31.160944-03:00",
+    "atualizado_em": "2026-08-07T07:47:20.917786-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 251,
+    "novos_itens_encontrados": 242,
     "falhas_de_coleta": []
   },
   "noticias": [
+    {
+      "id": "0e98136513f49f9d76c9",
+      "titulo": "Alcance das Medidas Tarifárias dos Estados Unidos sobre Exportações Brasileiras",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-08-07T07:47:20.894588-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "Estados Unidos",
+        "exportações",
+        "MDIC"
+      ]
+    },
+    {
+      "id": "b79c9ba0505aceaf3f55",
+      "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
+      "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Depreciação Acelerada Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas…",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-08-07T07:47:20.861065-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "USTR",
+        "MDIC"
+      ]
+    },
+    {
+      "id": "aa5683d99aeb1b5a9c13",
+      "titulo": "Mercado O mercado de compensados no Brasil é tema de painel no Woodtrade Brazil Na abordagem sobre compensado no Mercado de Produtos de Madeira, foram citadas as mudanças no mercado e as oportunidades para esse segmento.",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-08-07T07:47:20.345151-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "ABIMCI",
+        "madeira",
+        "compensado"
+      ]
+    },
+    {
+      "id": "76905fd1c507d1e1e515",
+      "titulo": "Tarifa dos EUA impacta oito cidades do Paraná e setor de madeira é o mais atingido",
+      "resumo": "Tarifa dos EUA impacta oito cidades do Paraná e setor de madeira é o mais atingido União Metropolitana",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEhkU1NWVU9fbE54QnQ0aEFzellOY2F3VjhDTm5VZzNiTGE0WnhsNXRjNmp4QklBWnhFSUtmTWdsNVpDU0JxMnB2QzBGdEdQSEU3eFluLTZDb0hvbWVIRFBHLXVXZ2w4OXMtZUp4T3BzRXNhenB4NmpFelptdkV2cllUOUVldVloQ2FydE1vRE1JcEJXdzZuOUxCMThPSE83Vlg0UjJoR3RST05mZjdEakhQVXllVmRM?oc=5",
+      "fonte": "União Metropolitana",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-08-06T14:02:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira"
+      ]
+    },
     {
       "id": "fcffeb718953eef94fcb",
       "titulo": "Governo Federal realiza entrevista coletiva sobre tarifa dos EUA",
@@ -42,66 +113,11 @@
       ]
     },
     {
-      "id": "0e98136513f49f9d76c9",
-      "titulo": "Alcance das Medidas Tarifárias dos Estados Unidos sobre Exportações Brasileiras",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
-      "fonte": "MDIC",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-06T08:59:31.134879-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "Estados Unidos",
-        "exportações",
-        "MDIC"
-      ]
-    },
-    {
-      "id": "b79c9ba0505aceaf3f55",
-      "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
-      "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Depreciação Acelerada Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas…",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
-      "fonte": "MDIC",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-06T08:59:31.104094-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "USTR",
-        "MDIC"
-      ]
-    },
-    {
-      "id": "aa5683d99aeb1b5a9c13",
-      "titulo": "Mercado O mercado de compensados no Brasil é tema de painel no Woodtrade Brazil Na abordagem sobre compensado no Mercado de Produtos de Madeira, foram citadas as mudanças no mercado e as oportunidades para esse segmento.",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
-      "fonte": "ABIMCI",
-      "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-06T08:59:30.618400-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "alta",
-      "foco_madeira": true,
-      "tags": [
-        "Brasil",
-        "ABIMCI",
-        "madeira",
-        "compensado"
-      ]
-    },
-    {
       "id": "dc93ebc2700aead87127",
       "titulo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas",
-      "resumo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas DatamarNews",
+      "resumo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas datamarnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZlFYTWZSWmdFQXlGVzFnMEVsTTRodjA0cEp1UU5ERlhjelQzbm9LTnZBeS1FYXlEWWxjaE9yeTFyaWJLUVBSMGdWYXZPNVc2RkJ5elYtYVNYbEVSN01iZ0VNU1ZtMFVHTy1USkloRkl4U2J4OXNOa2xSNjVzYkdnRi1NdnFaeTQ4Y2tFcGpRY3ZmQjVyNnZpVjVWcjNvcUUtamgyRGMwdXlPUk9DeThmNUVOTE5ybXMxQld4cE4yQlZJcU1nTFdYbQ?oc=5",
-      "fonte": "DatamarNews",
+      "fonte": "datamarnews.com",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-08-04T21:11:39-03:00",
       "categoria": "Indústria da madeira",
@@ -185,7 +201,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1JfWnFyNjdxVnpzTFZPbTJkOHFSaG91VzhTcmNGRkxGcEY5S0tNa1JPdnd1cHNjMk1yRjZqQmhzeDk2d2ZwbWJ3MGlLV1VBTUVFaDdHZFFKNWJtUkZnQk42azZaNTJMbmxxVnR4YkpsLXNxcUxCWXlYSmZ2RFNRX0cyTS0xTDVGMTlQS0xPcFBVTDV0eHNLVnZKbWRxRTM2ODFUeXdfUXNFY1E?oc=5",
       "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-28T18:02:45-03:00",
+      "data_publicacao": "2026-07-29T04:00:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "media",
       "foco_madeira": true,
@@ -247,9 +263,9 @@
     {
       "id": "705a8c7e9ca74b0a31d0",
       "titulo": "Tarifa de até 37,5% dos EUA atinge US$ 6,6 bilhões em exportações brasileiras e amplia incertezas para o comércio exterior",
-      "resumo": "Tarifa de até 37,5% dos EUA atinge US$ 6,6 bilhões em exportações brasileiras e amplia incertezas para o comércio exterior Portal do Agronegócio",
+      "resumo": "Tarifa de até 37,5% dos EUA atinge US$ 6,6 bilhões em exportações brasileiras e amplia incertezas para o comércio exterior Portal do Agronegocio",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcTc4U2xkcEVxYm1rNHNYRHdVTllHelNTM21Odm85NkZ1bGJ3UGFDLW53QUdUZmpjeXlQZmxMSUVkd0JQMFBBR0NCLTI2S3RRQ2F6eXBVZ0NqNFdOcTZIb21BYUlCWlJyT2tKQWxJRjJaS1FFT19Qb1hNSGtlNkMxQlBodVFCYUQ3dTlPYUE3SWZvVkFCX0pGVWJtSld5dkp3OVlKbXdySUQzX2RWWlFUa3JmanNIX1lPb3dlQk1vRXNVdmtpX2FvZThTaHpSR0JINVJ4QURUQ3RuS2lwMVdJaDU2czRhdzdVUEY4YUVDOWE5MjljT0NnR0UtWm5vazQ1OXYwQ1hnVnp5ajh3Z3dYZ0plR1RjVHFzMHBoRHRlekRWbVpoc1FV?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "fonte": "Portal do Agronegocio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-27T19:20:00-03:00",
       "categoria": "Política tarifária",
@@ -1134,6 +1150,22 @@
       ]
     },
     {
+      "id": "dfb23889d2a3f63c6482",
+      "titulo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles",
+      "resumo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles lula.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUlkY3E1eHlVbGpzNXlfMm56UEtiYlItbU1INTFXU0o2NDI5bmhVakNKSWFLR0NyYWY5UXZWMTlHSG5Sd3k0Q0ZCZ012d2dEOG83d0VDWVhKRFJiVWVCeDBDYmRYaUp4Qk9YakgxWFZQMkgxNG02eXotbnlJd3p2Wm9GOTJZQlhhal9mMUpnZlBOMWpiMDU4Qm9VdnhuS1pjSlJWVENR?oc=5",
+      "fonte": "lula.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -1557,9 +1589,9 @@
     {
       "id": "28275a0a506e9edb80c2",
       "titulo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção",
-      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção Diário do Comércio",
+      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção diariodocomercio.com.br",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xcjdWcGk3LTcxVjRMT21kVWxFSWNIXzVOT2xUSDl4M0kyTll4dUFXSzNKZ0o2bXhSTU56ZHpSLXFZX2lwOWV0amd6bWxqeHJKSzdneVQxZGxKREM4M3dKTE5uanBndmx0MW93LTJFM0gyeFF3OUE3X3V3?oc=5",
-      "fonte": "Diário do Comércio",
+      "fonte": "diariodocomercio.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-14T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -1886,9 +1918,9 @@
     {
       "id": "445f6376b74a23cb22f2",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
-      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
+      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegocio",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcklQcDFCWE1MTERJd214alBQQnNtN2p2SWNQRlNoWVo2XzVCazB6aTJ6N3lhZ2V4NldkdHlZUEdoNjJrS3BfVDZGZkVtTnVhVENRTXN4NzdJeEdRaXB0d0c3NFVzTUkwUkhLSlo3SDROVXhWZDdFTnNkMU9KREU2d08teXptWXFuU0Z6SXRleXpiMzlPLURSRVc4cHplemNlRWIxazdac0UtOWFITmVEX0tLMEVTT1JnRGwxcUpOcXp5REliM25yRDh0RzR1OUdvT2w2WFptWmFGZTVuMU12TnY4WE1ZYnVYb0FQdVFocTUwLUs5STFHV05kNGlZek9DU0d5US1rUFBGMFFQQWoxLV9wUUhkTE5oZXhMWmp2aGR6Zw?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "fonte": "Portal do Agronegocio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -1919,9 +1951,9 @@
     {
       "id": "cc9f0ca2642cb27fadd6",
       "titulo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA",
-      "resumo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA g1.globo.com",
+      "resumo": "Especialistas avaliam que, assim como no tarifaço de 2025, existe espaço para o Brasil negociar nesta nova ameaça tarifária dos EUA G1",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaGFOUlBqU296SXpwUnF1VzMxd2VQWEFocUxUZnduVlBBYTNad0pkeG9Zd0QzSWZxWDBIV1VmVEM3OGhUV2ZrMDlRbXc5Z2dWUURjREFiZWNZS0xTbWJsWlZzeno0ZC16RFZFeF9tZ1VMTlNBTXYwbVFlU190T0JXdkIyaXkxd0VLcnJZQzVmWGJOb3J5eWlRVjh5XzFFdVpLRUdwUHJpZGd0RlNBZTRYOWpzS2JmcGhGNmFnb0l4NjB0c2dlQXhhU0RwWWRrMEcteGo4VnVlc0QwZzVGMVlKS0pCaWE2VDdodXhucjZGVGlUWjJoRG56YjN3akJVNzJMMTBySnd6Mm94WmVmeWJBMnJzQlVsOVdzbXpv0gGqAkFVX3lxTE9Ndkd1Yy14dGs4djdtTjVvdmw2SDB3ellsSFpyaVFZbXFvZlpobFJUTk9GTkl3M2JfM0F4Qk1mZkw5M21SRkd1eGV5NW1vNjlsbDkwS0k5NUdRaWQ2SzN2bzJyTENVb1d3OHc3TzFnanVYekp6YlM5U19GOW5OYk5INXRraGRqMTd0U0k3Q1JNMk04WWxhQWhHeGJEQmpzd2ZpdHMwcVkwLUJzU29pY29xTEw0VHc0WDZENWZuT0Jhem9EY3NRSHVtN1hCZDMwbm5rYkF5eTdDb0FlQ21wU1g3c2kxLVFZcDNCRldmMTdGYUc1amd4ZWoxUDd0amtSbGNoZXVhVVFaVVRnd3dHM29wWnZ6Z0d6eFdIV3hZLVdGREctY0IwSjI2RVE?oc=5",
-      "fonte": "g1.globo.com",
+      "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-03T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2116,9 +2148,9 @@
     {
       "id": "b4d6cac5bad494e07f38",
       "titulo": "Guerra no Oriente Médio derruba exportações de madeira do Brasil e eleva custos no setor florestal",
-      "resumo": "Guerra no Oriente Médio derruba exportações de madeira do Brasil e eleva custos no setor florestal Portal do Agronegócio",
+      "resumo": "Guerra no Oriente Médio derruba exportações de madeira do Brasil e eleva custos no setor florestal Portal do Agronegocio",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSGJMV2I3S3RJbEw2VzMzaHFBMTFoX25wbDlMTW1Nc2pKdjZuQnRZWmNHVkZZck1sMzNMcHpjWEFRMW5WYjFnTlJpdjE2V1Q4MjdnOGlnZWFPdUJnTS1YRnJjalZ1NkRSeGMwbG1ad19IUERTemttN18yV2VqM0dnbmRRSWpfS0Y2d3ZpaUpKRGh6TjlzYTlVSmlRa1IyTWdGejNZSlNsQ2d6VDlOYW4wNEdjbjdaRWJxalc4Y09nVnAwS3NaVWEwTloxcFJEaF9mbk5wdzVkblBXU09qR0FmM1dLdFhHQXBpZDI4SHhCOXdNRlVKaEEwS0Z2SVpUVlZkQlVuXw?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "fonte": "Portal do Agronegocio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-04-27T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2151,9 +2183,9 @@
     {
       "id": "d53d6d18956f13ba48c4",
       "titulo": "Exportações de madeira ensaiam recuperação em março, mas trimestre ainda registra forte queda",
-      "resumo": "Exportações de madeira ensaiam recuperação em março, mas trimestre ainda registra forte queda Portal do Agronegócio",
+      "resumo": "Exportações de madeira ensaiam recuperação em março, mas trimestre ainda registra forte queda Portal do Agronegocio",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMXdCLTVMMDk5c0hDVDFkVFZFVks2d1hnNEtwaGQxUW9ncU5SMThTNnBNSGNXeHVHVHFJWDNwbHQ1QUstdEJtNVM3RjlWd09QakVDS0NMZDVSZ0RTV2JsM3RyR1lfbHJQR1ZtVHFIMnQ3TElfWmtyZ2lLdjRjNnAwS09hemxiQUE5dHZPbTJ3Q2RfRkQ5UkctQzMxRWZ2WHpWbjJ5VF9tWlRUMmhRTEVZb1JfQ3psS05sTTloZEFidXRtZXhRSm10eTE4TjRvU2JqWkY5bUNia1ZkRzZmZUlRbTJic2kzUFVHNV9FSDJTNjFCYWJySkNMZnhDZlM?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "fonte": "Portal do Agronegocio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-04-13T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2313,9 +2345,9 @@
     {
       "id": "f519aca6762ccd671a31",
       "titulo": "Nova tarifa de 10% de Trump é melhor para o Brasil que a anterior, avalia Alckmin",
-      "resumo": "Nova tarifa de 10% de Trump é melhor para o Brasil que a anterior, avalia Alckmin veja.abril.com.br",
+      "resumo": "Nova tarifa de 10% de Trump é melhor para o Brasil que a anterior, avalia Alckmin VEJA",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEJNNWxEeGNua2FxUndFVGIxOGlvNjVYTTI3MGgtNHl1T19mZXZ4RVppSlFjZkhad2hRM1VCSGJRTDFka1R3MjExdVZYd21CcHU1bDUzcTdZUmJyNXgyMVhHejhoUk91XzBYWVE1SGJuTE5fbTVCUHNtRm8zRE1BdHZXUUxPREY1Qnd4d3NTNWtiNURhZ1VSbmdQSjFybGs5OHcxbXNQcjRvUVdqcTY3Z1cySlpZUQ?oc=5",
-      "fonte": "veja.abril.com.br",
+      "fonte": "VEJA",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-02-20T05:00:00-03:00",
       "categoria": "Política tarifária",
