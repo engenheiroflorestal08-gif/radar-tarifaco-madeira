@@ -1,13 +1,30 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-07T07:47:20.917786-03:00",
+    "atualizado_em": "2026-08-08T07:26:06.111872-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 242,
+    "novos_itens_encontrados": 236,
     "falhas_de_coleta": []
   },
   "noticias": [
+    {
+      "id": "9b883724712463c6d0f3",
+      "titulo": "Defesa do Brasil no Âmbito da Seção 301",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-08-08T07:26:06.089974-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "Seção 301",
+        "Brasil",
+        "MDIC"
+      ]
+    },
     {
       "id": "0e98136513f49f9d76c9",
       "titulo": "Alcance das Medidas Tarifárias dos Estados Unidos sobre Exportações Brasileiras",
@@ -15,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-07T07:47:20.894588-03:00",
+      "data_publicacao": "2026-08-08T07:26:06.086306-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -34,7 +51,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-07T07:47:20.861065-03:00",
+      "data_publicacao": "2026-08-08T07:26:06.052986-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -52,7 +69,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-07T07:47:20.345151-03:00",
+      "data_publicacao": "2026-08-08T07:26:05.241314-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -96,28 +113,11 @@
       ]
     },
     {
-      "id": "9b883724712463c6d0f3",
-      "titulo": "Defesa do Brasil no Âmbito da Seção 301",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/defesa-do-brasil-no-ambito-da-secao-301",
-      "fonte": "MDIC",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-06T08:59:31.138548-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "Seção 301",
-        "Brasil",
-        "MDIC"
-      ]
-    },
-    {
       "id": "dc93ebc2700aead87127",
       "titulo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas",
-      "resumo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas datamarnews.com",
+      "resumo": "Compradores dos EUA reduzem pedidos de madeira brasileira em um terço antes de novas tarifas DatamarNews",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZlFYTWZSWmdFQXlGVzFnMEVsTTRodjA0cEp1UU5ERlhjelQzbm9LTnZBeS1FYXlEWWxjaE9yeTFyaWJLUVBSMGdWYXZPNVc2RkJ5elYtYVNYbEVSN01iZ0VNU1ZtMFVHTy1USkloRkl4U2J4OXNOa2xSNjVzYkdnRi1NdnFaeTQ4Y2tFcGpRY3ZmQjVyNnZpVjVWcjNvcUUtamgyRGMwdXlPUk9DeThmNUVOTE5ybXMxQld4cE4yQlZJcU1nTFdYbQ?oc=5",
-      "fonte": "datamarnews.com",
+      "fonte": "DatamarNews",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-08-04T21:11:39-03:00",
       "categoria": "Indústria da madeira",
@@ -394,10 +394,10 @@
       ]
     },
     {
-      "id": "1015617e181e2010bec4",
+      "id": "e340e20e411d9af27fca",
       "titulo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor - aRede",
       "resumo": "Após taxar madeira brasileira, EUA investem US$ 80 milhões no setor - aRede aRede",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDQzUWlVQVJFYmlESFJQTVJyYV8tYkRUNzVpb0J2aFNWYTVZT1Vld2xiLUZvN0FsN2lLOE1wS2Z6VDM1VXhUeTJ6b3QxOWpUZWxSTk5XSWVCNTFuRTZHVjFDR1lvQlUwQmpzb2VISVpRNnRJc1kxcTZzel9vdEJrYjd5RTF4anBCbFQ5WVRlSEJIVXE4a18xR2xxSzRPMjBCVE9hUW8yVnZidkVIcDVONEUzUdIBswFBVV95cUxPWDQzUWlVQVJFYmlESFJQTVJyYV8tYkRUNzVpb0J2aFNWYTVZT1Vld2xiLUZvN0FsN2lLOE1wS2Z6VDM1VXhUeTJ6b3QxOWpUZWxSTk5XSWVCNTFuRTZHVjFDR1lvQlUwQmpzb2VISVpRNnRJc1kxcTZzel9vdEJrYjd5RTF4anBCbFQ5WVRlSEJIVXE4a18xR2xxSzRPMjBCVE9hUW8yVnZidkVIcDVONEUzUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2g3Tm5TcWNPVkRMZUdQV19tQ2x5ekJKZVd0Ujh0NDNMYmxlZ1NiQzE3cE9zNmxsdTRQR3VpZUJlOUVLdGk4VzkwSnBrd1FQT1RBSnlOZmxRV0JmY2RXYnkzODJlQ1VDcFJ2bzhNU3gxMmlJdzRvQXNHYnBtQ1NsVEZNVk5zSW82ZWRMYWdNTEZNVVJEaXJnUktnRzdiTmtnUzRPbGRtVVRnRWPSAbMBQVVfeXFMT1g0M1FpVUFSRWJpREhSUE1ScmFfLWJEVDc1aW9CdmhTVmE1WU9VZXdsYi1GbzdBbDdpSzhNcEtmelQzNVV4VHkyem90MTlqVGVsUk5OV0llQjUxbkU2R1YxQ0dZb0JVMEJqc29lSElaUTZ0SXNZMXE2c3pfb3RCa2I3eUUxeGpwQmxUOVlUZUhCSFVxOGtfMUdscUs0TzIwQlRPYVFvMlZ2YnZFSHA1TjRFM1E?oc=5",
       "fonte": "aRede",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-25T21:36:28-03:00",
@@ -1589,9 +1589,9 @@
     {
       "id": "28275a0a506e9edb80c2",
       "titulo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção",
-      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção diariodocomercio.com.br",
+      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção Diário do Comércio",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xcjdWcGk3LTcxVjRMT21kVWxFSWNIXzVOT2xUSDl4M0kyTll4dUFXSzNKZ0o2bXhSTU56ZHpSLXFZX2lwOWV0amd6bWxqeHJKSzdneVQxZGxKREM4M3dKTE5uanBndmx0MW93LTJFM0gyeFF3OUE3X3V3?oc=5",
-      "fonte": "diariodocomercio.com.br",
+      "fonte": "Diário do Comércio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-14T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -1688,9 +1688,9 @@
     {
       "id": "47c40b99253f4b1da3a1",
       "titulo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos",
-      "resumo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos Grupo RBJ de Comunicação",
+      "resumo": "Setor madeireiro está animado para isenção de tarifas após audiência nos Estados Unidos rbj.com.br",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUEzYnhibGFsVUFpNTBkT3U3VGQ5b2ViNHE2Q0VyUl9kSnBDaE5BYl9nRWxTbU16dFltc20xWENFc3Y1V1JvOENxbFZSTTdMcFJYZ0duVHlqbWNFYlFLNmNZZVg2NGE4Q3dYdjg0aUdBZVIzUHFLNHgzZTZoYjRqcW9RSHhVUjd0VG1kY0dNZW5rUzZfcC1SaDV4WG9tYkZQZW1pNjhVT29zTWs?oc=5",
-      "fonte": "Grupo RBJ de Comunicação",
+      "fonte": "rbj.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-08T15:00:01-03:00",
       "categoria": "Indústria da madeira",
@@ -1720,9 +1720,9 @@
     {
       "id": "3ee3a576e4f8434ea0c1",
       "titulo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço",
-      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço Grupo RBJ de Comunicação",
+      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço rbj.com.br",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkgxa2lNbVFVVHJTVXd3UzQtQ0pSRVFHZkdWLUcwbWRnRWRoN3NaVVI3bHRJTGJGREltSlNDOFR5aGZGRERWeUxkNVBoX3ZCWmo0VFB0MFJSWUVpS0d6X1c2YnJFZjhiLWpCeFJYbk9fNlEwOVBEUUMwNGJXQzhEeWdmaUtiRmNSVkh5NURyWUtXaWp2MWhMU0FfWlNaMmFwRVhiWnR3UFdpV0hZQlE?oc=5",
-      "fonte": "Grupo RBJ de Comunicação",
+      "fonte": "rbj.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-06T04:00:00-03:00",
       "categoria": "Indústria da madeira",
