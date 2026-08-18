@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-17T07:26:28.039020-03:00",
+    "atualizado_em": "2026-08-18T07:22:13.567601-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 249,
+    "novos_itens_encontrados": 252,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-17T07:26:28.015869-03:00",
+      "data_publicacao": "2026-08-18T07:22:13.541454-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -34,7 +34,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-17T07:26:27.982458-03:00",
+      "data_publicacao": "2026-08-18T07:22:13.500629-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -52,7 +52,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-17T07:26:27.344364-03:00",
+      "data_publicacao": "2026-08-18T07:22:12.899602-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -1264,21 +1264,6 @@
       ]
     },
     {
-      "id": "0ed0973b85ddb5f50a14",
-      "titulo": "Nova tarifa dos EUA ameaça elevar sobretaxa a 37,5%",
-      "resumo": "Nova tarifa dos EUA ameaça elevar sobretaxa a 37,5% Blog do Esmael",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nR1BPZXFsdVdBMEpJT3lvSjN3eDdrZGZSR3M0bnFuZmdRRDJGdmIzMUxNVGJldUpwQ29lekZkRHFRX3VlMWJJOF9McjFEWjFzWGpQcHl5YVlaWGJnaHZWdzFvNUxUSkc2ejJQeFhEZzdCMXkxNDdpaw?oc=5",
-      "fonte": "Blog do Esmael",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -1292,6 +1277,21 @@
       "tags": [
         "tarifa",
         "exportações"
+      ]
+    },
+    {
+      "id": "0ed0973b85ddb5f50a14",
+      "titulo": "Nova tarifa dos EUA ameaça elevar sobretaxa a 37,5%",
+      "resumo": "Nova tarifa dos EUA ameaça elevar sobretaxa a 37,5% Blog do Esmael",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nR1BPZXFsdVdBMEpJT3lvSjN3eDdrZGZSR3M0bnFuZmdRRDJGdmIzMUxNVGJldUpwQ29lekZkRHFRX3VlMWJJOF9McjFEWjFzWGpQcHl5YVlaWGJnaHZWdzFvNUxUSkc2ejJQeFhEZzdCMXkxNDdpaw?oc=5",
+      "fonte": "Blog do Esmael",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -1994,10 +1994,10 @@
       ]
     },
     {
-      "id": "30c77d800fb7c2bf0178",
+      "id": "861ec6692227a487d3d5",
       "titulo": "Análise: Taxação em 25% dos EUA pode afetar madeiras e máquinas brasileiras",
       "resumo": "Análise: Taxação em 25% dos EUA pode afetar madeiras e máquinas brasileiras CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRW9ESUpOUlVaSVN1TVphc04wYUx3REQ5blBtM0ttbkhXYW9rR0YwZ1V5dEdlM1RYdi1fb1ZONzRwX1dmRmVEV3RzbUo5a2pJenJtV0xjREpCaUNrSGlBNHhzQmtNQ3VKbmFXRUhJOG1FamRnRWtCMkNMWE1ETXhsMjh5RHhTRXE0MDVXcFRJM2Y4cTJZajFrTjhwMnFpdnJFYm1vaDhFdHVzb2dUdHc0TGZYXzlobldUVGxHMnRSN0l2WlhG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE5vdGhaOVZNQzVyME13dHZpbDgtREZGc29XeThmVDd1N3VMSWpCTUhKVS1GN0dvaHdUNWlvdjVINkE5ZGxNMWZVcloyckYxZDNiX2dEZTIxRmp2X0kzMXhrNnpEMGZRMmxfWEdTMU4yRjM4VnF0Wno0Rk0yRTREX0JXS3ZDdUNadm9ETXkxaWU2alBDb2o1eHBwbkFPNXc2RXJBeVRyeGJyRkJlTy10SEZUNjB6VWxYYjc1OTZmWVRqTDdqbnZ5cG0tZnk?oc=5",
       "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-04T04:00:00-03:00",
@@ -2029,9 +2029,9 @@
     {
       "id": "60556ae3592bf5f7887a",
       "titulo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro",
-      "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro canalrural.com.br",
+      "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro Canal Rural",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1RQbmFJRFZ4TGludmZvVWtFUC1ZbEJ0VFNyMjFHc1ZtcGNndDEycnZzNVFiekN5dmVEdzZaS2ZHOV9Vek9Pc21TSk9GcVRHd1JKdDZYTHUtUnpmZVRvdzN0amVCUVQ1Rm9YS1RhUGVnOE5mMEhqaTlVNXRZUkxDRGJjMkc5emZqa1JMV2lBbWJNV1QzdmFJWTRVUDVXVHAwdGpCMk1NVWpyMnJRYmRFMHNoUlFTWVc2Z3lpSGtoZ3hoUVFMb3Zyd0I0TGVMTUMyUjhv?oc=5",
-      "fonte": "canalrural.com.br",
+      "fonte": "Canal Rural",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-03T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2211,9 +2211,9 @@
     {
       "id": "445f6376b74a23cb22f2",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
-      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá portaldoagronegocio.com.br",
+      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcklQcDFCWE1MTERJd214alBQQnNtN2p2SWNQRlNoWVo2XzVCazB6aTJ6N3lhZ2V4NldkdHlZUEdoNjJrS3BfVDZGZkVtTnVhVENRTXN4NzdJeEdRaXB0d0c3NFVzTUkwUkhLSlo3SDROVXhWZDdFTnNkMU9KREU2d08teXptWXFuU0Z6SXRleXpiMzlPLURSRVc4cHplemNlRWIxazdac0UtOWFITmVEX0tLMEVTT1JnRGwxcUpOcXp5REliM25yRDh0RzR1OUdvT2w2WFptWmFGZTVuMU12TnY4WE1ZYnVYb0FQdVFocTUwLUs5STFHV05kNGlZek9DU0d5US1rUFBGMFFQQWoxLV9wUUhkTE5oZXhMWmp2aGR6Zw?oc=5",
-      "fonte": "portaldoagronegocio.com.br",
+      "fonte": "Portal do Agronegócio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2619,10 +2619,10 @@
       ]
     },
     {
-      "id": "5ddfe9536cab4f21a477",
+      "id": "29d669ade52a61bd14ff",
       "titulo": "Suprema Corte pode retirar tarifas de US$ 15 bi em exportações brasileiras",
       "resumo": "Suprema Corte pode retirar tarifas de US$ 15 bi em exportações brasileiras CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2xIazRzNmxGY1V3ak4yeXpJZzd6VG5iUlU5cE5LTml0WlFhc1Z6RUNjc215WG9LaUotb0VJa2dYdFdhdTIta2ROZllXRUt3bV9sS1p3N01NMERwUDVoOVpWMGRuam1VT3RFUUxJWVhNS0k2ODVBWHJNMFlYWXNHYjNnc3JvNG9qRG0zUkdIemFvWWh2MkZzcXowb0cxME5fekNHOFJzNUNNei14Ri01c1gzV1ZBRXRwTmNfeTRGdzVNSjNp?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkg0T1diOUYwbng5X2RpT3p0LTZoSmhFSTdIMVVZNXdNQmJ4QWE4MVlxUktqU21TR3dvMTBQNUN0TUpSaFltY1JETGFTWVdGYUZfLUVyVW5nQ3ZsOVo0ZVBCSVVpbl9FM3dZVm5HTjhYWVA2WXRvR2E1ZnVzV1J1aTdGSDc0OEhpalE2d1RGdUZveEtxUzZoUVpSLWl4UUJ1NHVRUGh1ZndEZUtUMUJYTUYyNHpCVnBxR0RtMWphRXZuN2xLelJ0a2ZVaVQ?oc=5",
       "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-02-20T05:00:00-03:00",
