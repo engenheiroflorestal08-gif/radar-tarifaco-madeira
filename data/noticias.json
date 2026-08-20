@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-19T07:22:21.392648-03:00",
+    "atualizado_em": "2026-08-20T07:23:57.974213-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 253,
+    "novos_itens_encontrados": 259,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-19T07:22:21.337848-03:00",
+      "data_publicacao": "2026-08-20T07:23:57.932112-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-19T07:22:20.853752-03:00",
+      "data_publicacao": "2026-08-20T07:23:57.403859-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -246,9 +246,9 @@
     {
       "id": "681c619d6c6754232f2f",
       "titulo": "Mesmo em trânsito, cargas de madeira serão taxadas pelos EUA nesta quarta",
-      "resumo": "Mesmo em trânsito, cargas de madeira serão taxadas pelos EUA nesta quarta cnnbrasil.com.br",
+      "resumo": "Mesmo em trânsito, cargas de madeira serão taxadas pelos EUA nesta quarta CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1JfWnFyNjdxVnpzTFZPbTJkOHFSaG91VzhTcmNGRkxGcEY5S0tNa1JPdnd1cHNjMk1yRjZqQmhzeDk2d2ZwbWJ3MGlLV1VBTUVFaDdHZFFKNWJtUkZnQk42azZaNTJMbmxxVnR4YkpsLXNxcUxCWXlYSmZ2RFNRX0cyTS0xTDVGMTlQS0xPcFBVTDV0eHNLVnZKbWRxRTM2ODFUeXdfUXNFY1E?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-29T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -920,9 +920,9 @@
     {
       "id": "3c2deb3367d753acb545",
       "titulo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira",
-      "resumo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira cnnbrasil.com.br",
+      "resumo": "Novo tarifaço: Não existe \"plano B\" para indústria da madeira CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajZJVVNfem9ZQjcwdkljdV91N3BkY0k5SFk2MS0xdXJwejl5WDZKSm5adWNHWl9JRkFWT3FCZFU5dXJJVE04Q05oR05PT1V6dEZjd1kzN01RTHk5c2tfeklaMXB6Z2x1Nlo0QjIwYjJFZGJfRE41YVVKUDduOGVCc0F2UXE3aUc2aGNHczU2NkpBUEt5U0I3X214aFVObmFDQWRiT1RIUkhCZ1FjWEFGejJiLWZOcjVNZzdIYXNPNnJydEh5cVJ4UGNhdDdSRzlBUVN2SFk2VQ?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-19T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -1247,23 +1247,6 @@
       ]
     },
     {
-      "id": "e5bd541be2ba3e982ab3",
-      "titulo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep",
-      "resumo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXFCRWtqblAwY3RFZE9ob00zdVR3TTEyWE9wbVdMTXVRNEkwYjJLeVhCNXg1X2Q2NVlocll6UHRJVG9fZ1o0Vlo5bWlWb0FVNkg4RW9kR2ZKSzd6Z1FNM2NLUXNWdGI5cHNSSlhJR2Z0V3lsbndPMnZWY05NTjJvVG9pU2NtbUVhZmJLdmJLa1g2dGlUNlZ2bS0zNlpjRWt0eU5fVGRIWFJPWmFBM3RieU5fWQ?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
-      ]
-    },
-    {
       "id": "d6086d40da8b8c158c1e",
       "titulo": "Tarifaço dos EUA deve atingir 54% das exportações de SC; madeira, móveis e máquinas lideram impactos",
       "resumo": "Tarifaço dos EUA deve atingir 54% das exportações de SC; madeira, móveis e máquinas lideram impactos ND Mais",
@@ -1277,6 +1260,23 @@
       "tags": [
         "tarifa",
         "madeira",
+        "exportações"
+      ]
+    },
+    {
+      "id": "e5bd541be2ba3e982ab3",
+      "titulo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep",
+      "resumo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXFCRWtqblAwY3RFZE9ob00zdVR3TTEyWE9wbVdMTXVRNEkwYjJLeVhCNXg1X2Q2NVlocll6UHRJVG9fZ1o0Vlo5bWlWb0FVNkg4RW9kR2ZKSzd6Z1FNM2NLUXNWdGI5cHNSSlhJR2Z0V3lsbndPMnZWY05NTjJvVG9pU2NtbUVhZmJLdmJLa1g2dGlUNlZ2bS0zNlpjRWt0eU5fVGRIWFJPWmFBM3RieU5fWQ?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
         "exportações"
       ]
     },
@@ -1674,21 +1674,6 @@
       ]
     },
     {
-      "id": "6374b1b061c2aaf6a60f",
-      "titulo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes'",
-      "resumo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes' G1",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXhwalMzbkFndEZoaEtIckVXOEFjRjBFMm9sTTNWNUNsOHg3Q1pxeVppTkZMM0xGN2l3Tm9idVYwQ1c1WlhmM2V5cFlVU3VJR0NBVUt4SHptTXdyVWVpYUw2M19MTTE2RC1WWHdYdkZ1Q3IzRDlVNGNtY1Vid0pJNjNRTHlVTEFsam9KMENWMkFXbmJHeWZlSUI5ck1zUEE5NkhVV3h5eF84d1pWVkgydWJ6UFBGREVBQ2dXWU51VGJFTG5zeGtDdlJiOVZiQXFaZnRrYnlQa3UzdENkVWhQOEdVc0RjcElNa1U2Nk9mWGZ4Qllqd1JaWTYxVE5BbUlLTjRKLUFrd9IBlgJBVV95cUxQeW1kdGNseEFWYnVPVVQ2dlI1WVlvazFZUnJSYW01d3pESldodmFHR1luNGdOYTVxdW04UWxxZE9yUEtSWXlXZFZFMkpJazhwcXdaTWZhZnJ2OWhPNG5GM0JhVm5UTTd3aHJQU2VOT3VjREsyUy1ZR3pMWmR4ZXVuYXdLTjhMa2xibUo1bEdWaFZETzAzLVI2bFdqTm96OExUUmhtNHdPUzRtNEZrZkRQMUlxWnNtS0pFMDRpeUxnM0p0ZE91R01iQ3BaOVhIN1I5ekZGbzFyVVRvcWtFSmZUZ2xLVm8zdmNoa00yUVlMWFYwYi1GRE0xM05GNklUdC1KWW5nallwN2lmLWN5TVVjVzkyVFp2Zw?oc=5",
-      "fonte": "G1",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "67dd175a24de45267525",
       "titulo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro",
       "resumo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro Valor Econômico",
@@ -1705,6 +1690,21 @@
       ]
     },
     {
+      "id": "6374b1b061c2aaf6a60f",
+      "titulo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes'",
+      "resumo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes' G1",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXhwalMzbkFndEZoaEtIckVXOEFjRjBFMm9sTTNWNUNsOHg3Q1pxeVppTkZMM0xGN2l3Tm9idVYwQ1c1WlhmM2V5cFlVU3VJR0NBVUt4SHptTXdyVWVpYUw2M19MTTE2RC1WWHdYdkZ1Q3IzRDlVNGNtY1Vid0pJNjNRTHlVTEFsam9KMENWMkFXbmJHeWZlSUI5ck1zUEE5NkhVV3h5eF84d1pWVkgydWJ6UFBGREVBQ2dXWU51VGJFTG5zeGtDdlJiOVZiQXFaZnRrYnlQa3UzdENkVWhQOEdVc0RjcElNa1U2Nk9mWGZ4Qllqd1JaWTYxVE5BbUlLTjRKLUFrd9IBlgJBVV95cUxQeW1kdGNseEFWYnVPVVQ2dlI1WVlvazFZUnJSYW01d3pESldodmFHR1luNGdOYTVxdW04UWxxZE9yUEtSWXlXZFZFMkpJazhwcXdaTWZhZnJ2OWhPNG5GM0JhVm5UTTd3aHJQU2VOT3VjREsyUy1ZR3pMWmR4ZXVuYXdLTjhMa2xibUo1bEdWaFZETzAzLVI2bFdqTm96OExUUmhtNHdPUzRtNEZrZkRQMUlxWnNtS0pFMDRpeUxnM0p0ZE91R01iQ3BaOVhIN1I5ekZGbzFyVVRvcWtFSmZUZ2xLVm8zdmNoa00yUVlMWFYwYi1GRE0xM05GNklUdC1KWW5nallwN2lmLWN5TVVjVzkyVFp2Zw?oc=5",
+      "fonte": "G1",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "ca7e7af592e74a586c4c",
       "titulo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná",
       "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná Blog do Esmael",
@@ -1718,6 +1718,22 @@
       "tags": [
         "tarifa",
         "madeira"
+      ]
+    },
+    {
+      "id": "4c0a4446e1648eec5e6f",
+      "titulo": "Setores sem exceção à tarifa dos EUA veem perda de competitividade",
+      "resumo": "Setores sem exceção à tarifa dos EUA veem perda de competitividade InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjBydENBTmEtWDkyX2o1UUZrOWpLbWVlNlJnMFNRQ1NBQXcxNjhSS00xUEpfOWhLcllxaHFHR0poZXNZS2pNbTRpbkR0SU1PdF8zaEI5SjlkaHRoYmlKaG8zel9JU3lJbnhCaXNTNHZGX3YyOWktZjNFem5MV1lmcFlsX2N2eUlmd0lVME1FZUNLUEJ4Qnk2V3RvdWptSm5LQkl5ZDAzZVTSAa4BQVVfeXFMTjJUYlVOTjdUb0cxNDhoeVFXNXl2TUNodm1pY0tGTFV1SVlFVl9rM1ViWDNrNy1BVUVhQ1NoVU5pY1F6dWJjT2cycmwteHREdTNOdGUyaDFyNkdQdWJ3bnMxU01xNGtWQ21xSXFudjVEQXFCYmp2aXBBV3E3TnVWTy10Xy1zQnBTWjluaW1sV0ItaFZ2T0RIZ0hwY3RUT04yeDVYMndsaFIyY3JQaVhR?oc=5",
+      "fonte": "InfoMoney",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "competitividade"
       ]
     },
     {
@@ -1867,9 +1883,9 @@
     {
       "id": "030383041b70e5772b08",
       "titulo": "Setor da madeira apresenta defesa ao USTR e tenta barrar tarifa de 25%",
-      "resumo": "Setor da madeira apresenta defesa ao USTR e tenta barrar tarifa de 25% cnnbrasil.com.br",
+      "resumo": "Setor da madeira apresenta defesa ao USTR e tenta barrar tarifa de 25% CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVjOXFkbnV6bGIxRW1QaFVFOU8wTW5NNVlkeE5QRXR5czRoM3R3ZXJsRDlKLV8tZS1xRnB1cXhrZm5Lc2ozcjZfMUFxczVnU3VBNjZ2TDBtM2FKVUNGQlljZnNlNDF3dzg0SldjemRiU2RTVXBsN3BXaDRBaG12MTVvN3FDQlFlMXVHaGxwck5rUmJ0aHkxR09hUF9jRVZsWG1HLXA2TGpJRFo4UGhGQS1zUUh0WTg0VGFrVjNzUQ?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -1933,9 +1949,9 @@
     {
       "id": "8532771acf5b37026f8b",
       "titulo": "Tarifaço: Indústria fala em complementaridade e tradição para defender país",
-      "resumo": "Tarifaço: Indústria fala em complementaridade e tradição para defender país cnnbrasil.com.br",
+      "resumo": "Tarifaço: Indústria fala em complementaridade e tradição para defender país CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjZmV3RPa1NONEtRakFCdDN1eWRob0NyZ1hWR0V1UGpCM1VlZXpnbVpHa1Y0NnZIZ0NsSXVIMUhVR0dQWTlGSUR1NzlGQXQtSGl5bjk1VW9jTmNoT1JzTlFSOFNQcXhmRHBsZkZPLUpyRmR4ZDQ1ZWd4ckU4b2JJZXg2WGNxd0RISjFkanZOeXpfUW5laVhNUERGSm10UFlPZ284eXZ3bWZod2ZUZlBCMExwY0tXM1VHWVo4OFhrMjNkc2wydFlxY193eDNTUQ?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-07T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2028,9 +2044,9 @@
     {
       "id": "861ec6692227a487d3d5",
       "titulo": "Análise: Taxação em 25% dos EUA pode afetar madeiras e máquinas brasileiras",
-      "resumo": "Análise: Taxação em 25% dos EUA pode afetar madeiras e máquinas brasileiras cnnbrasil.com.br",
+      "resumo": "Análise: Taxação em 25% dos EUA pode afetar madeiras e máquinas brasileiras CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE5vdGhaOVZNQzVyME13dHZpbDgtREZGc29XeThmVDd1N3VMSWpCTUhKVS1GN0dvaHdUNWlvdjVINkE5ZGxNMWZVcloyckYxZDNiX2dEZTIxRmp2X0kzMXhrNnpEMGZRMmxfWEdTMU4yRjM4VnF0Wno0Rk0yRTREX0JXS3ZDdUNadm9ETXkxaWU2alBDb2o1eHBwbkFPNXc2RXJBeVRyeGJyRkJlTy10SEZUNjB6VWxYYjc1OTZmWVRqTDdqbnZ5cG0tZnk?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-04T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2059,10 +2075,10 @@
       ]
     },
     {
-      "id": "60556ae3592bf5f7887a",
+      "id": "2d7c24a22d5538646b7b",
       "titulo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro",
       "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro Canal Rural",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1RQbmFJRFZ4TGludmZvVWtFUC1ZbEJ0VFNyMjFHc1ZtcGNndDEycnZzNVFiekN5dmVEdzZaS2ZHOV9Vek9Pc21TSk9GcVRHd1JKdDZYTHUtUnpmZVRvdzN0amVCUVQ1Rm9YS1RhUGVnOE5mMEhqaTlVNXRZUkxDRGJjMkc5emZqa1JMV2lBbWJNV1QzdmFJWTRVUDVXVHAwdGpCMk1NVWpyMnJRYmRFMHNoUlFTWVc2Z3lpSGtoZ3hoUVFMb3Zyd0I0TGVMTUMyUjhv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN05xV3JhSkpHal83ZGZvUmdLWkNydThrM3h0eURYSGVGMmcwTW5Hc3BuSFFLS2pjRVdEOW53QjMxZzZBOUVCOTJ2NHVIS2lxMUs1NDYwNnBBZTBFbGRjZm5xQ3hQbEI1WnB0aklETURSak1TelEyNnZQdEx1a1REWnB3TUJFM05mWmRjTmd0VFF2SU1NU1p2bmRJelNhUjdPVFg4ZEVjbzRNSzBmRVRHaldfbUpfVjV1T2RHZDJFX3hJRVRMUUZEVm16TDJwbGFYTnlr?oc=5",
       "fonte": "Canal Rural",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-03T04:00:00-03:00",
@@ -2357,9 +2373,9 @@
     {
       "id": "6986e041720a0bf93384",
       "titulo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo",
-      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo cnnbrasil.com.br",
+      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzV3T2Y1dWxjQ2dTSTlPaW8xMXZ5TkJxRnJDMnJ4LW44VDNhUFFiS1NBSGNXV0ZsOXVpVzVwbm9FaWZ1WDl5SHFFUFI0Z2tidDNHeWNLQnIzQi00LVk5RTdHNVN5UTVGNjBZLU9STzhoWFUwODBDTHpkVWtWZGE4QWlldXJGSXp1blBzc2xMSWlaM3Uyb3dCcmRtUk9wWFhiQWpaTHRta2J0MmNrRURKRUl0Q2VwbUp2bWMw?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2373,9 +2389,9 @@
     {
       "id": "e0f5d54b53104761d5f9",
       "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
-      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras cnnbrasil.com.br",
+      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
-      "fonte": "cnnbrasil.com.br",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
