@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-20T07:23:57.974213-03:00",
+    "atualizado_em": "2026-08-21T07:23:52.205655-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 259,
+    "novos_itens_encontrados": 253,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-20T07:23:57.932112-03:00",
+      "data_publicacao": "2026-08-21T07:23:52.149099-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-20T07:23:57.403859-03:00",
+      "data_publicacao": "2026-08-21T07:23:51.623324-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -375,6 +375,23 @@
       "tags": [
         "Brasil",
         "madeira"
+      ]
+    },
+    {
+      "id": "1934db8da3f59c075f76",
+      "titulo": "Tabaco brasileiro pode perder US$ 100 mi em exportações com tarifas dos EUA",
+      "resumo": "Tabaco brasileiro pode perder US$ 100 mi em exportações com tarifas dos EUA CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUpSVVFwWC1haE11OExPVHg3U292T0JPREZGcElNT0FxTkNsaFpxdkVXRGloT3dCY3RGelcwZWNrVEU3ajVJT05RbFl4UGh0WHp3anBKY25UUy1lRWRIWGp4cHQtZXdicllaV1RjeTdxbS0wRkZBOTBIdUZySXc5SHYySFA1eExEejBXeU5SZ0hSX1FMWEFCUElDbHMtYWI3S1M0QUtSSWctYThQWXc?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-27T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
@@ -1244,6 +1261,22 @@
         "tarifa",
         "ABIMCI",
         "USTR"
+      ]
+    },
+    {
+      "id": "f23f6ed58fb03e3c14e3",
+      "titulo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas",
+      "resumo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas vermelho.org.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1E1QmZOWjNsQTUtck90TFFITWlIM0ZkbU96a0hOYVRZd0VIeE5sMDc1RXRQRG92bWJKNXIzZnZSVGF5QzBDak51cjFmZ0dUb3pYV0JELXJELU9jRXU2cHVGU1llNFZCT1plaHFxdXM3c3NGTXNnU3ZpR2RSemVPMEI5enduNGtqbDNiR3d6YjY5d0JUVUN5b0p2bDRrUll0NmVF?oc=5",
+      "fonte": "vermelho.org.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
