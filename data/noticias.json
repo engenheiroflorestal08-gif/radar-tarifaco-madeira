@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-21T07:23:52.205655-03:00",
+    "atualizado_em": "2026-08-22T07:17:46.102859-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 253,
+    "novos_itens_encontrados": 254,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-21T07:23:52.149099-03:00",
+      "data_publicacao": "2026-08-22T07:17:46.048530-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-21T07:23:51.623324-03:00",
+      "data_publicacao": "2026-08-22T07:17:45.572173-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -605,6 +605,22 @@
       "tags": [
         "Brasil",
         "madeira"
+      ]
+    },
+    {
+      "id": "c968d14b00f9591b1f85",
+      "titulo": "Saiba quais produtos brasileiros estão isentos da tarifa de 12,5% dos EUA",
+      "resumo": "Saiba quais produtos brasileiros estão isentos da tarifa de 12,5% dos EUA Grupo Amanhã",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWndFU3FVdmZjWmVNaUpWUllYdG5wWk0zZnFUaThxY0xkakIzZ2J5MXV1b3hIZVk2Zk1tSkJ1NjN3ZHVYaEpOVmlveWF6ZVE3bDZUWlFuaHRqazY4YW5fcUowNmhWUmJhQ0dHVkJGU3NtaWpHTmpvajNzdkROOHZyU19yZmU2dkFNSzV0a0ctSWFaUkx5aEtGQUF6WVZ6elk2aUEyTWNPbzBLS0ZCUG5wRmsyVGJNQlhJRV9V?oc=5",
+      "fonte": "Grupo Amanhã",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-24T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -1314,6 +1330,21 @@
       ]
     },
     {
+      "id": "27e26aba3b6e72194632",
+      "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
+      "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFLUklmNDFUbmRJTWJhb2dJZmxIWWNmUEw5NzBVZGFMRHJZZzI1TWpnU1N1d1JWVlpjUVdsWko5RFV4TXpvQ3RfU19GQ1ZIdml4SkFOYWNfYk5ncE0xM3FiWTVIeU02V2xzWjBXS0VjUkhVUXRoczdBLUpYY29nWmZsMjNiRlZjbS1OcjlBVEZIYjdDOGY0cXltN2hFSXVfNktwS09wblFIYmVGbjZKNG1haC1SSG1pNTlDOTFn0gHDAUFVX3lxTE5nSFllM0ZsTXNwRWhDa3FYRVVGLTNyVlVacFB3U0Y5a0E0UU9oei1XVllwYzdTbE81enZiMzNyUzlxLWdidEp5Y0pxQWJWVFpYYXF3RGpNWFNuZEx4bm1nOFJPa3RsZEFPZU1OM1RMeFBXcjB4Q1Z4b0tYbWtKaGZWY1FfRDRLUjNIay1OX3d1a1l6OGtmUXVvdGtfeE5jR01aNnVKQ2VJOXNRUms4OC1kVUlVNUFTZVRRaklxWGFySlAxZw?oc=5",
+      "fonte": "Bem Paraná",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -1914,10 +1945,10 @@
       ]
     },
     {
-      "id": "030383041b70e5772b08",
+      "id": "a640e6113c1bac2a357d",
       "titulo": "Setor da madeira apresenta defesa ao USTR e tenta barrar tarifa de 25%",
       "resumo": "Setor da madeira apresenta defesa ao USTR e tenta barrar tarifa de 25% CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVjOXFkbnV6bGIxRW1QaFVFOU8wTW5NNVlkeE5QRXR5czRoM3R3ZXJsRDlKLV8tZS1xRnB1cXhrZm5Lc2ozcjZfMUFxczVnU3VBNjZ2TDBtM2FKVUNGQlljZnNlNDF3dzg0SldjemRiU2RTVXBsN3BXaDRBaG12MTVvN3FDQlFlMXVHaGxwck5rUmJ0aHkxR09hUF9jRVZsWG1HLXA2TGpJRFo4UGhGQS1zUUh0WTg0VGFrVjNzUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkpkeVJ2NDN5SXBOU19kZlJmdVZlYl9ONks1djY2aldheVJmUGstcVVTNjc0a1QwaGVpM25xcWNPUUZOd3d0aDFBLWpyczhqc2xYVktvVklseUVfT3NEWkFZeXBBRVRjMklQcjNQeHVTS3J1QXMySzhLVFZiSXhNWVk5aS10X2tWVEJqRGdTbTJiQTA2RktsRW8wa1JkNGdoZmd6czQyVUZaUGJSX0IxbUpjRDJnZFVwSEZZY3llYmRERWhIa0FR?oc=5",
       "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-09T04:00:00-03:00",
@@ -2290,10 +2321,10 @@
       ]
     },
     {
-      "id": "445f6376b74a23cb22f2",
+      "id": "2c07784f4570e1a30ee3",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
       "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcklQcDFCWE1MTERJd214alBQQnNtN2p2SWNQRlNoWVo2XzVCazB6aTJ6N3lhZ2V4NldkdHlZUEdoNjJrS3BfVDZGZkVtTnVhVENRTXN4NzdJeEdRaXB0d0c3NFVzTUkwUkhLSlo3SDROVXhWZDdFTnNkMU9KREU2d08teXptWXFuU0Z6SXRleXpiMzlPLURSRVc4cHplemNlRWIxazdac0UtOWFITmVEX0tLMEVTT1JnRGwxcUpOcXp5REliM25yRDh0RzR1OUdvT2w2WFptWmFGZTVuMU12TnY4WE1ZYnVYb0FQdVFocTUwLUs5STFHV05kNGlZek9DU0d5US1rUFBGMFFQQWoxLV9wUUhkTE5oZXhMWmp2aGR6Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQT21ITndLOXQwQlV4S2t1MmczOXZIMlRRMWhYOWllaDhVOW56eFJiQXJqMk9IaXRrNGI3Q0lNRUhDT3JuY1Y0NmdULXlpbGlwT3Q4UE9lVlBDVmpnS00zeTZFN3R0ZV9fYnlCYVptWk1fU20tWE55NFhrYmdWbUF6VUJVU2liV0VCQkZzQlFrSTlRRDFxSkkzNjlqMTlyQzR4eTVMR3ByRVBLMFMyaVhaR3pnQ3U2YmZ4Q0M3OW9WRW9McmlWemdtSEVXZV81QnM5X0tuY2RUMVl2U2M0bnUwc0hYZTVvYzdjM2FrMDdIV0Z0M2JpcHZZVlFtRFNEckVUOEVkTnctTEVLbWthaGpoX1Q3bzVydmhMQndPd2dKbTJwSDJtX0dF?oc=5",
       "fonte": "Portal do Agronegócio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
@@ -2681,22 +2712,6 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
-      ]
-    },
-    {
-      "id": "0654fcd29089683d99cb",
-      "titulo": "Tarifaço dos EUA cai, Brasil é maior beneficiado, mas novas tarifas geram incertezas",
-      "resumo": "Tarifaço dos EUA cai, Brasil é maior beneficiado, mas novas tarifas geram incertezas NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGE5X0hJaXFsSEJwRFJsR0pEVXJLa251cTRqS3FrM2dtREtVRjZvUVIzSmtvQ2tGV2hrMHYzM0c3bVhWWTE0RmkzWUM1YXgtdGJ5T18zREZwbURQdTByY2hlOTBaSTFWaHJOay1zV1d5TlB0UkJZV3h0aGF4V2xRdHVBVkJMTzdFZHZia3V6MDJiQ3R2d0w0bFZUUXpBcnFySldtRUh2ZXR2LURpb2poQklJLVpIV2c0RVlybTctNHdZWUFWajNxVTNxWFRVbHM4V1E?oc=5",
-      "fonte": "NSC Total",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-02-23T05:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     }
   ]
