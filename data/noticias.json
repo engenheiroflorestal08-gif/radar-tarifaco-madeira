@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-24T07:32:26.517019-03:00",
+    "atualizado_em": "2026-08-25T07:25:36.393682-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 263,
+    "novos_itens_encontrados": 261,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-24T07:32:26.453003-03:00",
+      "data_publicacao": "2026-08-25T07:25:36.340144-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-24T07:32:25.843948-03:00",
+      "data_publicacao": "2026-08-25T07:25:35.867895-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -352,6 +352,23 @@
       "fonte": "ICL Notícias",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-27T07:32:51-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "competitividade"
+      ]
+    },
+    {
+      "id": "8782713fbf22c7a40a81",
+      "titulo": "EUA: Brasil fora de isenções extras para tarifa perde competitividade",
+      "resumo": "EUA: Brasil fora de isenções extras para tarifa perde competitividade brasilagro.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkkwS0VFcnF6eVJmc3Vrazl0c2ktS25YT21BNHVDS2VTVjgwMkRETlNiV0hrd29qbHI5VTVPVzZwQ0IzSnRZZjdRTkMydndCUmlia0N1TTNHN0I3ZlRfMUh1cTREMThzSFJFczhPQW12TnV4R3F3QUJsbmN4Q3ZFZDFQTFpvMGI2Z29yVVF5azJ4bjRlbHpRQzBKWUZvTVlrN3FqX1RfZVFNNmFkRkNtMnRxaw?oc=5",
+      "fonte": "brasilagro.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-27T05:33:13-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -931,6 +948,22 @@
       "tags": [
         "tarifa",
         "Brasil"
+      ]
+    },
+    {
+      "id": "d177e20f40536c68a71c",
+      "titulo": "SC tem 68% das exportações aos EUA afetadas pelo tarifaço; estado está entre os mais vulneráveis pela taxação",
+      "resumo": "SC tem 68% das exportações aos EUA afetadas pelo tarifaço; estado está entre os mais vulneráveis pela taxação NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WNHpaajlkX0N2SE83Ny05NjRmeVRQRjh3NEdWb2JvQ3VvczNha2c5bVc2UjBMN1EzckVHczMxR2xra05VVkp3c2xLMTVyQzA?oc=5",
+      "fonte": "NSC Total",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-20T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
       ]
     },
     {
