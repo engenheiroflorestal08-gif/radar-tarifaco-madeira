@@ -1,13 +1,29 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-25T07:25:36.393682-03:00",
+    "atualizado_em": "2026-08-26T07:29:38.060704-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 261,
+    "novos_itens_encontrados": 266,
     "falhas_de_coleta": []
   },
   "noticias": [
+    {
+      "id": "0fa931bbac5753d13da9",
+      "titulo": "Governo amplia prazo do drawback para empresas afetadas por tarifas adicionais dos EUA",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/governo-amplia-prazo-do-drawback-para-empresas-afetadas-por-tarifas-adicionais-dos-eua",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-08-26T07:29:38.031416-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "MDIC"
+      ]
+    },
     {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
@@ -15,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-25T07:25:36.340144-03:00",
+      "data_publicacao": "2026-08-26T07:29:38.002092-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +49,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-25T07:25:35.867895-03:00",
+      "data_publicacao": "2026-08-26T07:29:37.345852-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -2370,17 +2386,18 @@
       ]
     },
     {
-      "id": "2c07784f4570e1a30ee3",
+      "id": "72847c2003ac48bffabd",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
-      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQT21ITndLOXQwQlV4S2t1MmczOXZIMlRRMWhYOWllaDhVOW56eFJiQXJqMk9IaXRrNGI3Q0lNRUhDT3JuY1Y0NmdULXlpbGlwT3Q4UE9lVlBDVmpnS00zeTZFN3R0ZV9fYnlCYVptWk1fU20tWE55NFhrYmdWbUF6VUJVU2liV0VCQkZzQlFrSTlRRDFxSkkzNjlqMTlyQzR4eTVMR3ByRVBLMFMyaVhaR3pnQ3U2YmZ4Q0M3OW9WRW9McmlWemdtSEVXZV81QnM5X0tuY2RUMVl2U2M0bnUwc0hYZTVvYzdjM2FrMDdIV0Z0M2JpcHZZVlFtRFNEckVUOEVkTnctTEVLbWthaGpoX1Q3bzVydmhMQndPd2dKbTJwSDJtX0dF?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá RADAR DIGITAL BRASÍLIA",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSXFDUm13T2FhS0I3MHVOS3BCMTFLRWM4allwblA0ZFRQVDNtd3VhTmxXbGtPSW5hZFFlRjBjWHM2aEhsR3JuR1N2ZDh4YXhCUGQyRDl0ZmlqVWNVcjluUzdhNkp4Zll5SjRHZm9HWG1IbzFqQjJkd3V6VXkxLVRiak8xMFh3M3lPbEllT0hldUpITEJSUHBlaW5wN0lhb25DcW10QWZCVFJETkVLdEF3UFdxb1NNVnBfVUJOOVdieUtLNEdVRi1ZdnNCa2xwQ28zSG80Z1dXaFZ5QmRRcGtkWG42N1dENFZGNzl3cHZNeGhjeHNkSWw1MA?oc=5",
+      "fonte": "RADAR DIGITAL BRASÍLIA",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "baixa",
       "foco_madeira": true,
       "tags": [
+        "Brasil",
         "madeira",
         "exportações"
       ]
