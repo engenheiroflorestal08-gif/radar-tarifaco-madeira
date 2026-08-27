@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-26T07:29:38.060704-03:00",
+    "atualizado_em": "2026-08-27T17:06:12.216428-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 266,
+    "novos_itens_encontrados": 269,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,12 +15,29 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/governo-amplia-prazo-do-drawback-para-empresas-afetadas-por-tarifas-adicionais-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-26T07:29:38.031416-03:00",
+      "data_publicacao": "2026-08-27T17:06:12.185613-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "tarifa",
+        "MDIC"
+      ]
+    },
+    {
+      "id": "1ad8cb3c1d21b96693f4",
+      "titulo": "Ministro Márcio Elias Rosa participa de acordo entre ApexBrasil e indústria indiana",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/ministro-marcio-elias-rosa-participa-de-acordo-entre-apexbrasil-e-industria-indiana",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-08-27T17:06:12.182069-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "Brasil",
+        "USTR",
         "MDIC"
       ]
     },
@@ -31,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-26T07:29:38.002092-03:00",
+      "data_publicacao": "2026-08-27T17:06:12.148886-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -49,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-26T07:29:37.345852-03:00",
+      "data_publicacao": "2026-08-27T17:06:11.604334-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -832,6 +849,22 @@
       "data_publicacao": "2026-07-22T08:08:57-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "38b2bf2492103be69aaf",
+      "titulo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores",
+      "resumo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores diariodopara.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTlVbTlESWFMYnhfUVRCUXV6b21wVWxaX2dTWHdPXzg5QzVwZWR4MUh3Ukk0QnZmNzFYSy1aQnlIUDNsSzI2cTlsMlJQX20yRWxBX0pkTjJnalJITTg4NTVCQ21IcXF6V0RIZ045T1RLbVJ4TTJmY0prR0xCSHVfU3RiclhEdW8tNXdQSVlmZ25OQzBFWExELS1OcUhnZzQ1dE1qT0x6OHZObE1YTFJQYWkzblZvWElJR0JyYzlQOXg2aGRPNjBWXzJB?oc=5",
+      "fonte": "diariodopara.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
       "foco_madeira": false,
       "tags": [
         "tarifa",
@@ -1802,22 +1835,6 @@
       ]
     },
     {
-      "id": "67dd175a24de45267525",
-      "titulo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro",
-      "resumo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dkUy14TEd4TkpvZEN0Q0xsMFVCdFd4ZzFkQURXWnJwUTJiUEhpVnNta2lSS2RRMHNreFRUd0Ewdkx2eGNvRmVBTl9DMTU2TTB2T1p3LWNKM3JodkFxaHlubHBJUzRpa1NUci1ja3JCQzhzWHFWTERjNU80NU5qQ2U0NUd6UVhJejhkN2M4WWtLN0lyTks1OTBGaTZJNThJTWNfWldJQjlkdm9PTXRQTGM4UjliMEUwam55UVVKamN3U0xEM1g5UERLM0M4SkoxZ3htRWJ6c0Nyb2ZNSGNaeDB30gHwAUFVX3lxTE4wWHdiMUZibnhDX2ZZb3ZFSmNBa29QMEpBem92V1JSY1RmZkZkZ29hdk9FdFdlMGV0X2pac1lLMkpKOFhWek9EcWExYzhGaUdDYUhqUm5ETy1Kb1RfX2NIQS15TFNGcjQyanQxYUpab0hZWU9uSE1CX2VFdFlVRUYxa3VXWmJWS3pYSzZ6VDZ6c2tTN01fN1lnclVNQjNJVXRGSnRMc1F1amtqVkRJaDZIZEhsN3FoZFNqbHl6VHJHOVlSZUF2emJ4QUtRelJYcXdMTmdGTS1uaXVGTFBqTW5yLUlxbFVGZTF6eGdxTDNTdQ?oc=5",
-      "fonte": "Valor Econômico",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "exportações"
-      ]
-    },
-    {
       "id": "ca7e7af592e74a586c4c",
       "titulo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná",
       "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná Blog do Esmael",
@@ -1831,6 +1848,22 @@
       "tags": [
         "tarifa",
         "madeira"
+      ]
+    },
+    {
+      "id": "67dd175a24de45267525",
+      "titulo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro",
+      "resumo": "Setores atingidos por novo tarifaço correspondem a 15% das exportações, afirma ministro Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dkUy14TEd4TkpvZEN0Q0xsMFVCdFd4ZzFkQURXWnJwUTJiUEhpVnNta2lSS2RRMHNreFRUd0Ewdkx2eGNvRmVBTl9DMTU2TTB2T1p3LWNKM3JodkFxaHlubHBJUzRpa1NUci1ja3JCQzhzWHFWTERjNU80NU5qQ2U0NUd6UVhJejhkN2M4WWtLN0lyTks1OTBGaTZJNThJTWNfWldJQjlkdm9PTXRQTGM4UjliMEUwam55UVVKamN3U0xEM1g5UERLM0M4SkoxZ3htRWJ6c0Nyb2ZNSGNaeDB30gHwAUFVX3lxTE4wWHdiMUZibnhDX2ZZb3ZFSmNBa29QMEpBem92V1JSY1RmZkZkZ29hdk9FdFdlMGV0X2pac1lLMkpKOFhWek9EcWExYzhGaUdDYUhqUm5ETy1Kb1RfX2NIQS15TFNGcjQyanQxYUpab0hZWU9uSE1CX2VFdFlVRUYxa3VXWmJWS3pYSzZ6VDZ6c2tTN01fN1lnclVNQjNJVXRGSnRMc1F1amtqVkRJaDZIZEhsN3FoZFNqbHl6VHJHOVlSZUF2emJ4QUtRelJYcXdMTmdGTS1uaXVGTFBqTW5yLUlxbFVGZTF6eGdxTDNTdQ?oc=5",
+      "fonte": "Valor Econômico",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
       ]
     },
     {
