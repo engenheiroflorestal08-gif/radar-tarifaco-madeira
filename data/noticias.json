@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-27T17:06:12.216428-03:00",
+    "atualizado_em": "2026-08-28T18:03:34.617968-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 269,
+    "novos_itens_encontrados": 268,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/governo-amplia-prazo-do-drawback-para-empresas-afetadas-por-tarifas-adicionais-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-27T17:06:12.185613-03:00",
+      "data_publicacao": "2026-08-28T18:03:34.592687-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "id": "1ad8cb3c1d21b96693f4",
+      "id": "64903bc7efaeab854949",
       "titulo": "Ministro Márcio Elias Rosa participa de acordo entre ApexBrasil e indústria indiana",
       "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/ministro-marcio-elias-rosa-participa-de-acordo-entre-apexbrasil-e-industria-indiana",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/ministro-marcio-elias-rosa-participa-de-acordo-entre-apexbrasil-e-industria-indiana",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-27T17:06:12.182069-03:00",
+      "data_publicacao": "2026-08-28T18:03:34.589501-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-27T17:06:12.148886-03:00",
+      "data_publicacao": "2026-08-28T18:03:34.558520-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-27T17:06:11.604334-03:00",
+      "data_publicacao": "2026-08-28T18:03:33.930227-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -856,6 +856,21 @@
       ]
     },
     {
+      "id": "152cb37d40341202b47f",
+      "titulo": "Tarifaço dos EUA entra em vigor",
+      "resumo": "Tarifaço dos EUA entra em vigor Extra Classe",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUJDQWdCMHFuQmNaRWJyQTNsMUI0cU1RR0FWUGhFeXRMclFBdnhaZmxUUHo4Sm1sVml2RXZjdWFYMlpaazB1OFRxcGpKLVM1eEpiUlhwQnNsLTd2WklGdFh4S0I2MXdkeHBDZzkxSUhBUk52eW5MM3FQYkNzRkEyY3QzXzZza00?oc=5",
+      "fonte": "Extra Classe",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "38b2bf2492103be69aaf",
       "titulo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores",
       "resumo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores diariodopara.com.br",
@@ -869,21 +884,6 @@
       "tags": [
         "tarifa",
         "Brasil"
-      ]
-    },
-    {
-      "id": "152cb37d40341202b47f",
-      "titulo": "Tarifaço dos EUA entra em vigor",
-      "resumo": "Tarifaço dos EUA entra em vigor Extra Classe",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUJDQWdCMHFuQmNaRWJyQTNsMUI0cU1RR0FWUGhFeXRMclFBdnhaZmxUUHo4Sm1sVml2RXZjdWFYMlpaazB1OFRxcGpKLVM1eEpiUlhwQnNsLTd2WklGdFh4S0I2MXdkeHBDZzkxSUhBUk52eW5MM3FQYkNzRkEyY3QzXzZza00?oc=5",
-      "fonte": "Extra Classe",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-22T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
       ]
     },
     {
