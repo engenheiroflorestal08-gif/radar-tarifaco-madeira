@@ -1,20 +1,11 @@
 {
   "metadata": {
-    "atualizado_em": "2026-08-31T14:26:20.839138-03:00",
+    "atualizado_em": "2026-09-01T11:27:52.504424-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 7,
-    "falhas_de_coleta": [
-      "Google News (tarifa Brasil Estados Unidos madeira): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=tarifa+Brasil+Estados+Unidos+madeira&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (tarifaço Brasil indústria madeireira): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=tarifa%C3%A7o+Brasil+ind%C3%BAstria+madeireira&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (Section 301 Brazil wood lumber): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Section+301+Brazil+wood+lumber&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (Section 232 timber lumber Brazil): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Section+232+timber+lumber+Brazil&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (ABIMCI tarifa Estados Unidos): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=ABIMCI+tarifa+Estados+Unidos&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (exportações madeira Brasil Estados Unidos): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=exporta%C3%A7%C3%B5es+madeira+Brasil+Estados+Unidos&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (madeira processada tarifa EUA): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=madeira+processada+tarifa+EUA&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
-      "Google News (molduras compensado madeira serrada exportação EUA): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=molduras+compensado+madeira+serrada+exporta%C3%A7%C3%A3o+EUA&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))"
-    ]
+    "novos_itens_encontrados": 264,
+    "falhas_de_coleta": []
   },
   "noticias": [
     {
@@ -24,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/governo-amplia-prazo-do-drawback-para-empresas-afetadas-por-tarifas-adicionais-dos-eua",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-31T14:26:20.824261-03:00",
+      "data_publicacao": "2026-09-01T11:27:52.477871-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -40,7 +31,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/agosto/ministro-marcio-elias-rosa-participa-de-acordo-entre-apexbrasil-e-industria-indiana",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-31T14:26:20.821669-03:00",
+      "data_publicacao": "2026-09-01T11:27:52.474110-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -51,13 +42,30 @@
       ]
     },
     {
+      "id": "a376c861412cf67a25f4",
+      "titulo": "Empresas com exportações impactadas pelas tarifas dos EUA já podem solicitar prorrogação do drawback",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/empresas-com-exportacoes-impactadas-pelas-tarifas-dos-eua-ja-podem-solicitar-prorrogacao-do-drawback",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-09-01T11:27:52.467426-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações",
+        "MDIC"
+      ]
+    },
+    {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
       "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Depreciação Acelerada Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas…",
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-08-31T14:26:20.786721-03:00",
+      "data_publicacao": "2026-09-01T11:27:52.434431-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -75,7 +83,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-08-31T14:26:20.193905-03:00",
+      "data_publicacao": "2026-09-01T11:27:51.825317-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -84,6 +92,22 @@
         "ABIMCI",
         "madeira",
         "compensado"
+      ]
+    },
+    {
+      "id": "ab4e519b2aea258fcbf4",
+      "titulo": "Notícias 31/08/2026 120 ano do pinus no Brasil: campanha institucional mostra importância econômica, social e ambiental do pinus Abimci e entidades do setor florestal e madeireiro do Sul do Brasil divulgam como as florestas plantadas geram…",
+      "resumo": "Notícias 31/08/2026 120 ano do pinus no Brasil: campanha institucional mostra importância econômica, social e ambiental do pinus Abimci e entidades do setor florestal e madeireiro do Sul do Brasil divulgam como as florestas plantadas geram riqueza, empregos e produtos sustentáveis.",
+      "url": "https://abimci.com.br/120-ano-do-pinus-no-brasil-campanha-institucional-mostra-importancia-economica-social-e-ambiental-do-pinus/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-08-31T12:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "ABIMCI"
       ]
     },
     {
@@ -282,6 +306,23 @@
       "foco_madeira": false,
       "tags": [
         "tarifa",
+        "exportações"
+      ]
+    },
+    {
+      "id": "1850c2d75de8b5515145",
+      "titulo": "Novo tarifaço dos EUA impacta 72% das exportações de SC, com madeira e equipamentos entre os mais afetados",
+      "resumo": "Novo tarifaço dos EUA impacta 72% das exportações de SC, com madeira e equipamentos entre os mais afetados NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd3BRSlg1cHF3N0UxclMzS0dUUFBSS2dyY3I1TDFmQzdBcVZVS2twQ2ZvUHlDVjdVZ2hNZUM2czY5Sk1YRDM0cktjS3RReTNld0FFWFBkQkdjMVkzTzd3U3FPT3RITldfdDB4SlNGWWNLeWZPTDNURm1BVUxpY2lReDNhWUVnemgwTW9zWnFlWDhJZVd4alhHRVhxbmdsZUc3VzNoRlNLUU45RzlvMmFWNkhNc0JqVldTM3ZPeUxLSmZiN2NtUy1TYUR0Z3otY09XU09vai1ETm9ONDhIRTZWZFFxUFVSM2xwWC1iaWh0OA?oc=5",
+      "fonte": "NSC Total",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-29T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira",
         "exportações"
       ]
     },
@@ -865,21 +906,6 @@
       ]
     },
     {
-      "id": "152cb37d40341202b47f",
-      "titulo": "Tarifaço dos EUA entra em vigor",
-      "resumo": "Tarifaço dos EUA entra em vigor Extra Classe",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUJDQWdCMHFuQmNaRWJyQTNsMUI0cU1RR0FWUGhFeXRMclFBdnhaZmxUUHo4Sm1sVml2RXZjdWFYMlpaazB1OFRxcGpKLVM1eEpiUlhwQnNsLTd2WklGdFh4S0I2MXdkeHBDZzkxSUhBUk52eW5MM3FQYkNzRkEyY3QzXzZza00?oc=5",
-      "fonte": "Extra Classe",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-22T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "38b2bf2492103be69aaf",
       "titulo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores",
       "resumo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores diariodopara.com.br",
@@ -893,6 +919,21 @@
       "tags": [
         "tarifa",
         "Brasil"
+      ]
+    },
+    {
+      "id": "152cb37d40341202b47f",
+      "titulo": "Tarifaço dos EUA entra em vigor",
+      "resumo": "Tarifaço dos EUA entra em vigor Extra Classe",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUJDQWdCMHFuQmNaRWJyQTNsMUI0cU1RR0FWUGhFeXRMclFBdnhaZmxUUHo4Sm1sVml2RXZjdWFYMlpaazB1OFRxcGpKLVM1eEpiUlhwQnNsLTd2WklGdFh4S0I2MXdkeHBDZzkxSUhBUk52eW5MM3FQYkNzRkEyY3QzXzZza00?oc=5",
+      "fonte": "Extra Classe",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -1389,9 +1430,9 @@
     {
       "id": "d6086d40da8b8c158c1e",
       "titulo": "Tarifaço dos EUA deve atingir 54% das exportações de SC; madeira, móveis e máquinas lideram impactos",
-      "resumo": "Tarifaço dos EUA deve atingir 54% das exportações de SC; madeira, móveis e máquinas lideram impactos ND Mais",
+      "resumo": "Tarifaço dos EUA deve atingir 54% das exportações de SC; madeira, móveis e máquinas lideram impactos ndmais.com.br",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEU0NzA3N2d0TU50TEN0TzVJSTVSUkV3RUkwVUNPSTNkQm4wdVpxbnRjbjNOWXhzdy1GYmJPeVBwSzJ6elNBN050eW01bWwyMzdHUldfSVh5QjBfWVZNQTVqbTdpWTlaMUFaUVJiQ2dWNTBlWUpqWG1Jc0czTEVqMW45d0RBWFJq?oc=5",
-      "fonte": "ND Mais",
+      "fonte": "ndmais.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-17T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -1421,6 +1462,21 @@
       ]
     },
     {
+      "id": "27e26aba3b6e72194632",
+      "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
+      "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFLUklmNDFUbmRJTWJhb2dJZmxIWWNmUEw5NzBVZGFMRHJZZzI1TWpnU1N1d1JWVlpjUVdsWko5RFV4TXpvQ3RfU19GQ1ZIdml4SkFOYWNfYk5ncE0xM3FiWTVIeU02V2xzWjBXS0VjUkhVUXRoczdBLUpYY29nWmZsMjNiRlZjbS1OcjlBVEZIYjdDOGY0cXltN2hFSXVfNktwS09wblFIYmVGbjZKNG1haC1SSG1pNTlDOTFn0gHDAUFVX3lxTE5nSFllM0ZsTXNwRWhDa3FYRVVGLTNyVlVacFB3U0Y5a0E0UU9oei1XVllwYzdTbE81enZiMzNyUzlxLWdidEp5Y0pxQWJWVFpYYXF3RGpNWFNuZEx4bm1nOFJPa3RsZEFPZU1OM1RMeFBXcjB4Q1Z4b0tYbWtKaGZWY1FfRDRLUjNIay1OX3d1a1l6OGtmUXVvdGtfeE5jR01aNnVKQ2VJOXNRUms4OC1kVUlVNUFTZVRRaklxWGFySlAxZw?oc=5",
+      "fonte": "Bem Paraná",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -1434,21 +1490,6 @@
       "tags": [
         "tarifa",
         "exportações"
-      ]
-    },
-    {
-      "id": "27e26aba3b6e72194632",
-      "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
-      "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFLUklmNDFUbmRJTWJhb2dJZmxIWWNmUEw5NzBVZGFMRHJZZzI1TWpnU1N1d1JWVlpjUVdsWko5RFV4TXpvQ3RfU19GQ1ZIdml4SkFOYWNfYk5ncE0xM3FiWTVIeU02V2xzWjBXS0VjUkhVUXRoczdBLUpYY29nWmZsMjNiRlZjbS1OcjlBVEZIYjdDOGY0cXltN2hFSXVfNktwS09wblFIYmVGbjZKNG1haC1SSG1pNTlDOTFn0gHDAUFVX3lxTE5nSFllM0ZsTXNwRWhDa3FYRVVGLTNyVlVacFB3U0Y5a0E0UU9oei1XVllwYzdTbE81enZiMzNyUzlxLWdidEp5Y0pxQWJWVFpYYXF3RGpNWFNuZEx4bm1nOFJPa3RsZEFPZU1OM1RMeFBXcjB4Q1Z4b0tYbWtKaGZWY1FfRDRLUjNIay1OX3d1a1l6OGtmUXVvdGtfeE5jR01aNnVKQ2VJOXNRUms4OC1kVUlVNUFTZVRRaklxWGFySlAxZw?oc=5",
-      "fonte": "Bem Paraná",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
       ]
     },
     {
@@ -1780,9 +1821,9 @@
     {
       "id": "09aabdde5b5424bae56a",
       "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto estadao.com.br",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "Estadão",
+      "fonte": "estadao.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -1873,6 +1914,22 @@
       "tags": [
         "tarifa",
         "madeira"
+      ]
+    },
+    {
+      "id": "7c16ff14fd34b0b3c684",
+      "titulo": "Indústrias do Paraná manifestam preocupação com novo tarifaço dos EUA",
+      "resumo": "Indústrias do Paraná manifestam preocupação com novo tarifaço dos EUA Banda B",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0ZtRUxua19BY2dGVGJXZ19zNVQ0WXAwWDRrTDdCYVNKV3pEMUNCU3ZsUFNOWmhMZzl4Mk13SDJVa3VRRE0tSlUwTU0zRUpuazFOdy1sRTlONFp4Qms0djJ6YlFZQU1wMUxpRnZ5eWxaclRMR1pvRmI1SmNvb0tjNGJaVkNMdThDTGtWVUZfME1fVzNMUF9PMUdxVHJFVXpJNGZQMTJOak7SAa4BQVVfeXFMUHJ6WkZlb2w0YnRqX2Y2ZS0yZkh6SklpYXVGcHVnSk1NTDFYbWpQUVhjT3lsckxJbEMyak1SRE1rZjMyb1hLeUlIdjJKR3pzcm5ORDlBZS1NOW94Ui1xSWkyV0k5bHRicXVrUk5vZzBTem9YZkRZT2tBUTlEQWVZM3pwN3JScEktdXN5djh0dG9sYUlGQWxHLTdydnJkWE5leVpuMFNnTHVWQ2QtN3hR?oc=5",
+      "fonte": "Banda B",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "USTR"
       ]
     },
     {
@@ -2168,9 +2225,9 @@
     {
       "id": "3ee3a576e4f8434ea0c1",
       "titulo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço",
-      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço Grupo RBJ de Comunicação",
+      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço rbj.com.br",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkgxa2lNbVFVVHJTVXd3UzQtQ0pSRVFHZkdWLUcwbWRnRWRoN3NaVVI3bHRJTGJGREltSlNDOFR5aGZGRERWeUxkNVBoX3ZCWmo0VFB0MFJSWUVpS0d6X1c2YnJFZjhiLWpCeFJYbk9fNlEwOVBEUUMwNGJXQzhEeWdmaUtiRmNSVkh5NURyWUtXaWp2MWhMU0FfWlNaMmFwRVhiWnR3UFdpV0hZQlE?oc=5",
-      "fonte": "Grupo RBJ de Comunicação",
+      "fonte": "rbj.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-06T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2266,9 +2323,9 @@
     {
       "id": "f74c22202766b5d28be8",
       "titulo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington",
-      "resumo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington ND Mais",
+      "resumo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington ndmais.com.br",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGX1ZfTWFCOFBPVFAxSWF5WUM2X2tjeEs3OUJuSktkUDRLd3pHSHpUNTZ1UV9GQkFqM3hoVXgzZUFJYTk2bUNFOEdzWDgxWldJY200cXB6VzZKVHVaMkdLdDJYRHRoZnQ4SUxDSklpZlU?oc=5",
-      "fonte": "ND Mais",
+      "fonte": "ndmais.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-03T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2428,18 +2485,17 @@
       ]
     },
     {
-      "id": "72847c2003ac48bffabd",
+      "id": "2c07784f4570e1a30ee3",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
-      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá RADAR DIGITAL BRASÍLIA",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSXFDUm13T2FhS0I3MHVOS3BCMTFLRWM4allwblA0ZFRQVDNtd3VhTmxXbGtPSW5hZFFlRjBjWHM2aEhsR3JuR1N2ZDh4YXhCUGQyRDl0ZmlqVWNVcjluUzdhNkp4Zll5SjRHZm9HWG1IbzFqQjJkd3V6VXkxLVRiak8xMFh3M3lPbEllT0hldUpITEJSUHBlaW5wN0lhb25DcW10QWZCVFJETkVLdEF3UFdxb1NNVnBfVUJOOVdieUtLNEdVRi1ZdnNCa2xwQ28zSG80Z1dXaFZ5QmRRcGtkWG42N1dENFZGNzl3cHZNeGhjeHNkSWw1MA?oc=5",
-      "fonte": "RADAR DIGITAL BRASÍLIA",
+      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQT21ITndLOXQwQlV4S2t1MmczOXZIMlRRMWhYOWllaDhVOW56eFJiQXJqMk9IaXRrNGI3Q0lNRUhDT3JuY1Y0NmdULXlpbGlwT3Q4UE9lVlBDVmpnS00zeTZFN3R0ZV9fYnlCYVptWk1fU20tWE55NFhrYmdWbUF6VUJVU2liV0VCQkZzQlFrSTlRRDFxSkkzNjlqMTlyQzR4eTVMR3ByRVBLMFMyaVhaR3pnQ3U2YmZ4Q0M3OW9WRW9McmlWemdtSEVXZV81QnM5X0tuY2RUMVl2U2M0bnUwc0hYZTVvYzdjM2FrMDdIV0Z0M2JpcHZZVlFtRFNEckVUOEVkTnctTEVLbWthaGpoX1Q3bzVydmhMQndPd2dKbTJwSDJtX0dF?oc=5",
+      "fonte": "Portal do Agronegócio",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "baixa",
       "foco_madeira": true,
       "tags": [
-        "Brasil",
         "madeira",
         "exportações"
       ]
