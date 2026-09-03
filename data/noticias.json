@@ -1,13 +1,34 @@
 {
   "metadata": {
-    "atualizado_em": "2026-09-02T11:01:20.554720-03:00",
+    "atualizado_em": "2026-09-03T11:08:36.694147-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 212,
-    "falhas_de_coleta": []
+    "novos_itens_encontrados": 114,
+    "falhas_de_coleta": [
+      "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    ]
   },
   "noticias": [
+    {
+      "id": "aa5683d99aeb1b5a9c13",
+      "titulo": "Mercado O mercado de compensados no Brasil é tema de painel no Woodtrade Brazil Na abordagem sobre compensado no Mercado de Produtos de Madeira, foram citadas as mudanças no mercado e as oportunidades para esse segmento.",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-09-03T11:06:09.143114-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "ABIMCI",
+        "madeira",
+        "compensado"
+      ]
+    },
     {
       "id": "0fa931bbac5753d13da9",
       "titulo": "Governo amplia prazo do drawback para empresas afetadas por tarifas adicionais dos EUA",
@@ -74,24 +95,6 @@
         "Brasil",
         "USTR",
         "MDIC"
-      ]
-    },
-    {
-      "id": "aa5683d99aeb1b5a9c13",
-      "titulo": "Mercado O mercado de compensados no Brasil é tema de painel no Woodtrade Brazil Na abordagem sobre compensado no Mercado de Produtos de Madeira, foram citadas as mudanças no mercado e as oportunidades para esse segmento.",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
-      "fonte": "ABIMCI",
-      "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-09-02T11:01:19.897612-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "alta",
-      "foco_madeira": true,
-      "tags": [
-        "Brasil",
-        "ABIMCI",
-        "madeira",
-        "compensado"
       ]
     },
     {
@@ -258,6 +261,21 @@
       "tags": [
         "tarifa",
         "Brasil"
+      ]
+    },
+    {
+      "id": "9c0d27be65e6f97fd64d",
+      "titulo": "Tarifaço dos EUA afeta economia do Paraná, diz especialista",
+      "resumo": "Tarifaço dos EUA afeta economia do Paraná, diz especialista band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdJRmFkdGl4TVRaTzU3QlpBQVVldkpfZmM1M2RxMHp5LXp4MlBoUE1mbmxIZ1pRaW43MUl4enFZQl8yakZiWE1PdVZlUHlMYjVGbHlvdFAzQ21rVHA1R0FJTHpwLVFPckMtclc3SW9wTzBwNWE0VW5hU2xNaTZwcWU3YzJaR3R0M2d5eXJEY2NLUnQ0UmVCcXhiV3BuV0oydG5MU0kzZkFJdS1oeFc4amYxdVRrTUk?oc=5",
+      "fonte": "band.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-08-01T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -922,11 +940,11 @@
       ]
     },
     {
-      "id": "38b2bf2492103be69aaf",
-      "titulo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores",
-      "resumo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores diariodopara.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTlVbTlESWFMYnhfUVRCUXV6b21wVWxaX2dTWHdPXzg5QzVwZWR4MUh3Ukk0QnZmNzFYSy1aQnlIUDNsSzI2cTlsMlJQX20yRWxBX0pkTjJnalJITTg4NTVCQ21IcXF6V0RIZ045T1RLbVJ4TTJmY0prR0xCSHVfU3RiclhEdW8tNXdQSVlmZ25OQzBFWExELS1OcUhnZzQ1dE1qT0x6OHZObE1YTFJQYWkzblZvWElJR0JyYzlQOXg2aGRPNjBWXzJB?oc=5",
-      "fonte": "diariodopara.com.br",
+      "id": "709e7f29087ac99cc656",
+      "titulo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros",
+      "resumo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros Aliança News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTNsYzh4aEwzbnhvYmpfRzNOWTgzWVBFa0xaMjllU19oTHJSWU54cUxaQXk2X0xLdHBvZHhJYk9TUGZoV2p4NEZhU3UxV2FBTkJOY1lYbGV0UGdmeFNTM1k1bVRxVGZNOWRZb0Q1T1ctWkdiUVFCZDZScVI5THBOUUJmakgwTDlzQUVUakdvVUxhMnh1ZVB6OVRPalE0YnFKX3lmRVY5UDM3YU9VSGNMMHkyaDhxdnFPcVZBOWlPa0xPYXNaSkdqUGdya0XSAbIBQVVfeXFMUFRQZGNvMGZtU191VVdHSl8wMldrdTZnQm1WVWZvY3MzQVRXVkxfampsOGZscHJyXzY0NXVHdmhDX1EzckZrc0lfZ0dRdVQwdUNMbHlpd0JiSXZiOTBIck03SEpYN2gxak5CRXVLdEVkbTZlX3FhclFQQ2ZnaEdLVzV3UGtHSlkxcGpseTkyUzBBV0pLWFZlQ2lKSHJOanRGOTB5R1NpRXR5X1VDbzFicHVtUQ?oc=5",
+      "fonte": "Aliança News",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-22T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -934,7 +952,8 @@
       "foco_madeira": false,
       "tags": [
         "tarifa",
-        "Brasil"
+        "Brasil",
+        "Estados Unidos"
       ]
     },
     {
@@ -953,11 +972,11 @@
       ]
     },
     {
-      "id": "709e7f29087ac99cc656",
-      "titulo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros",
-      "resumo": "SC e SP lideram impactos do novo tarifaço dos Estados Unidos sobre produtos brasileiros Aliança News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTNsYzh4aEwzbnhvYmpfRzNOWTgzWVBFa0xaMjllU19oTHJSWU54cUxaQXk2X0xLdHBvZHhJYk9TUGZoV2p4NEZhU3UxV2FBTkJOY1lYbGV0UGdmeFNTM1k1bVRxVGZNOWRZb0Q1T1ctWkdiUVFCZDZScVI5THBOUUJmakgwTDlzQUVUakdvVUxhMnh1ZVB6OVRPalE0YnFKX3lmRVY5UDM3YU9VSGNMMHkyaDhxdnFPcVZBOWlPa0xPYXNaSkdqUGdya0XSAbIBQVVfeXFMUFRQZGNvMGZtU191VVdHSl8wMldrdTZnQm1WVWZvY3MzQVRXVkxfampsOGZscHJyXzY0NXVHdmhDX1EzckZrc0lfZ0dRdVQwdUNMbHlpd0JiSXZiOTBIck03SEpYN2gxak5CRXVLdEVkbTZlX3FhclFQQ2ZnaEdLVzV3UGtHSlkxcGpseTkyUzBBV0pLWFZlQ2lKSHJOanRGOTB5R1NpRXR5X1VDbzFicHVtUQ?oc=5",
-      "fonte": "Aliança News",
+      "id": "38b2bf2492103be69aaf",
+      "titulo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores",
+      "resumo": "EUA impõem tarifas de 25% sobre produtos brasileiros, afetando diversos setores diariodopara.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTlVbTlESWFMYnhfUVRCUXV6b21wVWxaX2dTWHdPXzg5QzVwZWR4MUh3Ukk0QnZmNzFYSy1aQnlIUDNsSzI2cTlsMlJQX20yRWxBX0pkTjJnalJITTg4NTVCQ21IcXF6V0RIZ045T1RLbVJ4TTJmY0prR0xCSHVfU3RiclhEdW8tNXdQSVlmZ25OQzBFWExELS1OcUhnZzQ1dE1qT0x6OHZObE1YTFJQYWkzblZvWElJR0JyYzlQOXg2aGRPNjBWXzJB?oc=5",
+      "fonte": "diariodopara.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-22T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -965,8 +984,7 @@
       "foco_madeira": false,
       "tags": [
         "tarifa",
-        "Brasil",
-        "Estados Unidos"
+        "Brasil"
       ]
     },
     {
@@ -998,6 +1016,23 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "52452ada77ef576a3e5b",
+      "titulo": "Tarifaço americano atinge 18% das exportações brasileiras e poupa commodities",
+      "resumo": "Tarifaço americano atinge 18% das exportações brasileiras e poupa commodities Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzhqMVFxejk2RDlnZXdGWFJKbUNUYVhnS0NDVnBqb1hKSWJjcGZQel9uc0hEQ0xJdHJRWm1oSk9NMHBvbW5pZTgxajZGczRfekV0TVMxa2d1ZVlkWXZLUUJwZG5aeGVGWEhMTlRoQ0d6SlpyXy0wbXVTZWpnTlhqZVdCdmdTdElHa3V0MDg3NDliaVZ4MDgzand6Nml3Z281cm5YRmNqVF9EaklaZThDQWhneGFEb1c1RHNPMk1wdjU4MVprMFVYWG9DNA?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-21T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
@@ -1126,6 +1161,22 @@
       "data_publicacao": "2026-07-19T04:00:00-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "acccbf05cf0509e2ba14",
+      "titulo": "EXCLUSIVO: Estudo traça mapa da hemorragia setorial e regional causada pelo tarifaço",
+      "resumo": "EXCLUSIVO: Estudo traça mapa da hemorragia setorial e regional causada pelo tarifaço Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWpfOUN4dzVSWnlNLTFVRmNPQ2NCRlRtQ1JVVnQzRzl2MC1LSjdGbElQQzlyWXpXR0t2ZDFtU2JmOTJBWnN1aWNTTjlIMHVmQVJDZVZVVDJBVEZzSDNfZ2pVcERrMjYzdjEyV3NmLVdRWlZuNTN6OE1XVFZudG9LZnVMTQ?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-19T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "tarifa",
@@ -1278,6 +1329,22 @@
       ]
     },
     {
+      "id": "dfb23889d2a3f63c6482",
+      "titulo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles",
+      "resumo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles Lula | Site oficial",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUlkY3E1eHlVbGpzNXlfMm56UEtiYlItbU1INTFXU0o2NDI5bmhVakNKSWFLR0NyYWY5UXZWMTlHSG5Sd3k0Q0ZCZ012d2dEOG83d0VDWVhKRFJiVWVCeDBDYmRYaUp4Qk9YakgxWFZQMkgxNG02eXotbnlJd3p2Wm9GOTJZQlhhal9mMUpnZlBOMWpiMDU4Qm9VdnhuS1pjSlJWVENR?oc=5",
+      "fonte": "Lula | Site oficial",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T12:53:39-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "98be5fed8a37ba1f4a16",
       "titulo": "Tarifaço dos EUA ameaça empregos no Brasil e governo anuncia apoio a setores afetados",
       "resumo": "Tarifaço dos EUA ameaça empregos no Brasil e governo anuncia apoio a setores afetados Se Ligue Bahia",
@@ -1356,22 +1423,6 @@
       "data_publicacao": "2026-07-17T11:07:09-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
-      "id": "dfb23889d2a3f63c6482",
-      "titulo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles",
-      "resumo": "Brasil rebateu todos os argumentos dos EUA contra o tarifaço. Conheça cada um deles lula.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUlkY3E1eHlVbGpzNXlfMm56UEtiYlItbU1INTFXU0o2NDI5bmhVakNKSWFLR0NyYWY5UXZWMTlHSG5Sd3k0Q0ZCZ012d2dEOG83d0VDWVhKRFJiVWVCeDBDYmRYaUp4Qk9YakgxWFZQMkgxNG02eXotbnlJd3p2Wm9GOTJZQlhhal9mMUpnZlBOMWpiMDU4Qm9VdnhuS1pjSlJWVENR?oc=5",
-      "fonte": "lula.com.br",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T09:54:08-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
       "foco_madeira": false,
       "tags": [
         "tarifa",
@@ -1835,11 +1886,11 @@
       ]
     },
     {
-      "id": "09aabdde5b5424bae56a",
-      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "Estadão",
+      "id": "5178b3fe9bd9e9a9a314",
+      "titulo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan",
+      "resumo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkZ1c3ZaN0pvcEFxTF9NeElOV3NOQnVFRVAtSk5yMTJMUWkzM0FGcUFBR2dvM2tZSzI3QzdCUTU3c3RMbUltQXpoQWdhakxwb2tvQU5WcFJXd0hWM0FuZzVLSlJaNGZTQURnMU4wdmtBbHpMZUcyUFBfbkZxd0E0Ni1hazF6dHdRbm5DLU5wNVNZYzJna3dSMU9ZajUwS1ZJVndzMFo4eTB1MmtINV9pNUM1WHhYcVg2dk40eA?oc=5",
+      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -1847,8 +1898,7 @@
       "foco_madeira": false,
       "tags": [
         "tarifa",
-        "Brasil",
-        "exportações"
+        "Brasil"
       ]
     },
     {
@@ -1867,6 +1917,39 @@
         "Brasil",
         "USTR",
         "competitividade"
+      ]
+    },
+    {
+      "id": "09aabdde5b5424bae56a",
+      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
+      "fonte": "Estadão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
+      "id": "ca7e7af592e74a586c4c",
+      "titulo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná",
+      "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná Blog do Esmael",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tQ1F5eDBjLUNXc2pKUmZMa243WmZKM09wTVdjNXd1cGRVVGZVOXFQaVhYbEFtUGg0ODNoMHh0bGo3Sm12Um9SX01YTndPMzlOVEVvUF9kNDh1aUpJQWpLT0FQV21ncTFBZVY1QnNfcWtqdw?oc=5",
+      "fonte": "Blog do Esmael",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "madeira"
       ]
     },
     {
@@ -1898,22 +1981,6 @@
       "tags": [
         "tarifa",
         "exportações"
-      ]
-    },
-    {
-      "id": "ca7e7af592e74a586c4c",
-      "titulo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná",
-      "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná Blog do Esmael",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tQ1F5eDBjLUNXc2pKUmZMa243WmZKM09wTVdjNXd1cGRVVGZVOXFQaVhYbEFtUGg0ODNoMHh0bGo3Sm12Um9SX01YTndPMzlOVEVvUF9kNDh1aUpJQWpLT0FQV21ncTFBZVY1QnNfcWtqdw?oc=5",
-      "fonte": "Blog do Esmael",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "media",
-      "foco_madeira": true,
-      "tags": [
-        "tarifa",
-        "madeira"
       ]
     },
     {
@@ -2030,9 +2097,9 @@
     {
       "id": "28275a0a506e9edb80c2",
       "titulo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção",
-      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção Diário do Comércio",
+      "resumo": "‘Sem plano B’, indústria aguarda decisão dos EUA sobre tarifas e torce por isenção diariodocomercio.com.br",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xcjdWcGk3LTcxVjRMT21kVWxFSWNIXzVOT2xUSDl4M0kyTll4dUFXSzNKZ0o2bXhSTU56ZHpSLXFZX2lwOWV0amd6bWxqeHJKSzdneVQxZGxKREM4M3dKTE5uanBndmx0MW93LTJFM0gyeFF3OUE3X3V3?oc=5",
-      "fonte": "Diário do Comércio",
+      "fonte": "diariodocomercio.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-14T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2057,6 +2124,23 @@
       "tags": [
         "tarifa",
         "Brasil"
+      ]
+    },
+    {
+      "id": "72f83dcc8e2f8f9e1866",
+      "titulo": "Após tarifaço dos EUA, América Latina lidera exportações moveleiras do RS",
+      "resumo": "Após tarifaço dos EUA, América Latina lidera exportações moveleiras do RS CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNWRoODVER3NQWXoxczlUcUZVaEZkd0h4OHpYWlF6S2VOcTdNX0lyT0lwVUg0dF9oZ1BkREdmU0Vwa1RNczI2MHZhczlOZVZlby1QM0RCb1hwbW1qTDl4UkpTVTZLWndjNDNvT0pnRjVKelI4MS1MVE5aeHRzNXFWUmR1cjhpM3VRenR0MFFOeWhwdGUteEJ0WDl2dFlUXzJRN3FhYklkYndBU2ZUZmxfNDVIZVU1NVRjclNlWFZmOWpSNU1aOURoM0VsQQ?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-13T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
@@ -2501,17 +2585,18 @@
       ]
     },
     {
-      "id": "2c07784f4570e1a30ee3",
+      "id": "72847c2003ac48bffabd",
       "titulo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá",
-      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá Portal do Agronegócio",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQT21ITndLOXQwQlV4S2t1MmczOXZIMlRRMWhYOWllaDhVOW56eFJiQXJqMk9IaXRrNGI3Q0lNRUhDT3JuY1Y0NmdULXlpbGlwT3Q4UE9lVlBDVmpnS00zeTZFN3R0ZV9fYnlCYVptWk1fU20tWE55NFhrYmdWbUF6VUJVU2liV0VCQkZzQlFrSTlRRDFxSkkzNjlqMTlyQzR4eTVMR3ByRVBLMFMyaVhaR3pnQ3U2YmZ4Q0M3OW9WRW9McmlWemdtSEVXZV81QnM5X0tuY2RUMVl2U2M0bnUwc0hYZTVvYzdjM2FrMDdIV0Z0M2JpcHZZVlFtRFNEckVUOEVkTnctTEVLbWthaGpoX1Q3bzVydmhMQndPd2dKbTJwSDJtX0dF?oc=5",
-      "fonte": "Portal do Agronegócio",
+      "resumo": "Exportações de carne bovina e madeira para América do Norte avançam e impulsionam movimentação no Porto de Paranaguá RADAR DIGITAL BRASÍLIA",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSXFDUm13T2FhS0I3MHVOS3BCMTFLRWM4allwblA0ZFRQVDNtd3VhTmxXbGtPSW5hZFFlRjBjWHM2aEhsR3JuR1N2ZDh4YXhCUGQyRDl0ZmlqVWNVcjluUzdhNkp4Zll5SjRHZm9HWG1IbzFqQjJkd3V6VXkxLVRiak8xMFh3M3lPbEllT0hldUpITEJSUHBlaW5wN0lhb25DcW10QWZCVFJETkVLdEF3UFdxb1NNVnBfVUJOOVdieUtLNEdVRi1ZdnNCa2xwQ28zSG80Z1dXaFZ5QmRRcGtkWG42N1dENFZGNzl3cHZNeGhjeHNkSWw1MA?oc=5",
+      "fonte": "RADAR DIGITAL BRASÍLIA",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-09T04:00:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "baixa",
       "foco_madeira": true,
       "tags": [
+        "Brasil",
         "madeira",
         "exportações"
       ]
@@ -2598,22 +2683,6 @@
       ]
     },
     {
-      "id": "6986e041720a0bf93384",
-      "titulo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo",
-      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzV3T2Y1dWxjQ2dTSTlPaW8xMXZ5TkJxRnJDMnJ4LW44VDNhUFFiS1NBSGNXV0ZsOXVpVzVwbm9FaWZ1WDl5SHFFUFI0Z2tidDNHeWNLQnIzQi00LVk5RTdHNVN5UTVGNjBZLU9STzhoWFUwODBDTHpkVWtWZGE4QWlldXJGSXp1blBzc2xMSWlaM3Uyb3dCcmRtUk9wWFhiQWpaTHRta2J0MmNrRURKRUl0Q2VwbUp2bWMw?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
       "id": "e0f5d54b53104761d5f9",
       "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
       "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
@@ -2628,6 +2697,22 @@
         "tarifa",
         "Brasil",
         "exportações"
+      ]
+    },
+    {
+      "id": "6986e041720a0bf93384",
+      "titulo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo",
+      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzV3T2Y1dWxjQ2dTSTlPaW8xMXZ5TkJxRnJDMnJ4LW44VDNhUFFiS1NBSGNXV0ZsOXVpVzVwbm9FaWZ1WDl5SHFFUFI0Z2tidDNHeWNLQnIzQi00LVk5RTdHNVN5UTVGNjBZLU9STzhoWFUwODBDTHpkVWtWZGE4QWlldXJGSXp1blBzc2xMSWlaM3Uyb3dCcmRtUk9wWFhiQWpaTHRta2J0MmNrRURKRUl0Q2VwbUp2bWMw?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -2663,6 +2748,23 @@
         "Brasil",
         "exportações",
         "USTR"
+      ]
+    },
+    {
+      "id": "7b4f16c14820d535411b",
+      "titulo": "Nova tarifa dos EUA pode atingir mais de um quarto das exportações brasileiras",
+      "resumo": "Nova tarifa dos EUA pode atingir mais de um quarto das exportações brasileiras DComercio",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3FkZHAtWmR4SFpXMkxZQk1wcXlUSVdGMi1wY1ZiblhZT2dGV1hLU04yMzRpZWZaNEotZTBpMFhBcXFZRllwOF9nSmxBcDhrWTZmX1c1Mm1IWENvMXNBeE5TSXA3NS03eThZX0J3LTctOTVqd1R4UUtKc1F2OFlxbFFwR1lNc1dOeXBoM2dwSmFZRW0wVGVlc3U5MTdKcFp6cGg2RGk1NHNReVI0dVdmTm5DdGZHeE0?oc=5",
+      "fonte": "DComercio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
