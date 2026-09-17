@@ -1,11 +1,20 @@
 {
   "metadata": {
-    "atualizado_em": "2026-09-16T11:32:07.178397-03:00",
+    "atualizado_em": "2026-09-17T11:41:29.723219-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 233,
-    "falhas_de_coleta": []
+    "novos_itens_encontrados": 7,
+    "falhas_de_coleta": [
+      "Google News (tarifa Brasil Estados Unidos madeira): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=tarifa+Brasil+Estados+Unidos+madeira&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (tarifaço Brasil indústria madeireira): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=tarifa%C3%A7o+Brasil+ind%C3%BAstria+madeireira&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (Section 301 Brazil wood lumber): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Section+301+Brazil+wood+lumber&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (Section 232 timber lumber Brazil): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Section+232+timber+lumber+Brazil&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (ABIMCI tarifa Estados Unidos): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=ABIMCI+tarifa+Estados+Unidos&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (exportações madeira Brasil Estados Unidos): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=exporta%C3%A7%C3%B5es+madeira+Brasil+Estados+Unidos&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (madeira processada tarifa EUA): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=madeira+processada+tarifa+EUA&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))",
+      "Google News (molduras compensado madeira serrada exportação EUA): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=molduras+compensado+madeira+serrada+exporta%C3%A7%C3%A3o+EUA&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses'))"
+    ]
   },
   "noticias": [
     {
@@ -15,7 +24,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/empresas-com-exportacoes-impactadas-pelas-tarifas-dos-eua-ja-podem-solicitar-prorrogacao-do-drawback",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-09-16T11:32:07.153823-03:00",
+      "data_publicacao": "2026-09-17T11:41:29.702985-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +41,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-09-16T11:32:07.120109-03:00",
+      "data_publicacao": "2026-09-17T11:41:29.650106-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +59,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-09-16T11:32:06.720987-03:00",
+      "data_publicacao": "2026-09-17T11:41:29.236336-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -65,7 +74,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-09-16T11:32:06.639866-03:00",
+      "data_publicacao": "2026-09-17T11:41:29.138999-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
