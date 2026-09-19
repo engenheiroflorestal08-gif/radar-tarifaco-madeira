@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "atualizado_em": "2026-09-18T11:02:52.554877-03:00",
+    "atualizado_em": "2026-09-19T10:38:52.061661-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
@@ -9,31 +9,13 @@
   },
   "noticias": [
     {
-      "id": "9eaab96bc99bdfbce9b0",
-      "titulo": "Notícias 18/09/2026 Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e…",
-      "resumo": "Notícias 18/09/2026 Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e os caminhos para a indústria madeireira.",
-      "url": "https://abimci.com.br/semana-internacional-da-madeira-encerra-edicao-de-2026-com-setor-mobilizado-diante-dos-desafios-do-mercado/",
-      "fonte": "ABIMCI",
-      "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-09-18T12:00:00-03:00",
-      "categoria": "Indústria da madeira",
-      "prioridade": "alta",
-      "foco_madeira": true,
-      "tags": [
-        "ABIMCI",
-        "madeira",
-        "USTR",
-        "competitividade"
-      ]
-    },
-    {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
       "resumo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC) Move Brasil Conselho Nacional de Fertilizantes e Nutrição de Plantas (CONFERT) Depreciação Acelerada Observatório do Comércio Eletrônico Comércio e Serviços Inovação e Transformação Digital Ex-Tarifário Processo Produtivo Básico (PPB) Setor Automotivo Regime Especial da Indústria Química (REIQ) Gás para Indústria (GT) Processos de Contas…",
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-09-18T11:02:52.497199-03:00",
+      "data_publicacao": "2026-09-19T10:38:51.992068-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -51,7 +33,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-09-18T11:02:52.068364-03:00",
+      "data_publicacao": "2026-09-19T10:38:51.564793-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +48,7 @@
       "url": "https://abimci.com.br/o-mercado-de-compensados-no-brasil-e-tema-de-painel-no-woodtrade-brazil/",
       "fonte": "ABIMCI",
       "tipo_fonte": "Setorial",
-      "data_publicacao": "2026-09-18T11:02:51.982709-03:00",
+      "data_publicacao": "2026-09-19T10:38:51.489972-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
       "foco_madeira": true,
@@ -75,6 +57,42 @@
         "ABIMCI",
         "madeira",
         "compensado"
+      ]
+    },
+    {
+      "id": "ea4a62f7af4ace2755ce",
+      "titulo": "Notícias Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e os caminho…",
+      "resumo": "Notícias Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e os caminhos para a indústria madeireira.",
+      "url": "https://abimci.com.br/semana-internacional-da-madeira-encerra-edicao-de-2026-com-setor-mobilizado-diante-dos-desafios-do-mercado/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-09-19T10:38:51.479258-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "ABIMCI",
+        "madeira",
+        "USTR",
+        "competitividade"
+      ]
+    },
+    {
+      "id": "9eaab96bc99bdfbce9b0",
+      "titulo": "Notícias 18/09/2026 Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e…",
+      "resumo": "Notícias 18/09/2026 Semana Internacional da Madeira encerra edição de 2026 com setor mobilizado diante dos desafios do mercado Programação reuniu empresários e lideranças para discutir negócios, competitividade, tecnologia, matéria-prima e os caminhos para a indústria madeireira.",
+      "url": "https://abimci.com.br/semana-internacional-da-madeira-encerra-edicao-de-2026-com-setor-mobilizado-diante-dos-desafios-do-mercado/",
+      "fonte": "ABIMCI",
+      "tipo_fonte": "Setorial",
+      "data_publicacao": "2026-09-18T12:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "ABIMCI",
+        "madeira",
+        "USTR",
+        "competitividade"
       ]
     },
     {
@@ -141,10 +159,10 @@
       ]
     },
     {
-      "id": "f81fc03fdc318a108cae",
+      "id": "7d53c5cc6b64e2a16c8d",
       "titulo": "Pinus completa 120 anos no Brasil em meio à crise do tarifaço",
       "resumo": "Pinus completa 120 anos no Brasil em meio à crise do tarifaço Tribuna do Paraná",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlUyMWNaT0FwenRuSmx0OV9xNzBjMGZ4aU1hSWdiZFc4Ykc5MlI3WXBLbE5Ud3Q2M3NIbUxpcVBYNERuRmRDUldxbVRLRTBudldFdzhnRWJ1T2F6d1hvdU9WSVc2V25qMl9aNWJxR1V5TERJby1rMEU2bk9HNFd3blpJZWl2VExSRmh5b3dkMUdjMGstRktiQ0I3RWV0RmRKd2J2VFlUTlhheWYxZ1lKd3c0dVptcTBPeldZ0gG7AUFVX3lxTE5CVTIxY1pPQXB6dG5KbHQ5X3E3MGMwZnhpTWFJZ2JkVzhiRzkyUjdZcEtsTlR3dDYzc0htTGlxUFg0RG5GZENSV3FtVEtFMG52V0V3OGdFYnVPYXp3WG91T1ZJVzZXbmoyX1o1YnFHVXlMRElvLWswRTZuT0c0V3duWkllaXZUTFJGaHlvd2QxR2Mway1GS2JDQjdFZXRGZEp3YnZUWVROWGF5ZjFnWUp3dzR1Wm1xME96V1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTVDNmxYZDA3NXZIc3hicUU3emt4UUF1TmhWazZPSFl1WW40OEdnLXRyeXpUNnc3U1NlOHBpU1BVTlA2ODhxbE5Uenp2Z2lNcXh6Vzk2SnBDcjVmREpKRVdmY1BCbmg0ajFzMER0YjE2X0RNQlZaZ1dGMHV2ZXVBcWJpWGlESVQ1akJpYjkwR1VhWThySEtma19JQW4yLVBOcHVMN1A2a0dvRXFncEdrLXFoV1RMUdIBuwFBVV95cUxOQlUyMWNaT0FwenRuSmx0OV9xNzBjMGZ4aU1hSWdiZFc4Ykc5MlI3WXBLbE5Ud3Q2M3NIbUxpcVBYNERuRmRDUldxbVRLRTBudldFdzhnRWJ1T2F6d1hvdU9WSVc2V25qMl9aNWJxR1V5TERJby1rMEU2bk9HNFd3blpJZWl2VExSRmh5b3dkMUdjMGstRktiQ0I3RWV0RmRKd2J2VFlUTlhheWYxZ1lKd3c0dVptcTBPeldZ?oc=5",
       "fonte": "Tribuna do Paraná",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-09-16T16:58:00-03:00",
@@ -1757,6 +1775,21 @@
       ]
     },
     {
+      "id": "27e26aba3b6e72194632",
+      "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
+      "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFLUklmNDFUbmRJTWJhb2dJZmxIWWNmUEw5NzBVZGFMRHJZZzI1TWpnU1N1d1JWVlpjUVdsWko5RFV4TXpvQ3RfU19GQ1ZIdml4SkFOYWNfYk5ncE0xM3FiWTVIeU02V2xzWjBXS0VjUkhVUXRoczdBLUpYY29nWmZsMjNiRlZjbS1OcjlBVEZIYjdDOGY0cXltN2hFSXVfNktwS09wblFIYmVGbjZKNG1haC1SSG1pNTlDOTFn0gHDAUFVX3lxTE5nSFllM0ZsTXNwRWhDa3FYRVVGLTNyVlVacFB3U0Y5a0E0UU9oei1XVllwYzdTbE81enZiMzNyUzlxLWdidEp5Y0pxQWJWVFpYYXF3RGpNWFNuZEx4bm1nOFJPa3RsZEFPZU1OM1RMeFBXcjB4Q1Z4b0tYbWtKaGZWY1FfRDRLUjNIay1OX3d1a1l6OGtmUXVvdGtfeE5jR01aNnVKQ2VJOXNRUms4OC1kVUlVNUFTZVRRaklxWGFySlAxZw?oc=5",
+      "fonte": "Bem Paraná",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -1778,21 +1811,6 @@
       "resumo": "Nova tarifa dos EUA ameaça elevar sobretaxa a 37,5% esmaelmorais.com.br",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nR1BPZXFsdVdBMEpJT3lvSjN3eDdrZGZSR3M0bnFuZmdRRDJGdmIzMUxNVGJldUpwQ29lekZkRHFRX3VlMWJJOF9McjFEWjFzWGpQcHl5YVlaWGJnaHZWdzFvNUxUSkc2ejJQeFhEZzdCMXkxNDdpaw?oc=5",
       "fonte": "esmaelmorais.com.br",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
-      "id": "27e26aba3b6e72194632",
-      "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
-      "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFLUklmNDFUbmRJTWJhb2dJZmxIWWNmUEw5NzBVZGFMRHJZZzI1TWpnU1N1d1JWVlpjUVdsWko5RFV4TXpvQ3RfU19GQ1ZIdml4SkFOYWNfYk5ncE0xM3FiWTVIeU02V2xzWjBXS0VjUkhVUXRoczdBLUpYY29nWmZsMjNiRlZjbS1OcjlBVEZIYjdDOGY0cXltN2hFSXVfNktwS09wblFIYmVGbjZKNG1haC1SSG1pNTlDOTFn0gHDAUFVX3lxTE5nSFllM0ZsTXNwRWhDa3FYRVVGLTNyVlVacFB3U0Y5a0E0UU9oei1XVllwYzdTbE81enZiMzNyUzlxLWdidEp5Y0pxQWJWVFpYYXF3RGpNWFNuZEx4bm1nOFJPa3RsZEFPZU1OM1RMeFBXcjB4Q1Z4b0tYbWtKaGZWY1FfRDRLUjNIay1OX3d1a1l6OGtmUXVvdGtfeE5jR01aNnVKQ2VJOXNRUms4OC1kVUlVNUFTZVRRaklxWGFySlAxZw?oc=5",
-      "fonte": "Bem Paraná",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-17T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2116,9 +2134,9 @@
     {
       "id": "09aabdde5b5424bae56a",
       "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto estadao.com.br",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "estadao.com.br",
+      "fonte": "Estadão",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2198,9 +2216,9 @@
     {
       "id": "ca7e7af592e74a586c4c",
       "titulo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná",
-      "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná esmaelmorais.com.br",
+      "resumo": "Tarifa dos EUA mantém madeira no centro do risco no Paraná Blog do Esmael",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tQ1F5eDBjLUNXc2pKUmZMa243WmZKM09wTVdjNXd1cGRVVGZVOXFQaVhYbEFtUGg0ODNoMHh0bGo3Sm12Um9SX01YTndPMzlOVEVvUF9kNDh1aUpJQWpLT0FQV21ncTFBZVY1QnNfcWtqdw?oc=5",
-      "fonte": "esmaelmorais.com.br",
+      "fonte": "Blog do Esmael",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2389,10 +2407,10 @@
     {
       "id": "76250c08506a299e5265",
       "titulo": "Setor florestal aguarda decisão dos Estados Unidos sobre novas tarifas de importação",
-      "resumo": "Setor florestal aguarda decisão dos Estados Unidos sobre novas tarifas de importação Associação das Emissoras de Radiodifusão do Paraná",
+      "resumo": "Setor florestal aguarda decisão dos Estados Unidos sobre novas tarifas de importação aerp.org.br",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUxoUnZRcHdaZmZUTksxTHhVcTYxeUNVekNUN2ZiN3ZkaUFYSnRjUmZCeHJ2dWVlSVctOW5lZGJBTlp0Tjc0SGFCTGtQSnM3MGdzLUtVaFhiWkhBczJMV2ZoTHVKa1N4bzVKVkNxWDVuV1Nsd2wyVEs2NGJ1SWRhRURid0dsZmpSU0hQSkpUejJESG1rYlJtVDkxcFdYMVE0TVljMi1nbWZ1azNmRkJBNzAyYkY?oc=5",
-      "fonte": "Associação das Emissoras de Radiodifusão do Paraná",
-      "tipo_fonte": "Setorial",
+      "fonte": "aerp.org.br",
+      "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-13T04:00:00-03:00",
       "categoria": "Indústria da madeira",
       "prioridade": "alta",
@@ -3059,11 +3077,11 @@
       ]
     },
     {
-      "id": "48c04b366f51a80d9181",
-      "titulo": "Tarifa dos EUA pode atingir 21% das exportações brasileiras, indica governo",
-      "resumo": "Tarifa dos EUA pode atingir 21% das exportações brasileiras, indica governo Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVB6dElzYmQ2clRBSERHbFg3cmN3UjFpTE9QUXpiaW1lX3BPV2V6Q0pMcUtoaVVYYzZOeHQ0S2N4TXFIUjdjQ1FkbmZGSERzQXJpQk9EbVJJZ01SV3RJcVp2TlRuOEFabUsycnRSNGdPUGJhaXpGc0NCQjQ5TjZuWVRUckxCMldHZk9FVm5LcXppXzBGMDl5MTRTNS1HWlNmRWJiTmtiX2pOSzJydWwzMA?oc=5",
-      "fonte": "Rádio Itatiaia",
+      "id": "551d5a03b2f9082e8bde",
+      "titulo": "CNI vê risco para exportações com tarifa de 25% dos EUA",
+      "resumo": "CNI vê risco para exportações com tarifa de 25% dos EUA Agencia Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVV9WVWxCdm5NYS1LSV9tdHoyZ21jeEUzc1JFeWtYMTkzckZpVXJHbFVGWjZfODZmN0pmNWszMnI3Z3EyTGlsX18ySjR6SEVUc2tseU5xVXJPX3B4N0xqb1RMNDhwcENVakVNSGtzaGR4XzMzYkN3Y3Y4SEpLeGwxTnIyMzBSd0lMQkdSTlpaSjRKdDV0LTdkbWUyVUNLX25zYUlOcVd1czhmQW9RbFgzU3VB?oc=5",
+      "fonte": "Agencia Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -3076,11 +3094,11 @@
       ]
     },
     {
-      "id": "551d5a03b2f9082e8bde",
-      "titulo": "CNI vê risco para exportações com tarifa de 25% dos EUA",
-      "resumo": "CNI vê risco para exportações com tarifa de 25% dos EUA Agencia Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVV9WVWxCdm5NYS1LSV9tdHoyZ21jeEUzc1JFeWtYMTkzckZpVXJHbFVGWjZfODZmN0pmNWszMnI3Z3EyTGlsX18ySjR6SEVUc2tseU5xVXJPX3B4N0xqb1RMNDhwcENVakVNSGtzaGR4XzMzYkN3Y3Y4SEpLeGwxTnIyMzBSd0lMQkdSTlpaSjRKdDV0LTdkbWUyVUNLX25zYUlOcVd1czhmQW9RbFgzU3VB?oc=5",
-      "fonte": "Agencia Brasil",
+      "id": "48c04b366f51a80d9181",
+      "titulo": "Tarifa dos EUA pode atingir 21% das exportações brasileiras, indica governo",
+      "resumo": "Tarifa dos EUA pode atingir 21% das exportações brasileiras, indica governo Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVB6dElzYmQ2clRBSERHbFg3cmN3UjFpTE9QUXpiaW1lX3BPV2V6Q0pMcUtoaVVYYzZOeHQ0S2N4TXFIUjdjQ1FkbmZGSERzQXJpQk9EbVJJZ01SV3RJcVp2TlRuOEFabUsycnRSNGdPUGJhaXpGc0NCQjQ5TjZuWVRUckxCMldHZk9FVm5LcXppXzBGMDl5MTRTNS1HWlNmRWJiTmtiX2pOSzJydWwzMA?oc=5",
+      "fonte": "Rádio Itatiaia",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
