@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-03T11:31:11.396831-03:00",
+    "atualizado_em": "2026-10-04T12:10:42.369936-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 252,
-    "falhas_de_coleta": []
+    "novos_itens_encontrados": 248,
+    "falhas_de_coleta": [
+      "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+      "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    ]
   },
   "noticias": [
+    {
+      "id": "8d809dfeb983b20d8eaf",
+      "titulo": "USTR, Commerce, and the UK Government Convene the 10th United States-United Kingdom Small and Medium Enterprise Dialogue in Cardiff, Wales",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-10-04T12:08:15.019105-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
     {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
@@ -24,21 +42,6 @@
         "Brasil",
         "USTR",
         "MDIC"
-      ]
-    },
-    {
-      "id": "8d809dfeb983b20d8eaf",
-      "titulo": "USTR, Commerce, and the UK Government Convene the 10th United States-United Kingdom Small and Medium Enterprise Dialogue in Cardiff, Wales",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-03T11:31:10.903415-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
       ]
     },
     {
@@ -2304,10 +2307,10 @@
       ]
     },
     {
-      "id": "b224c633b6d8224cfa74",
+      "id": "09aabdde5b5424bae56a",
       "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
       "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
       "fonte": "Estadão",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
@@ -2578,9 +2581,9 @@
     {
       "id": "c5f8527fdf97b735447c",
       "titulo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia",
-      "resumo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia Folha de S.Paulo",
+      "resumo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia folha.uol.com.br",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU3l2WTU0OTY0MzNlcUY4U3RCRFphSWlXR0lvY0JLR19WTVVEeTNRajJvbVJwNEhtdWE5QktHVnB0b1FKelFBZzJMd091NjhHNFpnN2lrbEVXbGtrckQyZS1QbjRPUDFhQ1dzUjJJQXhwQjRPLU80cTBjVmhLV0Mxc3hKVlpZUkRsYXNRb0VIQzJwZTVIeml6N05EUzNZUXUxanhXSlAzdF94ZVBXWi1TT3ptU0M3UGYzNlQ3Q2I2Q3UxUWlQTGFka1Rzdw?oc=5",
-      "fonte": "Folha de S.Paulo",
+      "fonte": "folha.uol.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-14T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -3230,9 +3233,9 @@
     {
       "id": "ab8a197a0d8ef84398d8",
       "titulo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria",
-      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria Folha de S.Paulo",
+      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria folha.uol.com.br",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkhfUU8yamZCZ0t0Z1lwT1QxV3ZIZ25KdEZleVNrenFSRF9qS3VpbHdnTFlyY0F3SUNMMl9WclpXRkQ5VU1FUm5ZV0xPVUVSOTZWT1pvMW5wQ191WllDMUhiek10WkhvQnhHQlJMb3B6Y1NDaHAyblZsVVE4M3pKUnllN21jOUw2dXdkNzZhSkhoY3dLQjR1UWhOYnlqYUcxZ2tITmswSUJpNkV3aFZoSUtUMkpzMC0wcVRGb05nSGZ4NzdZaVlB?oc=5",
-      "fonte": "Folha de S.Paulo",
+      "fonte": "folha.uol.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
