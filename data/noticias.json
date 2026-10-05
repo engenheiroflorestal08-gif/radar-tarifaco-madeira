@@ -1,31 +1,13 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-04T12:10:42.369936-03:00",
+    "atualizado_em": "2026-10-05T16:05:47.300742-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
     "novos_itens_encontrados": 248,
-    "falhas_de_coleta": [
-      "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-    ]
+    "falhas_de_coleta": []
   },
   "noticias": [
-    {
-      "id": "8d809dfeb983b20d8eaf",
-      "titulo": "USTR, Commerce, and the UK Government Convene the 10th United States-United Kingdom Small and Medium Enterprise Dialogue in Cardiff, Wales",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-04T12:08:15.019105-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
-      ]
-    },
     {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
@@ -33,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-03T11:31:11.349278-03:00",
+      "data_publicacao": "2026-10-05T16:05:47.227082-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -42,6 +24,21 @@
         "Brasil",
         "USTR",
         "MDIC"
+      ]
+    },
+    {
+      "id": "8d809dfeb983b20d8eaf",
+      "titulo": "USTR, Commerce, and the UK Government Convene the 10th United States-United Kingdom Small and Medium Enterprise Dialogue in Cardiff, Wales",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-10-05T16:05:46.812339-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
       ]
     },
     {
@@ -133,9 +130,9 @@
     {
       "id": "3c1345cbb1e768fc3d48",
       "titulo": "Tarifaço expõe duas realidades da madeira brasileira: exportações recuam, enquanto biomassa e celulose resistem",
-      "resumo": "Tarifaço expõe duas realidades da madeira brasileira: exportações recuam, enquanto biomassa e celulose resistem china2brazil.com.br",
+      "resumo": "Tarifaço expõe duas realidades da madeira brasileira: exportações recuam, enquanto biomassa e celulose resistem China 2 Brazil",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2VnZm1BZjNXYzVBalh5bEVsM1BnLVBCSjlHa0hQV1A5UV91OWFkWlQ2clQ2TndfaUJTbGNoVDNWa0RQTkd4dmo1amJGX0ptVWVzb3NLYjVZX2duVEtZeTVNb2ZMZTJkUzhZNWttNGNJUlU1Z2ZaQXVVRU5SdGZVdURqRG9PUkh5R09LOXNrNnVfcXc0QkNET21sQWltRW1LY0RhVW1YRVpKSmtUX3B0T0pzZ2xfY0ZWUHIyY3l6SmV0dw?oc=5",
-      "fonte": "china2brazil.com.br",
+      "fonte": "China 2 Brazil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-09-28T15:17:04-03:00",
       "categoria": "Indústria da madeira",
@@ -1901,9 +1898,9 @@
     {
       "id": "14df3005426712bc1cc8",
       "titulo": "Tarifaço dos EUA atinge US$ 7,4 bilhões em exportações brasileiras; São Paulo e Santa Catarina são os mais afetados",
-      "resumo": "Tarifaço dos EUA atinge US$ 7,4 bilhões em exportações brasileiras; São Paulo e Santa Catarina são os mais afetados bpmoney.com.br",
+      "resumo": "Tarifaço dos EUA atinge US$ 7,4 bilhões em exportações brasileiras; São Paulo e Santa Catarina são os mais afetados BPMoney",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVE2aDZRaEJHcWhheUMxc0dtdy1wLWNsTzVQcmQ3anN1Uk1IbnJHUWpZUzk3VU03UlRzMlRkOTR3V2t6d0hiNU40S1FpcU5fZzVfdlNlZnI4M2VWUDgtU3lZaldlM2pjV29HTUZiNXdGOEVaMjBaZFNsc1J3cjhQSy1DS3BUMlJQ?oc=5",
-      "fonte": "bpmoney.com.br",
+      "fonte": "BPMoney",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-17T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2581,9 +2578,9 @@
     {
       "id": "c5f8527fdf97b735447c",
       "titulo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia",
-      "resumo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia folha.uol.com.br",
+      "resumo": "'Sem plano B': indústria aguarda novas tarifas dos EUA - 14/07/2026 - Economia Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU3l2WTU0OTY0MzNlcUY4U3RCRFphSWlXR0lvY0JLR19WTVVEeTNRajJvbVJwNEhtdWE5QktHVnB0b1FKelFBZzJMd091NjhHNFpnN2lrbEVXbGtrckQyZS1QbjRPUDFhQ1dzUjJJQXhwQjRPLU80cTBjVmhLV0Mxc3hKVlpZUkRsYXNRb0VIQzJwZTVIeml6N05EUzNZUXUxanhXSlAzdF94ZVBXWi1TT3ptU0M3UGYzNlQ3Q2I2Q3UxUWlQTGFka1Rzdw?oc=5",
-      "fonte": "folha.uol.com.br",
+      "fonte": "Folha de S.Paulo",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-14T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2842,9 +2839,9 @@
     {
       "id": "3ee3a576e4f8434ea0c1",
       "titulo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço",
-      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço Grupo RBJ de Comunicação",
+      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço rbj.com.br",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkgxa2lNbVFVVHJTVXd3UzQtQ0pSRVFHZkdWLUcwbWRnRWRoN3NaVVI3bHRJTGJGREltSlNDOFR5aGZGRERWeUxkNVBoX3ZCWmo0VFB0MFJSWUVpS0d6X1c2YnJFZjhiLWpCeFJYbk9fNlEwOVBEUUMwNGJXQzhEeWdmaUtiRmNSVkh5NURyWUtXaWp2MWhMU0FfWlNaMmFwRVhiWnR3UFdpV0hZQlE?oc=5",
-      "fonte": "Grupo RBJ de Comunicação",
+      "fonte": "rbj.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-06T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -3233,9 +3230,9 @@
     {
       "id": "ab8a197a0d8ef84398d8",
       "titulo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria",
-      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria folha.uol.com.br",
+      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkhfUU8yamZCZ0t0Z1lwT1QxV3ZIZ25KdEZleVNrenFSRF9qS3VpbHdnTFlyY0F3SUNMMl9WclpXRkQ5VU1FUm5ZV0xPVUVSOTZWT1pvMW5wQ191WllDMUhiek10WkhvQnhHQlJMb3B6Y1NDaHAyblZsVVE4M3pKUnllN21jOUw2dXdkNzZhSkhoY3dLQjR1UWhOYnlqYUcxZ2tITmswSUJpNkV3aFZoSUtUMkpzMC0wcVRGb05nSGZ4NzdZaVlB?oc=5",
-      "fonte": "folha.uol.com.br",
+      "fonte": "Folha de S.Paulo",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-06-02T04:00:00-03:00",
       "categoria": "Política tarifária",
