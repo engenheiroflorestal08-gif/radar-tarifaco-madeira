@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-05T16:05:47.300742-03:00",
+    "atualizado_em": "2026-10-06T13:27:01.684918-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 248,
+    "novos_itens_encontrados": 247,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-05T16:05:47.227082-03:00",
+      "data_publicacao": "2026-10-06T13:27:01.609243-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-commerce-and-uk-government-convene-10th-united-states-united-kingdom-small-and-medium",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-05T16:05:46.812339-03:00",
+      "data_publicacao": "2026-10-06T13:27:01.195515-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -1882,9 +1882,9 @@
     {
       "id": "f23f6ed58fb03e3c14e3",
       "titulo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas",
-      "resumo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas vermelho.org.br",
+      "resumo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas Vermelho",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1E1QmZOWjNsQTUtck90TFFITWlIM0ZkbU96a0hOYVRZd0VIeE5sMDc1RXRQRG92bWJKNXIzZnZSVGF5QzBDak51cjFmZ0dUb3pYV0JELXJELU9jRXU2cHVGU1llNFZCT1plaHFxdXM3c3NGTXNnU3ZpR2RSemVPMEI5enduNGtqbDNiR3d6YjY5d0JUVUN5b0p2bDRrUll0NmVF?oc=5",
-      "fonte": "vermelho.org.br",
+      "fonte": "Vermelho",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-17T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2839,9 +2839,9 @@
     {
       "id": "3ee3a576e4f8434ea0c1",
       "titulo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço",
-      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço rbj.com.br",
+      "resumo": "Representantes da indústria madeireira vão aos EUA apresentar defesa contra novo tarifaço Grupo RBJ de Comunicação",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkgxa2lNbVFVVHJTVXd3UzQtQ0pSRVFHZkdWLUcwbWRnRWRoN3NaVVI3bHRJTGJGREltSlNDOFR5aGZGRERWeUxkNVBoX3ZCWmo0VFB0MFJSWUVpS0d6X1c2YnJFZjhiLWpCeFJYbk9fNlEwOVBEUUMwNGJXQzhEeWdmaUtiRmNSVkh5NURyWUtXaWp2MWhMU0FfWlNaMmFwRVhiWnR3UFdpV0hZQlE?oc=5",
-      "fonte": "rbj.com.br",
+      "fonte": "Grupo RBJ de Comunicação",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-06T04:00:00-03:00",
       "categoria": "Indústria da madeira",
