@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-12T16:34:25.302849-03:00",
+    "atualizado_em": "2026-10-13T14:18:22.998950-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 239,
+    "novos_itens_encontrados": 235,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-12T16:34:25.228620-03:00",
+      "data_publicacao": "2026-10-13T14:18:22.924700-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -24,6 +24,21 @@
         "Brasil",
         "USTR",
         "MDIC"
+      ]
+    },
+    {
+      "id": "3330666d8d4bbd1b1142",
+      "titulo": "Tarifas dos EUA pressionam setor madeireiro em Guarapuava e desafiam exportadores",
+      "resumo": "Tarifas dos EUA pressionam setor madeireiro em Guarapuava e desafiam exportadores Paraná Central",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjdxbzNjUVZvMkVsQkpYSlZ5UFNhR2tEdlhIUkdKMmNlTlRiUVNTUko5Tkl3dy1SbWphbHVwOUExQ3dvLVFzV0trSkQzWDRpeDhNZjA4NjRjZUNTYlE4Y0N0eXFYNXFjYWtyNU8zM3RqUlV2d2lqZVlXTDJ1Q3dsX2FiREhPTzZtZGVYYWUxa1VHWUNIVGppTEVjSlZCZ05hLW5ad2M5VHRnRndFMnA0?oc=5",
+      "fonte": "Paraná Central",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-10-13T06:01:06-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "media",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -2933,11 +2948,11 @@
       ]
     },
     {
-      "id": "2d7c24a22d5538646b7b",
-      "titulo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro",
-      "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro Canal Rural",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN05xV3JhSkpHal83ZGZvUmdLWkNydThrM3h0eURYSGVGMmcwTW5Hc3BuSFFLS2pjRVdEOW53QjMxZzZBOUVCOTJ2NHVIS2lxMUs1NDYwNnBBZTBFbGRjZm5xQ3hQbEI1WnB0aklETURSak1TelEyNnZQdEx1a1REWnB3TUJFM05mWmRjTmd0VFF2SU1NU1p2bmRJelNhUjdPVFg4ZEVjbzRNSzBmRVRHaldfbUpfVjV1T2RHZDJFX3hJRVRMUUZEVm16TDJwbGFYTnlr?oc=5",
-      "fonte": "Canal Rural",
+      "id": "f74c22202766b5d28be8",
+      "titulo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington",
+      "resumo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGX1ZfTWFCOFBPVFAxSWF5WUM2X2tjeEs3OUJuSktkUDRLd3pHSHpUNTZ1UV9GQkFqM3hoVXgzZUFJYTk2bUNFOEdzWDgxWldJY200cXB6VzZKVHVaMkdLdDJYRHRoZnQ4SUxDSklpZlU?oc=5",
+      "fonte": "ND Mais",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-03T04:00:00-03:00",
       "categoria": "Indústria da madeira",
@@ -2951,11 +2966,11 @@
       ]
     },
     {
-      "id": "f74c22202766b5d28be8",
-      "titulo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington",
-      "resumo": "Tarifaço dos EUA ameaça US$ 1,2 bilhão em madeira brasileira e leva indústria a Washington ND Mais",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGX1ZfTWFCOFBPVFAxSWF5WUM2X2tjeEs3OUJuSktkUDRLd3pHSHpUNTZ1UV9GQkFqM3hoVXgzZUFJYTk2bUNFOEdzWDgxWldJY200cXB6VzZKVHVaMkdLdDJYRHRoZnQ4SUxDSklpZlU?oc=5",
-      "fonte": "ND Mais",
+      "id": "2d7c24a22d5538646b7b",
+      "titulo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro",
+      "resumo": "Indústria da madeira alerta para risco de novo tarifaço dos EUA e pede ação do governo brasileiro Canal Rural",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN05xV3JhSkpHal83ZGZvUmdLWkNydThrM3h0eURYSGVGMmcwTW5Hc3BuSFFLS2pjRVdEOW53QjMxZzZBOUVCOTJ2NHVIS2lxMUs1NDYwNnBBZTBFbGRjZm5xQ3hQbEI1WnB0aklETURSak1TelEyNnZQdEx1a1REWnB3TUJFM05mWmRjTmd0VFF2SU1NU1p2bmRJelNhUjdPVFg4ZEVjbzRNSzBmRVRHaldfbUpfVjV1T2RHZDJFX3hJRVRMUUZEVm16TDJwbGFYTnlr?oc=5",
+      "fonte": "Canal Rural",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-03T04:00:00-03:00",
       "categoria": "Indústria da madeira",
