@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-14T11:50:03.617918-03:00",
+    "atualizado_em": "2026-10-15T11:37:18.099928-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-14T11:50:03.543106-03:00",
+      "data_publicacao": "2026-10-15T11:37:18.025776-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -2510,22 +2510,6 @@
       ]
     },
     {
-      "id": "93a896adf555aeac3687",
-      "titulo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos",
-      "resumo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos InvestNews",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFlldGp1MWdldWdQaE90VlZIZm1ET1lleGRYTENNNGlGOC03QmdXV0ZUdWlDWDRvRzdBZ3djamlkV3Z4aE1DSjhGRHk1eEh3QTRYN2ZDNDFYNlQ4QWZxVnRsVGNVM2ZGMXNVNW5qYmVwRjRERmdDdFNlYmlnUXpsZGJ5Xzc5QzVPZnVnbzRmZUlhT3p6eVhndzFXTkFQR0V2QmZHT2xRSFJSRDJOS1QycUtFX3JjOU1nTlo2dVUyRzVXdERoRWtkVlppNFV4V2xVNUxV0gHYAUFVX3lxTE5aUWwtVWZCM0pZTUMwX2NhemdWaTc0UXRsbks1bzBySko4YjZ2Zy1SUzEwNmxGMm15aGt3U01wc3J4OTUyMy1kMHQ2bllpbGVqRHRvYTFmVEZSVGJVLUhFN2doR1daRG5zNUxJc0FwSTlNWVp1bGtibTZPLWc4Q2YtVXZ3QkprWFRZdWJNb29jZE52d3RFdWpIUGFucXFMRlFCemxUZXp2RUxITHA2aUdHTXlvLVN5RXFubXhBdmp5RXFiNHhpT2VtZ1M2NjBkOWk3dVhBb0ZHYw?oc=5",
-      "fonte": "InvestNews",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-15T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
       "id": "bd05ced71497b2baa6f2",
       "titulo": "Tarifaço: saiba que produtos brasileiros podem ser afetados com nova rodada de taxação dos Estados Unidos",
       "resumo": "Tarifaço: saiba que produtos brasileiros podem ser afetados com nova rodada de taxação dos Estados Unidos O GLOBO",
@@ -2540,6 +2524,22 @@
         "tarifa",
         "Brasil",
         "Estados Unidos"
+      ]
+    },
+    {
+      "id": "93a896adf555aeac3687",
+      "titulo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos",
+      "resumo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos InvestNews",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFlldGp1MWdldWdQaE90VlZIZm1ET1lleGRYTENNNGlGOC03QmdXV0ZUdWlDWDRvRzdBZ3djamlkV3Z4aE1DSjhGRHk1eEh3QTRYN2ZDNDFYNlQ4QWZxVnRsVGNVM2ZGMXNVNW5qYmVwRjRERmdDdFNlYmlnUXpsZGJ5Xzc5QzVPZnVnbzRmZUlhT3p6eVhndzFXTkFQR0V2QmZHT2xRSFJSRDJOS1QycUtFX3JjOU1nTlo2dVUyRzVXdERoRWtkVlppNFV4V2xVNUxV0gHYAUFVX3lxTE5aUWwtVWZCM0pZTUMwX2NhemdWaTc0UXRsbks1bzBySko4YjZ2Zy1SUzEwNmxGMm15aGt3U01wc3J4OTUyMy1kMHQ2bllpbGVqRHRvYTFmVEZSVGJVLUhFN2doR1daRG5zNUxJc0FwSTlNWVp1bGtibTZPLWc4Q2YtVXZ3QkprWFRZdWJNb29jZE52d3RFdWpIUGFucXFMRlFCemxUZXp2RUxITHA2aUdHTXlvLVN5RXFubXhBdmp5RXFiNHhpT2VtZ1M2NjBkOWk3dVhBb0ZHYw?oc=5",
+      "fonte": "InvestNews",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-15T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
