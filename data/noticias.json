@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-16T11:28:13.683196-03:00",
+    "atualizado_em": "2026-10-17T10:24:59.958665-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 245,
+    "novos_itens_encontrados": 244,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-16T11:28:13.608044-03:00",
+      "data_publicacao": "2026-10-17T10:24:59.910419-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
