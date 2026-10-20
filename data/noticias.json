@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-19T13:45:00.627719-03:00",
+    "atualizado_em": "2026-10-20T11:37:16.878093-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 248,
+    "novos_itens_encontrados": 249,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-19T13:45:00.552745-03:00",
+      "data_publicacao": "2026-10-20T11:37:16.837920-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -24,6 +24,21 @@
         "Brasil",
         "USTR",
         "MDIC"
+      ]
+    },
+    {
+      "id": "38caf795bffc31888e1d",
+      "titulo": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-10-20T11:37:16.417491-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
       ]
     },
     {
@@ -3457,22 +3472,6 @@
         "Brasil",
         "madeira",
         "exportações"
-      ]
-    },
-    {
-      "id": "254786f922c671dc0538",
-      "titulo": "EUA podem impor tarifaço de 30% sobre produtos brasileiros",
-      "resumo": "EUA podem impor tarifaço de 30% sobre produtos brasileiros CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS0o5THF5aXM3N0xmUTRfQ3VoaGJQeTBmbHEweElMR3ZMcDhMdjkzdHB6VHhCSWtJSjFfd3U3a25DT3hGQ3cxX3RZQk00ZVQ0Wm5zQndEOExac2dxNDBvWU00QkFDaVRsUEpGZVlUbjlld01sS1Y5LUZBTWJpakpjNHpBZTQ5UWZhc3l4ektwTjBjTlR6SzVCUU0wRUhISUthSTdZTGJRN2pJai1PNF9ITW9aWmF1NTdiczIxTkkxV1NUV0U?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-04-23T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     }
   ]
