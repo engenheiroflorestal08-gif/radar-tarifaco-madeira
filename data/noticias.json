@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-21T11:48:52.682315-03:00",
+    "atualizado_em": "2026-10-22T11:49:40.476676-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 243,
+    "novos_itens_encontrados": 244,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-21T11:48:52.634224-03:00",
+      "data_publicacao": "2026-10-22T11:49:40.434883-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,12 +33,44 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-21T11:48:52.159444-03:00",
+      "data_publicacao": "2026-10-22T11:49:40.028031-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "USTR"
+      ]
+    },
+    {
+      "id": "79e113a076e313f5807c",
+      "titulo": "Exportação de madeira bruta do Brasil deve cair 50% até 2026",
+      "resumo": "Exportação de madeira bruta do Brasil deve cair 50% até 2026 boca.com.br",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sQnM0ZHFtQUN6UXJhdEEwVXFMbGhXWldJRjlsZVBwckRYWFYwTXZMbGR0QmNhdDY5UVVUZGF0ZEhxZFZEc1pLMHd6U0tOVWprWEowV18wUG03Uzd5YWtSODBvdG96czVOZ2FiVjhZTHROV3dKc1oxWQ?oc=5",
+      "fonte": "boca.com.br",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-10-21T16:39:22-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "baixa",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
+      ]
+    },
+    {
+      "id": "395ad0b26c440b83cabe",
+      "titulo": "Exportação de madeira bruta pelo Brasil deve cair pela metade até 2026",
+      "resumo": "Exportação de madeira bruta pelo Brasil deve cair pela metade até 2026 Canal Rural",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXVVME5DSllyaUMyekpucXIxWXlHNm82ZDJuelcxUDRzblotbTZaNnd4Z3V3NVpINHhDVDJta29NZnhUT1AtZkRnZnZCOE5HT1BORVFDV3NTTFJlNmtzVm5aWUFuR0t0NWRBYzF2WUhfbS1iLTVoX2E0S0ZYNjRNZDUxemhQNl9QanNzcm1fS3hXam5QTXlSSTU4R1dVckFrbHdVQzJiblFJMEg2?oc=5",
+      "fonte": "Canal Rural",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-10-21T16:05:31-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "baixa",
+      "foco_madeira": true,
+      "tags": [
+        "Brasil",
+        "madeira"
       ]
     },
     {
