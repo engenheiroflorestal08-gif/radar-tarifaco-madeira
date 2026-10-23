@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-22T11:49:40.476676-03:00",
+    "atualizado_em": "2026-10-23T11:35:36.764667-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 244,
+    "novos_itens_encontrados": 240,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-22T11:49:40.434883-03:00",
+      "data_publicacao": "2026-10-23T11:35:36.689450-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-22T11:49:40.028031-03:00",
+      "data_publicacao": "2026-10-23T11:35:36.155438-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2380,6 +2380,22 @@
         "tarifa",
         "Brasil",
         "exportações"
+      ]
+    },
+    {
+      "id": "ccd1d38b8b19a576bca8",
+      "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
+      "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSm9zLUs4LWtuR1JFc2YyOExPR2VYZFBwd1VEbktRRWVwOXVCYVF2emxDdmttOGh4c2ZuWG5RZjlhWDFlcUg0Q19acVJuY1pZZnc4MTA1VVpIZ1o1djFKMFBsYTZjWWdMTjFTZVVRRXgxWThWZ3BTdGE3ak10aGhDcTJCdXF4RTZ4bktJVnVLdU5LQUttWVNibTA1RnAyakwtemxKeG5VLXN5VnNsNlhzRnhzVml5dFFYUUJNaEdNX2xtQjg?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
