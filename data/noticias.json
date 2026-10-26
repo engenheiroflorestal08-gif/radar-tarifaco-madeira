@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-25T11:03:41.596130-03:00",
+    "atualizado_em": "2026-10-26T13:25:17.328246-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 242,
+    "novos_itens_encontrados": 243,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-25T11:03:41.522668-03:00",
+      "data_publicacao": "2026-10-26T13:25:17.254357-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,12 +33,28 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-25T11:03:41.044316-03:00",
+      "data_publicacao": "2026-10-26T13:25:16.826898-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "USTR"
+      ]
+    },
+    {
+      "id": "5898e78feaf8fdb4ec3b",
+      "titulo": "Trump reduz tarifa do Canadá, mas tarifaço ao Brasil continua",
+      "resumo": "Trump reduz tarifa do Canadá, mas tarifaço ao Brasil continua TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFA2NVQxX0VvaERVTHBiZ1JQQWpJeEh6LXdYR2lhVnlFLW9EeTRNVUJLdFA1Q1dsZTYtY1ItLWFIR01EQjllUVAxLXdJT09iQUFzc0o3TkZKclRtcHg3VFlEYXlDSHFaT3B2U2hBcHhUR2RBQk5yRjNXaTVqczlYaTh4V01oMVpUUVd5a0haLUFhZHdIcXFBY2NPVW1sa0NJTFV2Y1Z0OEFEb1VsY2FWM0RB?oc=5",
+      "fonte": "TV Sim Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-10-24T16:09:11-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
