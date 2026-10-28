@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-27T12:40:20.534498-03:00",
+    "atualizado_em": "2026-10-28T13:23:51.390441-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 136,
+    "novos_itens_encontrados": 125,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/@@search?SearchableText=NOVAINDUSTRIABRASIL",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-27T12:40:20.514403-03:00",
+      "data_publicacao": "2026-10-28T13:23:51.354684-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-27T12:40:20.491094-03:00",
+      "data_publicacao": "2026-10-28T13:23:51.311209-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -44,13 +44,29 @@
       ]
     },
     {
+      "id": "48c70d3651f0dd306c99",
+      "titulo": "Secretaria-Executiva",
+      "resumo": "Secretaria-Executiva Câmara de Comércio Exterior (Camex) Conselho Nacional de Desenvolvimento Industrial (CNDI) Conselho Nacional das Zonas de Processamento de Exportação (CZPE)",
+      "url": "https://www.gov.br/mdic/pt-br/composicao/se",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-10-28T13:23:51.282444-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR",
+        "MDIC"
+      ]
+    },
+    {
       "id": "38caf795bffc31888e1d",
       "titulo": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
       "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-27T12:40:20.074464-03:00",
+      "data_publicacao": "2026-10-28T13:23:50.775788-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2882,22 +2898,6 @@
       ]
     },
     {
-      "id": "df2503760190e291bf38",
-      "titulo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário",
-      "resumo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário SBT News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemRGdHN2WmFvcFppVS14dzNiRFZmVWQxUzFBRWlFNEt2WEthODdrM1JybFl1dHZIRzE5QjNDODZqcFNMaGE5WUM5dDF0dW1KR2FhNS1pVTNOUkE3ci01MzRpQjNhczM4TVB6WThwMTZ0YlA3ejBPcFlpN19HNTdPMUEtRTV2Zlk0QU1JMi1JOG5WM0pEQ1hnS245bGZTTU5IY0dQOTQ4MWtaWUh3WkVudmk0TTdsUQ?oc=5",
-      "fonte": "SBT News",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-08T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
       "id": "7099bc69df1da59f9de1",
       "titulo": "Agronegócio brasileiro perde espaço nas exportações aos EUA com tarifas",
       "resumo": "Agronegócio brasileiro perde espaço nas exportações aos EUA com tarifas CNN Brasil",
@@ -2912,6 +2912,22 @@
         "tarifa",
         "Brasil",
         "exportações"
+      ]
+    },
+    {
+      "id": "df2503760190e291bf38",
+      "titulo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário",
+      "resumo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário SBT News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemRGdHN2WmFvcFppVS14dzNiRFZmVWQxUzFBRWlFNEt2WEthODdrM1JybFl1dHZIRzE5QjNDODZqcFNMaGE5WUM5dDF0dW1KR2FhNS1pVTNOUkE3ci01MzRpQjNhczM4TVB6WThwMTZ0YlA3ejBPcFlpN19HNTdPMUEtRTV2Zlk0QU1JMi1JOG5WM0pEQ1hnS245bGZTTU5IY0dQOTQ4MWtaWUh3WkVudmk0TTdsUQ?oc=5",
+      "fonte": "SBT News",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-08T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
