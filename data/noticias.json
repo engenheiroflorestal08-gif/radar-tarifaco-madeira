@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-10-31T12:34:43.394547-03:00",
+    "atualizado_em": "2026-11-01T13:32:37.353397-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 125,
+    "novos_itens_encontrados": 169,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/@@search?SearchableText=NOVAINDUSTRIABRASIL",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-31T12:34:43.363332-03:00",
+      "data_publicacao": "2026-11-01T13:32:37.327848-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-31T12:34:43.301792-03:00",
+      "data_publicacao": "2026-11-01T13:32:37.276567-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-31T12:34:43.272528-03:00",
+      "data_publicacao": "2026-11-01T13:32:37.252459-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-10-31T12:34:42.764374-03:00",
+      "data_publicacao": "2026-11-01T13:32:36.839065-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2090,22 +2090,6 @@
       ]
     },
     {
-      "id": "39ce3ed3a8310c5a5bb8",
-      "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
-      "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnJNMEEwMnNaWXM5dEp6WkF3LXFfZXkyVFNtTkpfRzdzQXk4azQ5dkM5MnVrSWNyaWhXS0xtclRGcTJubW9SYnFTQjl5WjZpTFhIY1doeVhSbFE5eFY0UzlRandpMWg4MWlXZEhfeW5GM0hDUEFPNllnYmc5SE43TDZCWnZvQlZidjZvRkFlYVVNRjd3TTVWcEFzNDlYRndyd0dwSXFTVFNoY1ZFeDg3SUVLelhsM0hyeHM1QW9tdU4xMmx0TkNzS2Yza9IB2gFBVV95cUxNS29vU2dkVnY2eGtZRTN6SFBtMkZLM25feEgzS2NBcHUxWFpNelRmWExZMVhUWWZPS2xleTdlOHBCMTJQWmlKdUhqSjA1U1FLblhINkZqektWS3BwOFJVZDdMRzIwaW9yWEVlZV8tUUhtcGkxeVdqMzNCNTNYWWw3QnZGemZqVnNNUE5Nd19fR3pOc05qQzl3cHl4UEZoNVVMYWt4MzNDZXFCdFIzVWxvaURZSHhPV0hKM1ZMUUhpcHA2dFZUZzRfQWhOc1Q0ZHJxdjEtNVh6bDB3Zw?oc=5",
-      "fonte": "G1",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "exportações"
-      ]
-    },
-    {
       "id": "59eb988bcda0561f98e6",
       "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
       "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
@@ -2133,6 +2117,22 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "39ce3ed3a8310c5a5bb8",
+      "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
+      "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnJNMEEwMnNaWXM5dEp6WkF3LXFfZXkyVFNtTkpfRzdzQXk4azQ5dkM5MnVrSWNyaWhXS0xtclRGcTJubW9SYnFTQjl5WjZpTFhIY1doeVhSbFE5eFY0UzlRandpMWg4MWlXZEhfeW5GM0hDUEFPNllnYmc5SE43TDZCWnZvQlZidjZvRkFlYVVNRjd3TTVWcEFzNDlYRndyd0dwSXFTVFNoY1ZFeDg3SUVLelhsM0hyeHM1QW9tdU4xMmx0TkNzS2Yza9IB2gFBVV95cUxNS29vU2dkVnY2eGtZRTN6SFBtMkZLM25feEgzS2NBcHUxWFpNelRmWExZMVhUWWZPS2xleTdlOHBCMTJQWmlKdUhqSjA1U1FLblhINkZqektWS3BwOFJVZDdMRzIwaW9yWEVlZV8tUUhtcGkxeVdqMzNCNTNYWWw3QnZGemZqVnNNUE5Nd19fR3pOc05qQzl3cHl4UEZoNVVMYWt4MzNDZXFCdFIzVWxvaURZSHhPV0hKM1ZMUUhpcHA2dFZUZzRfQWhOc1Q0ZHJxdjEtNVh6bDB3Zw?oc=5",
+      "fonte": "G1",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "exportações"
       ]
     },
     {
@@ -2480,6 +2480,23 @@
       ]
     },
     {
+      "id": "09aabdde5b5424bae56a",
+      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
+      "fonte": "Estadão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
       "id": "48cc22bd762f43256c1c",
       "titulo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe",
       "resumo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe Agência de Notícias da Indústria",
@@ -2495,23 +2512,6 @@
         "Brasil",
         "USTR",
         "competitividade"
-      ]
-    },
-    {
-      "id": "09aabdde5b5424bae56a",
-      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "Estadão",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
       ]
     },
     {
@@ -2963,6 +2963,22 @@
       ]
     },
     {
+      "id": "df2503760190e291bf38",
+      "titulo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário",
+      "resumo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário SBT News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemRGdHN2WmFvcFppVS14dzNiRFZmVWQxUzFBRWlFNEt2WEthODdrM1JybFl1dHZIRzE5QjNDODZqcFNMaGE5WUM5dDF0dW1KR2FhNS1pVTNOUkE3ci01MzRpQjNhczM4TVB6WThwMTZ0YlA3ejBPcFlpN19HNTdPMUEtRTV2Zlk0QU1JMi1JOG5WM0pEQ1hnS245bGZTTU5IY0dQOTQ4MWtaWUh3WkVudmk0TTdsUQ?oc=5",
+      "fonte": "SBT News",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-08T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "7099bc69df1da59f9de1",
       "titulo": "Agronegócio brasileiro perde espaço nas exportações aos EUA com tarifas",
       "resumo": "Agronegócio brasileiro perde espaço nas exportações aos EUA com tarifas CNN Brasil",
@@ -2977,22 +2993,6 @@
         "tarifa",
         "Brasil",
         "exportações"
-      ]
-    },
-    {
-      "id": "df2503760190e291bf38",
-      "titulo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário",
-      "resumo": "Tarifaço joga Brasil ao fim da fila dos EUA, diz empresário SBT News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemRGdHN2WmFvcFppVS14dzNiRFZmVWQxUzFBRWlFNEt2WEthODdrM1JybFl1dHZIRzE5QjNDODZqcFNMaGE5WUM5dDF0dW1KR2FhNS1pVTNOUkE3ci01MzRpQjNhczM4TVB6WThwMTZ0YlA3ejBPcFlpN19HNTdPMUEtRTV2Zlk0QU1JMi1JOG5WM0pEQ1hnS245bGZTTU5IY0dQOTQ4MWtaWUh3WkVudmk0TTdsUQ?oc=5",
-      "fonte": "SBT News",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-08T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     },
     {
