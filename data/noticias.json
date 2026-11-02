@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-01T13:32:37.353397-03:00",
+    "atualizado_em": "2026-11-02T16:56:40.805227-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 169,
+    "novos_itens_encontrados": 168,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/@@search?SearchableText=NOVAINDUSTRIABRASIL",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-01T13:32:37.327848-03:00",
+      "data_publicacao": "2026-11-02T16:56:40.779112-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-01T13:32:37.276567-03:00",
+      "data_publicacao": "2026-11-02T16:56:40.726917-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-01T13:32:37.252459-03:00",
+      "data_publicacao": "2026-11-02T16:56:40.701933-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-01T13:32:36.839065-03:00",
+      "data_publicacao": "2026-11-02T16:56:40.285531-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2699,6 +2699,23 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "a3010261f2d2494b4166",
+      "titulo": "Tarifa dos EUA ameaça negócios da indústria madeireira brasileira",
+      "resumo": "Tarifa dos EUA ameaça negócios da indústria madeireira brasileira TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODhCc2V5TEJzRmxLN3kxNkFPNE83MU5WN0lJRC0wNVVTQXE1ZEE4ajhXRzd1cWhtekRqZHRXM3RFSk5PSzBMeXJ0eElvbWp5Nm4zbVU3X2VSYVVZYXVnaWNtazFUMEVDTUJydElVTzV4Szh6Mlc3NkhjT0VocUlZR05xMTBobG9vazJ6UXlVMFUtX2RoLWpVaGt6YXhDTnVvTUJRQ3d3SkFNajd5eGN2MG9nNldhN3dzSFdEWkszdF9lSDk2aWRjTVdBOA?oc=5",
+      "fonte": "TV Sim Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-15T04:00:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "USTR"
       ]
     },
     {
