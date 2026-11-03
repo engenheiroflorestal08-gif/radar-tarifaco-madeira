@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-02T16:56:40.805227-03:00",
+    "atualizado_em": "2026-11-03T14:28:34.735968-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 168,
+    "novos_itens_encontrados": 236,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/@@search?SearchableText=NOVAINDUSTRIABRASIL",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-02T16:56:40.779112-03:00",
+      "data_publicacao": "2026-11-03T14:28:34.702691-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-02T16:56:40.726917-03:00",
+      "data_publicacao": "2026-11-03T14:28:34.636847-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-02T16:56:40.701933-03:00",
+      "data_publicacao": "2026-11-03T14:28:34.607502-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,22 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-02T16:56:40.285531-03:00",
+      "data_publicacao": "2026-11-03T14:28:34.086584-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "ee8a140c9fc30264e204",
+      "titulo": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-03T14:28:34.082165-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2023,6 +2038,22 @@
       ]
     },
     {
+      "id": "f23f6ed58fb03e3c14e3",
+      "titulo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas",
+      "resumo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas Vermelho",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1E1QmZOWjNsQTUtck90TFFITWlIM0ZkbU96a0hOYVRZd0VIeE5sMDc1RXRQRG92bWJKNXIzZnZSVGF5QzBDak51cjFmZ0dUb3pYV0JELXJELU9jRXU2cHVGU1llNFZCT1plaHFxdXM3c3NGTXNnU3ZpR2RSemVPMEI5enduNGtqbDNiR3d6YjY5d0JUVUN5b0p2bDRrUll0NmVF?oc=5",
+      "fonte": "Vermelho",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "046ad079ae87862f2e1f",
       "titulo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep",
       "resumo": "Novo tarifaço dos EUA afeta 75% das exportações do Paraná, diz Fiep CNN Brasil",
@@ -2037,22 +2068,6 @@
         "tarifa",
         "Brasil",
         "exportações"
-      ]
-    },
-    {
-      "id": "f23f6ed58fb03e3c14e3",
-      "titulo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas",
-      "resumo": "Brasil rebate os EUA com dados e prova que tarifas são infundadas vermelho.org.br",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1E1QmZOWjNsQTUtck90TFFITWlIM0ZkbU96a0hOYVRZd0VIeE5sMDc1RXRQRG92bWJKNXIzZnZSVGF5QzBDak51cjFmZ0dUb3pYV0JELXJELU9jRXU2cHVGU1llNFZCT1plaHFxdXM3c3NGTXNnU3ZpR2RSemVPMEI5enduNGtqbDNiR3d6YjY5d0JUVUN5b0p2bDRrUll0NmVF?oc=5",
-      "fonte": "vermelho.org.br",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     },
     {
@@ -2090,21 +2105,6 @@
       ]
     },
     {
-      "id": "59eb988bcda0561f98e6",
-      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
-      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
-      "fonte": "O GLOBO",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "27e26aba3b6e72194632",
       "titulo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual",
       "resumo": "Tarifaço dos EUA vai afetar fortemente um setor da economia do Paraná; saiba qual Bem Paraná",
@@ -2133,6 +2133,21 @@
       "tags": [
         "tarifa",
         "exportações"
+      ]
+    },
+    {
+      "id": "59eb988bcda0561f98e6",
+      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
+      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
+      "fonte": "O GLOBO",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -2462,6 +2477,55 @@
       ]
     },
     {
+      "id": "09aabdde5b5424bae56a",
+      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
+      "fonte": "Estadão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
+      "id": "5178b3fe9bd9e9a9a314",
+      "titulo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan",
+      "resumo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkZ1c3ZaN0pvcEFxTF9NeElOV3NOQnVFRVAtSk5yMTJMUWkzM0FGcUFBR2dvM2tZSzI3QzdCUTU3c3RMbUltQXpoQWdhakxwb2tvQU5WcFJXd0hWM0FuZzVLSlJaNGZTQURnMU4wdmtBbHpMZUcyUFBfbkZxd0E0Ni1hazF6dHdRbm5DLU5wNVNZYzJna3dSMU9ZajUwS1ZJVndzMFo4eTB1MmtINV9pNUM1WHhYcVg2dk40eA?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "ccd1d38b8b19a576bca8",
+      "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
+      "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSm9zLUs4LWtuR1JFc2YyOExPR2VYZFBwd1VEbktRRWVwOXVCYVF2emxDdmttOGh4c2ZuWG5RZjlhWDFlcUg0Q19acVJuY1pZZnc4MTA1VVpIZ1o1djFKMFBsYTZjWWdMTjFTZVVRRXgxWThWZ3BTdGE3ak10aGhDcTJCdXF4RTZ4bktJVnVLdU5LQUttWVNibTA1RnAyakwtemxKeG5VLXN5VnNsNlhzRnhzVml5dFFYUUJNaEdNX2xtQjg?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "b6330ad6907f3746724b",
       "titulo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o…",
       "resumo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o de má Instagram",
@@ -2476,23 +2540,6 @@
         "tarifa",
         "Brasil",
         "Estados Unidos",
-        "exportações"
-      ]
-    },
-    {
-      "id": "09aabdde5b5424bae56a",
-      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "Estadão",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
         "exportações"
       ]
     },
@@ -2515,42 +2562,10 @@
       ]
     },
     {
-      "id": "ccd1d38b8b19a576bca8",
-      "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
-      "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSm9zLUs4LWtuR1JFc2YyOExPR2VYZFBwd1VEbktRRWVwOXVCYVF2emxDdmttOGh4c2ZuWG5RZjlhWDFlcUg0Q19acVJuY1pZZnc4MTA1VVpIZ1o1djFKMFBsYTZjWWdMTjFTZVVRRXgxWThWZ3BTdGE3ak10aGhDcTJCdXF4RTZ4bktJVnVLdU5LQUttWVNibTA1RnAyakwtemxKeG5VLXN5VnNsNlhzRnhzVml5dFFYUUJNaEdNX2xtQjg?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
-      "id": "5178b3fe9bd9e9a9a314",
-      "titulo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan",
-      "resumo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkZ1c3ZaN0pvcEFxTF9NeElOV3NOQnVFRVAtSk5yMTJMUWkzM0FGcUFBR2dvM2tZSzI3QzdCUTU3c3RMbUltQXpoQWdhakxwb2tvQU5WcFJXd0hWM0FuZzVLSlJaNGZTQURnMU4wdmtBbHpMZUcyUFBfbkZxd0E0Ni1hazF6dHdRbm5DLU5wNVNZYzJna3dSMU9ZajUwS1ZJVndzMFo4eTB1MmtINV9pNUM1WHhYcVg2dk40eA?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
-      "id": "c889321a3c4cf973c6a9",
-      "titulo": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que serão afetados ou isentos",
-      "resumo": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que serão afetados ou isentos G1",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzJaZUlwNTVxaDFDX3B0UEd1QW53S3ZGcUVqWUhmcnluUmpMY2JJbUw2S1pBYlNDcTc1Tzl1Vkl6UzVuTjl4UVJZcXA3cnh4Q1RXUGN0MlJhSHZNV190T0lNRFRpdnFsY2lGZEhBSVRtbW9qTE9FZHFwMjhieDBEMHBmNjlVS3Z5TVA5Y01vMENVNjY0THYzYV9kU05CTEthME96bmZ3MUFKazRpa09CcW52c3Vhby1lUThtZUtQNXRIQnNjTFJxMFFVa9IB2gFBVV95cUxQT290NzJubnNKTkdDblhTYW1PUVNWTjloUC1UbW1IUjMtYVdIZ2NZSEZYMTZHb1A0bEk0NFFQX3k2U3J1ZGFQRWhydF9tYnd6S3hEYlRBT1RpbW5WSUNsUkJVNXZiVXpwVDR4S1VCZ1ZrVVZZMjFFSndTeEE0WFR4RTZEYldpRUljYmoxTXNFa29pd1JmdXoweGFBSXMzbFVMZ2V6MnVOVmRhNU5ZSEhQR2NBUjF4eFNwVE1GbU9JOFNUbW5HU0Jic3JDWDMxY0hXcVhHQXNDaDhYUQ?oc=5",
+      "id": "6374b1b061c2aaf6a60f",
+      "titulo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes'",
+      "resumo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes' G1",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXhwalMzbkFndEZoaEtIckVXOEFjRjBFMm9sTTNWNUNsOHg3Q1pxeVppTkZMM0xGN2l3Tm9idVYwQ1c1WlhmM2V5cFlVU3VJR0NBVUt4SHptTXdyVWVpYUw2M19MTTE2RC1WWHdYdkZ1Q3IzRDlVNGNtY1Vid0pJNjNRTHlVTEFsam9KMENWMkFXbmJHeWZlSUI5ck1zUEE5NkhVV3h5eF84d1pWVkgydWJ6UFBGREVBQ2dXWU51VGJFTG5zeGtDdlJiOVZiQXFaZnRrYnlQa3UzdENkVWhQOEdVc0RjcElNa1U2Nk9mWGZ4Qllqd1JaWTYxVE5BbUlLTjRKLUFrd9IBlgJBVV95cUxQeW1kdGNseEFWYnVPVVQ2dlI1WVlvazFZUnJSYW01d3pESldodmFHR1luNGdOYTVxdW04UWxxZE9yUEtSWXlXZFZFMkpJazhwcXdaTWZhZnJ2OWhPNG5GM0JhVm5UTTd3aHJQU2VOT3VjREsyUy1ZR3pMWmR4ZXVuYXdLTjhMa2xibUo1bEdWaFZETzAzLVI2bFdqTm96OExUUmhtNHdPUzRtNEZrZkRQMUlxWnNtS0pFMDRpeUxnM0p0ZE91R01iQ3BaOVhIN1I5ekZGbzFyVVRvcWtFSmZUZ2xLVm8zdmNoa00yUVlMWFYwYi1GRE0xM05GNklUdC1KWW5nallwN2lmLWN5TVVjVzkyVFp2Zw?oc=5",
       "fonte": "G1",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
@@ -2558,8 +2573,7 @@
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
-        "tarifa",
-        "Brasil"
+        "tarifa"
       ]
     },
     {
@@ -2595,21 +2609,6 @@
       ]
     },
     {
-      "id": "6374b1b061c2aaf6a60f",
-      "titulo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes'",
-      "resumo": "Tarifaço: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas são 'absolutamente improcedentes' G1",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXhwalMzbkFndEZoaEtIckVXOEFjRjBFMm9sTTNWNUNsOHg3Q1pxeVppTkZMM0xGN2l3Tm9idVYwQ1c1WlhmM2V5cFlVU3VJR0NBVUt4SHptTXdyVWVpYUw2M19MTTE2RC1WWHdYdkZ1Q3IzRDlVNGNtY1Vid0pJNjNRTHlVTEFsam9KMENWMkFXbmJHeWZlSUI5ck1zUEE5NkhVV3h5eF84d1pWVkgydWJ6UFBGREVBQ2dXWU51VGJFTG5zeGtDdlJiOVZiQXFaZnRrYnlQa3UzdENkVWhQOEdVc0RjcElNa1U2Nk9mWGZ4Qllqd1JaWTYxVE5BbUlLTjRKLUFrd9IBlgJBVV95cUxQeW1kdGNseEFWYnVPVVQ2dlI1WVlvazFZUnJSYW01d3pESldodmFHR1luNGdOYTVxdW04UWxxZE9yUEtSWXlXZFZFMkpJazhwcXdaTWZhZnJ2OWhPNG5GM0JhVm5UTTd3aHJQU2VOT3VjREsyUy1ZR3pMWmR4ZXVuYXdLTjhMa2xibUo1bEdWaFZETzAzLVI2bFdqTm96OExUUmhtNHdPUzRtNEZrZkRQMUlxWnNtS0pFMDRpeUxnM0p0ZE91R01iQ3BaOVhIN1I5ekZGbzFyVVRvcWtFSmZUZ2xLVm8zdmNoa00yUVlMWFYwYi1GRE0xM05GNklUdC1KWW5nallwN2lmLWN5TVVjVzkyVFp2Zw?oc=5",
-      "fonte": "G1",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "1763c6dd2121da15294c",
       "titulo": "Tarifas de 25%: veja produtos que serão afetados por decisão dos EUA",
       "resumo": "Tarifas de 25%: veja produtos que serão afetados por decisão dos EUA Metrópoles",
@@ -2622,6 +2621,22 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "c889321a3c4cf973c6a9",
+      "titulo": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que serão afetados ou isentos",
+      "resumo": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que serão afetados ou isentos G1",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzJaZUlwNTVxaDFDX3B0UEd1QW53S3ZGcUVqWUhmcnluUmpMY2JJbUw2S1pBYlNDcTc1Tzl1Vkl6UzVuTjl4UVJZcXA3cnh4Q1RXUGN0MlJhSHZNV190T0lNRFRpdnFsY2lGZEhBSVRtbW9qTE9FZHFwMjhieDBEMHBmNjlVS3Z5TVA5Y01vMENVNjY0THYzYV9kU05CTEthME96bmZ3MUFKazRpa09CcW52c3Vhby1lUThtZUtQNXRIQnNjTFJxMFFVa9IB2gFBVV95cUxQT290NzJubnNKTkdDblhTYW1PUVNWTjloUC1UbW1IUjMtYVdIZ2NZSEZYMTZHb1A0bEk0NFFQX3k2U3J1ZGFQRWhydF9tYnd6S3hEYlRBT1RpbW5WSUNsUkJVNXZiVXpwVDR4S1VCZ1ZrVVZZMjFFSndTeEE0WFR4RTZEYldpRUljYmoxTXNFa29pd1JmdXoweGFBSXMzbFVMZ2V6MnVOVmRhNU5ZSEhQR2NBUjF4eFNwVE1GbU9JOFNUbW5HU0Jic3JDWDMxY0hXcVhHQXNDaDhYUQ?oc=5",
+      "fonte": "G1",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
@@ -2702,6 +2717,22 @@
       ]
     },
     {
+      "id": "93a896adf555aeac3687",
+      "titulo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos",
+      "resumo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos InvestNews",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFlldGp1MWdldWdQaE90VlZIZm1ET1lleGRYTENNNGlGOC03QmdXV0ZUdWlDWDRvRzdBZ3djamlkV3Z4aE1DSjhGRHk1eEh3QTRYN2ZDNDFYNlQ4QWZxVnRsVGNVM2ZGMXNVNW5qYmVwRjRERmdDdFNlYmlnUXpsZGJ5Xzc5QzVPZnVnbzRmZUlhT3p6eVhndzFXTkFQR0V2QmZHT2xRSFJSRDJOS1QycUtFX3JjOU1nTlo2dVUyRzVXdERoRWtkVlppNFV4V2xVNUxV0gHYAUFVX3lxTE5aUWwtVWZCM0pZTUMwX2NhemdWaTc0UXRsbks1bzBySko4YjZ2Zy1SUzEwNmxGMm15aGt3U01wc3J4OTUyMy1kMHQ2bllpbGVqRHRvYTFmVEZSVGJVLUhFN2doR1daRG5zNUxJc0FwSTlNWVp1bGtibTZPLWc4Q2YtVXZ3QkprWFRZdWJNb29jZE52d3RFdWpIUGFucXFMRlFCemxUZXp2RUxITHA2aUdHTXlvLVN5RXFubXhBdmp5RXFiNHhpT2VtZ1M2NjBkOWk3dVhBb0ZHYw?oc=5",
+      "fonte": "InvestNews",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-15T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "a3010261f2d2494b4166",
       "titulo": "Tarifa dos EUA ameaça negócios da indústria madeireira brasileira",
       "resumo": "Tarifa dos EUA ameaça negócios da indústria madeireira brasileira TV Sim Brasil",
@@ -2716,22 +2747,6 @@
         "tarifa",
         "Brasil",
         "USTR"
-      ]
-    },
-    {
-      "id": "93a896adf555aeac3687",
-      "titulo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos",
-      "resumo": "EUA anunciam novas tarifas de 25% sobre o Brasil, mas abrem exceção para produtos estratégicos InvestNews",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFlldGp1MWdldWdQaE90VlZIZm1ET1lleGRYTENNNGlGOC03QmdXV0ZUdWlDWDRvRzdBZ3djamlkV3Z4aE1DSjhGRHk1eEh3QTRYN2ZDNDFYNlQ4QWZxVnRsVGNVM2ZGMXNVNW5qYmVwRjRERmdDdFNlYmlnUXpsZGJ5Xzc5QzVPZnVnbzRmZUlhT3p6eVhndzFXTkFQR0V2QmZHT2xRSFJSRDJOS1QycUtFX3JjOU1nTlo2dVUyRzVXdERoRWtkVlppNFV4V2xVNUxV0gHYAUFVX3lxTE5aUWwtVWZCM0pZTUMwX2NhemdWaTc0UXRsbks1bzBySko4YjZ2Zy1SUzEwNmxGMm15aGt3U01wc3J4OTUyMy1kMHQ2bllpbGVqRHRvYTFmVEZSVGJVLUhFN2doR1daRG5zNUxJc0FwSTlNWVp1bGtibTZPLWc4Q2YtVXZ3QkprWFRZdWJNb29jZE52d3RFdWpIUGFucXFMRlFCemxUZXp2RUxITHA2aUdHTXlvLVN5RXFubXhBdmp5RXFiNHhpT2VtZ1M2NjBkOWk3dVhBb0ZHYw?oc=5",
-      "fonte": "InvestNews",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-15T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     },
     {
@@ -3518,6 +3533,22 @@
       ]
     },
     {
+      "id": "6986e041720a0bf93384",
+      "titulo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo",
+      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzV3T2Y1dWxjQ2dTSTlPaW8xMXZ5TkJxRnJDMnJ4LW44VDNhUFFiS1NBSGNXV0ZsOXVpVzVwbm9FaWZ1WDl5SHFFUFI0Z2tidDNHeWNLQnIzQi00LVk5RTdHNVN5UTVGNjBZLU9STzhoWFUwODBDTHpkVWtWZGE4QWlldXJGSXp1blBzc2xMSWlaM3Uyb3dCcmRtUk9wWFhiQWpaTHRta2J0MmNrRURKRUl0Q2VwbUp2bWMw?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "e0f5d54b53104761d5f9",
       "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
       "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
@@ -3567,22 +3598,6 @@
         "tarifa",
         "Brasil",
         "USTR"
-      ]
-    },
-    {
-      "id": "6986e041720a0bf93384",
-      "titulo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo",
-      "resumo": "Tarifas dos EUA afetariam 21% do que Brasil vende, diz governo CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzV3T2Y1dWxjQ2dTSTlPaW8xMXZ5TkJxRnJDMnJ4LW44VDNhUFFiS1NBSGNXV0ZsOXVpVzVwbm9FaWZ1WDl5SHFFUFI0Z2tidDNHeWNLQnIzQi00LVk5RTdHNVN5UTVGNjBZLU9STzhoWFUwODBDTHpkVWtWZGE4QWlldXJGSXp1blBzc2xMSWlaM3Uyb3dCcmRtUk9wWFhiQWpaTHRta2J0MmNrRURKRUl0Q2VwbUp2bWMw?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     },
     {
