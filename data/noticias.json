@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-06T14:06:17.945985-03:00",
+    "atualizado_em": "2026-11-07T13:02:15.831966-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 103,
+    "novos_itens_encontrados": 104,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-06T14:06:17.844027-03:00",
+      "data_publicacao": "2026-11-07T13:02:15.767299-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-06T14:06:17.813375-03:00",
+      "data_publicacao": "2026-11-07T13:02:15.747992-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -49,7 +49,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-06T14:06:17.401929-03:00",
+      "data_publicacao": "2026-11-07T13:02:15.395771-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -64,7 +64,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-06T14:06:17.396945-03:00",
+      "data_publicacao": "2026-11-07T13:02:15.392231-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -3548,23 +3548,6 @@
       ]
     },
     {
-      "id": "e0f5d54b53104761d5f9",
-      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
-      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
-      ]
-    },
-    {
       "id": "ab8a197a0d8ef84398d8",
       "titulo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria",
       "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria Folha de S.Paulo",
@@ -3579,6 +3562,23 @@
         "tarifa",
         "Brasil",
         "USTR"
+      ]
+    },
+    {
+      "id": "e0f5d54b53104761d5f9",
+      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
+      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
