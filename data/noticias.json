@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-09T17:21:14.060693-03:00",
+    "atualizado_em": "2026-11-10T14:25:48.206346-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-09T17:21:13.956659-03:00",
+      "data_publicacao": "2026-11-10T14:25:48.105025-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-09T17:21:13.926320-03:00",
+      "data_publicacao": "2026-11-10T14:25:48.074476-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -49,7 +49,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-09T17:21:13.485705-03:00",
+      "data_publicacao": "2026-11-10T14:25:47.663166-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -64,7 +64,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-09T17:21:13.480549-03:00",
+      "data_publicacao": "2026-11-10T14:25:47.658072-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2120,6 +2120,21 @@
       ]
     },
     {
+      "id": "59eb988bcda0561f98e6",
+      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
+      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
+      "fonte": "O GLOBO",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
+      ]
+    },
+    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -2133,21 +2148,6 @@
       "tags": [
         "tarifa",
         "exportações"
-      ]
-    },
-    {
-      "id": "59eb988bcda0561f98e6",
-      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
-      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
-      "fonte": "O GLOBO",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
       ]
     },
     {
