@@ -1,13 +1,30 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-10T14:25:48.206346-03:00",
+    "atualizado_em": "2026-11-11T14:38:56.664820-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 101,
+    "novos_itens_encontrados": 105,
     "falhas_de_coleta": []
   },
   "noticias": [
+    {
+      "id": "3a28211e44c9212018f0",
+      "titulo": "Brasil aposta na industrialização de minerais com compromisso ambiental, afirma Márcio Elias na COP 31",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-11T14:38:56.622738-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "Brasil",
+        "USTR",
+        "MDIC"
+      ]
+    },
     {
       "id": "b79c9ba0505aceaf3f55",
       "titulo": "Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços (SDIC)",
@@ -15,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-10T14:25:48.105025-03:00",
+      "data_publicacao": "2026-11-11T14:38:56.559797-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -33,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-10T14:25:48.074476-03:00",
+      "data_publicacao": "2026-11-11T14:38:56.530001-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -49,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-10T14:25:47.663166-03:00",
+      "data_publicacao": "2026-11-11T14:38:56.069703-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -64,7 +81,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-10T14:25:47.658072-03:00",
+      "data_publicacao": "2026-11-11T14:38:56.064403-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -3548,6 +3565,23 @@
       ]
     },
     {
+      "id": "ab8a197a0d8ef84398d8",
+      "titulo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria",
+      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkhfUU8yamZCZ0t0Z1lwT1QxV3ZIZ25KdEZleVNrenFSRF9qS3VpbHdnTFlyY0F3SUNMMl9WclpXRkQ5VU1FUm5ZV0xPVUVSOTZWT1pvMW5wQ191WllDMUhiek10WkhvQnhHQlJMb3B6Y1NDaHAyblZsVVE4M3pKUnllN21jOUw2dXdkNzZhSkhoY3dLQjR1UWhOYnlqYUcxZ2tITmswSUJpNkV3aFZoSUtUMkpzMC0wcVRGb05nSGZ4NzdZaVlB?oc=5",
+      "fonte": "Folha de S.Paulo",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "USTR"
+      ]
+    },
+    {
       "id": "e0f5d54b53104761d5f9",
       "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
       "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
@@ -3579,23 +3613,6 @@
         "tarifa",
         "Brasil",
         "exportações",
-        "USTR"
-      ]
-    },
-    {
-      "id": "ab8a197a0d8ef84398d8",
-      "titulo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria",
-      "resumo": "Novas tarifas atingem 21% do que Brasil exporta para EUA, diz ministro da Indústria Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkhfUU8yamZCZ0t0Z1lwT1QxV3ZIZ25KdEZleVNrenFSRF9qS3VpbHdnTFlyY0F3SUNMMl9WclpXRkQ5VU1FUm5ZV0xPVUVSOTZWT1pvMW5wQ191WllDMUhiek10WkhvQnhHQlJMb3B6Y1NDaHAyblZsVVE4M3pKUnllN21jOUw2dXdkNzZhSkhoY3dLQjR1UWhOYnlqYUcxZ2tITmswSUJpNkV3aFZoSUtUMkpzMC0wcVRGb05nSGZ4NzdZaVlB?oc=5",
-      "fonte": "Folha de S.Paulo",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
         "USTR"
       ]
     },
