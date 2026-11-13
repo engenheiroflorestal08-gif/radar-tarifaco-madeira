@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-12T14:51:32.106205-03:00",
+    "atualizado_em": "2026-11-13T14:27:56.006187-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 104,
+    "novos_itens_encontrados": 102,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-12T14:51:32.084125-03:00",
+      "data_publicacao": "2026-11-13T14:27:55.965529-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-12T14:51:32.050544-03:00",
+      "data_publicacao": "2026-11-13T14:27:55.901826-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-12T14:51:32.034867-03:00",
+      "data_publicacao": "2026-11-13T14:27:55.872338-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-12T14:51:31.628111-03:00",
+      "data_publicacao": "2026-11-13T14:27:55.354499-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -81,12 +81,29 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-12T14:51:31.625268-03:00",
+      "data_publicacao": "2026-11-13T14:27:55.349496-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "USTR"
+      ]
+    },
+    {
+      "id": "4bd4727c2b6a55edc34c",
+      "titulo": "Tarifas dos EUA sobre madeira brasileira devem continuar em 2027, apesar de mudanças políticas",
+      "resumo": "Tarifas dos EUA sobre madeira brasileira devem continuar em 2027, apesar de mudanças políticas Portal do Agronegócio",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeWl0MHIxcXV2Ykd2dV9QSlYwai1lNjJuY2VnYmFFM1BQQ0l2M3lMM1hNaDhTWjVIaE5kc0xDcWRLM2NNWW90ZW1UU053ZFliLWN5dWxPc3F1SGtDblQ4SVBNWEN4SEk0TUpjZDZ4aFZRTjQwNkVaeE5xdHAzVFdqa3NVN0VpWmE4NzUwREJHLV8xQ2lyUUdseDR2RnFTMjNrN1k5cVk4S0dZalNNOEtqZEp5MWN4RWpZV0RZM2NiQ0lfOVNLM2JIbHlxV05GNDBzdy1QMVltNFhod0QxSVJYdzJrNWRSN0JLTGVsU0VhdFNnakJ4WmRwTGxQRE9uQQ?oc=5",
+      "fonte": "Portal do Agronegócio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-11-12T16:30:00-03:00",
+      "categoria": "Indústria da madeira",
+      "prioridade": "alta",
+      "foco_madeira": true,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "madeira"
       ]
     },
     {
