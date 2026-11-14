@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-13T14:27:56.006187-03:00",
+    "atualizado_em": "2026-11-14T13:19:21.194864-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 102,
+    "novos_itens_encontrados": 104,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-13T14:27:55.965529-03:00",
+      "data_publicacao": "2026-11-14T13:19:21.157160-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-13T14:27:55.901826-03:00",
+      "data_publicacao": "2026-11-14T13:19:21.089597-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-13T14:27:55.872338-03:00",
+      "data_publicacao": "2026-11-14T13:19:21.060202-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-13T14:27:55.354499-03:00",
+      "data_publicacao": "2026-11-14T13:19:20.649273-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -81,7 +81,22 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-13T14:27:55.349496-03:00",
+      "data_publicacao": "2026-11-14T13:19:20.644375-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "737d1160a7ef1cf939c8",
+      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-14T13:19:20.641792-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2523,6 +2538,22 @@
       "foco_madeira": false,
       "tags": [
         "tarifa"
+      ]
+    },
+    {
+      "id": "583292de7980149b14c3",
+      "titulo": "Saiba quais produtos brasileiros serão afetados pelo novo tarifaço dos EUA",
+      "resumo": "Saiba quais produtos brasileiros serão afetados pelo novo tarifaço dos EUA Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkMtWGZSZmZ2OGlTQUh4UEVjWGlfcWpLX3VNWTNaNmhiWS1JWjg2aXNOemRDRmF5VVBaWHZ5eWEyUDU0RU82bVVoUlFiNzUyR1BqSnhsNHFuQTFQa25oam9tQUtOMWp1bTAzdG5aMC1ublBWRDRhQkxjUUpmOGgwdVBpNGlNSlhKX215U3A2VkVZWlpiOXhYSDUtaDdkS0pZTi1McGdSVnFza1NGd3BxaUh5OU5yTTBEbFE?oc=5",
+      "fonte": "Poder360",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
