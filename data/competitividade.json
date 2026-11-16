@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-15T14:17:37-03:00",
+    "atualizado_em": "2026-11-16T17:35:01-03:00",
     "periodo_referencia": "aguardando integração com U.S. Census",
     "status": "aguardando_chave",
     "mensagem": "A tabela está pronta, mas a API do U.S. Census exige uma chave gratuita. Cadastre CENSUS_API_KEY nos Secrets do GitHub e execute novamente o workflow.",
