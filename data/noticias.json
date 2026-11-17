@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-16T16:57:56.332047-03:00",
+    "atualizado_em": "2026-11-17T15:54:39.730416-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 102,
+    "novos_itens_encontrados": 105,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,24 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:56.313831-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.708256-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "Brasil",
+        "USTR",
+        "MDIC"
+      ]
+    },
+    {
+      "id": "6b0136de71be9e5f2d5f",
+      "titulo": "Política industrial pode fazer do Brasil um país produtor, não apenas consumidor, afirma secretário do MDIC",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/politica-industrial-pode-fazer-do-brasil-um-pais-produtor-nao-apenas-consumidor-afirma-secretario-do-mdic",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-17T15:54:39.702560-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +49,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:56.280532-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.661429-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +67,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:56.266194-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.642208-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +83,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:55.876809-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.230803-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -81,7 +98,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:55.874169-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.227750-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -96,12 +113,29 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-16T16:57:55.872871-03:00",
+      "data_publicacao": "2026-11-17T15:54:39.225499-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "USTR"
+      ]
+    },
+    {
+      "id": "c257d53b2905593a803e",
+      "titulo": "Exportações do Brasil aos EUA sobem 87% em outubro, mas tarifas ainda limitam recuperação",
+      "resumo": "Exportações do Brasil aos EUA sobem 87% em outubro, mas tarifas ainda limitam recuperação Portal do Agronegócio",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWjdPd3FkalFJTWJYUkIxTWRHVEs2LUZyTFlzSnRhUDBnZ0xJUGR4cU51NUtORU9keGFEU3F3bUd1ZTVFMUVMVk80NHUwbVVwOGZPckpQTy1Tc3hacUNJZVRKOXNYRHJxVFhYeUtNRDBsQlFEc3U4Zk5NN0tmd2k1U1BVUjNKNDVsaFB1TzhqSTRKV1o2emFLRDZVQXY3dENpY3ZRUG5EeXVCRVpZR0NScVVhVXVaUm5FLWZ1bGpISXVRMGZxcTl0OGlIdWlEN0d3RlpGYTZiZjlkLVVMSlV0QXN0TTdpa3dyMzhuNDBJeE1qM1VBSWFPNTBjYUkzUXdu?oc=5",
+      "fonte": "Portal do Agronegócio",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-11-16T20:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
@@ -1412,6 +1446,22 @@
       ]
     },
     {
+      "id": "e3671eade15e19c977d7",
+      "titulo": "Nova tarifa de Trump que atinge o Brasil tem 471 produtos isentos. Veja quais",
+      "resumo": "Nova tarifa de Trump que atinge o Brasil tem 471 produtos isentos. Veja quais O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3lDVkVSNm8ySW5Ob0lXLXowcWVwdEZSN1Nab1lVZ0V6Rk9vS2VjZUZrYVpYUWk1Y0FBV2J3cTQtZkVLUlR5YUE4MndoWFZmc2FQNGtTbUxKWWRHN0xZVkdvbmx4cVhnOVVSbnJwR2hKNjQxdHluRjFIYkRDd2xIdmVuLVJsTGFZdTU2NUljQ0JXZVNBaWhQc0tUMzVBcElXamFGVzBiTkt2V043dHdmM3FpcWxYeDgxdWJZUlI4a2FlX3BQbkpiMUtIeHVBQTRn0gHfAUFVX3lxTE50NW9oRzlCeDlFSElEUXZSanBEX0txakJ2UGh0bllCakZYYVBzQ09CWlExQVpZWHNXMllVazFzcHhSSnNxeGU5c253SEczTzl2ZkltUldfZFd4UG80Nk9IelVmOTJiT09wdll3aTBLMktPY3haWDFVc0FQQ1I3czVrLWJrMkFrU0dHTnpKVGQ0dFh4Rk9hT29MeGxaMUpCWEZhU2lCaERuMGo0X2lMSUFrYldqOFdXNWdodElidVZ4aUNHWWdYdE5kb2NOeVdIMy13LW81dlNTQzlLTG1yelU?oc=5",
+      "fonte": "O GLOBO",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-23T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "baixa",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "bd5a7816d9d6b69ed76f",
       "titulo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço",
       "resumo": "ABRA: 42% das exportações de reciclagem animal terão impacto do tarifaço cnnbrasil.com.br",
@@ -2574,6 +2624,22 @@
         "Brasil",
         "Estados Unidos",
         "exportações"
+      ]
+    },
+    {
+      "id": "3df67cfbf28053cf75fb",
+      "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
+      "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
+      "fonte": "Agência Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
