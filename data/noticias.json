@@ -1,30 +1,13 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-18T15:35:30.130607-03:00",
+    "atualizado_em": "2026-11-19T15:46:38.363388-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 106,
+    "novos_itens_encontrados": 109,
     "falhas_de_coleta": []
   },
   "noticias": [
-    {
-      "id": "3a28211e44c9212018f0",
-      "titulo": "Brasil aposta na industrialização de minerais com compromisso ambiental, afirma Márcio Elias na COP 31",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
-      "fonte": "MDIC",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:30.113789-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "Brasil",
-        "USTR",
-        "MDIC"
-      ]
-    },
     {
       "id": "6b0136de71be9e5f2d5f",
       "titulo": "Política industrial pode fazer do Brasil um país produtor, não apenas consumidor, afirma secretário do MDIC",
@@ -32,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/politica-industrial-pode-fazer-do-brasil-um-pais-produtor-nao-apenas-consumidor-afirma-secretario-do-mdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:30.109510-03:00",
+      "data_publicacao": "2026-11-19T15:46:38.344460-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -49,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:30.073596-03:00",
+      "data_publicacao": "2026-11-19T15:46:38.309681-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -67,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:30.057624-03:00",
+      "data_publicacao": "2026-11-19T15:46:38.293074-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -83,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:29.662931-03:00",
+      "data_publicacao": "2026-11-19T15:46:37.920345-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -98,7 +81,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:29.660507-03:00",
+      "data_publicacao": "2026-11-19T15:46:37.918060-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -113,12 +96,29 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-18T15:35:29.658622-03:00",
+      "data_publicacao": "2026-11-19T15:46:37.916245-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
       "tags": [
         "USTR"
+      ]
+    },
+    {
+      "id": "3a28211e44c9212018f0",
+      "titulo": "Brasil aposta na industrialização de minerais com compromisso ambiental, afirma Márcio Elias na COP 31",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/brasil-aposta-na-industrializacao-de-minerais-com-compromisso-ambiental-afirma-marcio-elias-na-cop-31",
+      "fonte": "MDIC",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-18T15:35:30.113789-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "Brasil",
+        "USTR",
+        "MDIC"
       ]
     },
     {
@@ -1628,6 +1628,22 @@
       ]
     },
     {
+      "id": "c9e099cff01a03fd5cca",
+      "titulo": "Tarifa adicional de 25% dos EUA contra produtos brasileiros passa a valer nesta quarta (22)",
+      "resumo": "Tarifa adicional de 25% dos EUA contra produtos brasileiros passa a valer nesta quarta (22) Brasil de Fato",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM084clVkRmdGN0Z5U0lQSXdsUVVGMXZFUy1INTZrWkV2MjNNZ24xVEdpNENpcDFPZ0lPN1BrekJncmtYTWFrU01BcWYtMTNSdWZ4R1dQQ2V3VC1rXzFDcW9KNzJiTUlWTWZIQWJIZV9IOFBBN2pTd1NWY3N3bVJRN2ZtYTgxX2ZIVEFTTHJhTnVYNmZlV0lFNkdpRWdZWHVkMUxLQlBHcmFsM2lBWmRjRjkyQWFWLVRrbUxOR2d2Q1VucE1ZMmJwbGRHTlQ?oc=5",
+      "fonte": "Brasil de Fato",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-22T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "d75abc899b688ea42817",
       "titulo": "Nova tarifa dos EUA atinge bilhões de dólares em exportações brasileiras",
       "resumo": "Nova tarifa dos EUA atinge bilhões de dólares em exportações brasileiras REDE BRASIL DE TELEVISÃO",
@@ -2219,21 +2235,6 @@
       ]
     },
     {
-      "id": "59eb988bcda0561f98e6",
-      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
-      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
-      "fonte": "O GLOBO",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-17T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa"
-      ]
-    },
-    {
       "id": "39ce3ed3a8310c5a5bb8",
       "titulo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento",
       "resumo": "Tarifaço dos EUA pode impactar em mais de meio bilhão de dólares em exportações no RS, diz levantamento G1",
@@ -2247,6 +2248,21 @@
       "tags": [
         "tarifa",
         "exportações"
+      ]
+    },
+    {
+      "id": "59eb988bcda0561f98e6",
+      "titulo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA",
+      "resumo": "Resposta política, socorro a empresas e retaliação adiada: como o governo decidiu reagir ao novo tarifaço dos EUA O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3JiTlRRY1NCNlg2QlFUbUdkYXVkemVRY0Q4SnZ4VDIzVFNjZzdNcFhtZ2ZKT3FHWm5tcnlmUDJHSW9iNTgtQ3AwTDVCQjhhNHlMWE1TbTEtZkh0N1c5ak53RUlnbDJNbGdoSDA0ZG85a3BOdWpTeXRBRWhyV2xqUHVlcmdFWGdkLUwteWNkVVBXT1A2MG8wQlNCUUZoN3RmUGljelJ0aU1Ra1BJY0RrQXJFNmlJRzNnS0JUSWd2cU5yNFZfRlAwLWlVU2lFSGllT0NaQjRYbF9lMU1yZUVKMV9zeGNDNUJBUWlkOWwtR1NUcGJLR3JkUnZoM2RUdnPSAY4CQVVfeXFMTkdqUWJQbUVxQVo1Sy1nMXpYTDVWeGhLQ19yNlNGYXp6TWJPV3lwUl95eS00eHlLdERPd2RrQVJmOE1jQkt0OU9FRzJjdmkyRGJqcDRpbEYxdmZFWWdrUTE0YVllOXlVM3RtcjVRSkRFXzBPYmswVjYzMzFJaFJsT1prTVYzRXh6YzlQeE12Y1VRWkdybHE5aTdKS0lWRUJnMjlMSkVzaS1nVk1oRVNISVRCbE9tZFBOTUY4RHF0UEtYTWVndGFwM1d4bTFCQUdfUVktWi02aDNRQXc0X0lVemVHczFjQUJwUHA4NHgtaW9FazBvT2Q3V09VT2ZwU1ctT0YyWlhaS0VmXzcydlhB?oc=5",
+      "fonte": "O GLOBO",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-17T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa"
       ]
     },
     {
@@ -2609,6 +2625,22 @@
       ]
     },
     {
+      "id": "3df67cfbf28053cf75fb",
+      "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
+      "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
+      "fonte": "Agência Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "b6330ad6907f3746724b",
       "titulo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o…",
       "resumo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o de má Instagram",
@@ -2624,22 +2656,6 @@
         "Brasil",
         "Estados Unidos",
         "exportações"
-      ]
-    },
-    {
-      "id": "3df67cfbf28053cf75fb",
-      "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
-      "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
-      "fonte": "Agência Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
       ]
     },
     {
