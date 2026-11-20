@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-19T15:46:38.363388-03:00",
+    "atualizado_em": "2026-11-20T15:14:07.204617-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 109,
+    "novos_itens_encontrados": 110,
     "falhas_de_coleta": []
   },
   "noticias": [
@@ -15,7 +15,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/politica-industrial-pode-fazer-do-brasil-um-pais-produtor-nao-apenas-consumidor-afirma-secretario-do-mdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:38.344460-03:00",
+      "data_publicacao": "2026-11-20T15:14:07.188021-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -32,7 +32,7 @@
       "url": "https://www.gov.br/mdic/pt-br/assuntos/sdic",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:38.309681-03:00",
+      "data_publicacao": "2026-11-20T15:14:07.153184-03:00",
       "categoria": "Política tarifária",
       "prioridade": "alta",
       "foco_madeira": false,
@@ -50,7 +50,7 @@
       "url": "https://www.gov.br/mdic/pt-br/composicao/se",
       "fonte": "MDIC",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:38.293074-03:00",
+      "data_publicacao": "2026-11-20T15:14:07.137264-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -66,7 +66,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:37.920345-03:00",
+      "data_publicacao": "2026-11-20T15:14:06.741892-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -81,7 +81,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:37.918060-03:00",
+      "data_publicacao": "2026-11-20T15:14:06.739689-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -96,7 +96,22 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-19T15:46:37.916245-03:00",
+      "data_publicacao": "2026-11-20T15:14:06.738113-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "cc32c6098bfbaf83c63c",
+      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Polygroup Industrias México",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-20T15:14:06.736722-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2625,22 +2640,6 @@
       ]
     },
     {
-      "id": "3df67cfbf28053cf75fb",
-      "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
-      "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
-      "fonte": "Agência Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
       "id": "b6330ad6907f3746724b",
       "titulo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o…",
       "resumo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o de má Instagram",
@@ -2656,6 +2655,22 @@
         "Brasil",
         "Estados Unidos",
         "exportações"
+      ]
+    },
+    {
+      "id": "3df67cfbf28053cf75fb",
+      "titulo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro",
+      "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
+      "fonte": "Agência Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
       ]
     },
     {
