@@ -1,13 +1,76 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-20T15:14:07.204617-03:00",
+    "atualizado_em": "2026-11-21T14:04:59.780940-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 110,
-    "falhas_de_coleta": []
+    "novos_itens_encontrados": 103,
+    "falhas_de_coleta": [
+      "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",
+      "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))"
+    ]
   },
   "noticias": [
+    {
+      "id": "38caf795bffc31888e1d",
+      "titulo": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-21T14:04:11.510850-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "ee8a140c9fc30264e204",
+      "titulo": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-21T14:04:11.505800-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "737d1160a7ef1cf939c8",
+      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-21T14:04:11.503235-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
+    {
+      "id": "cc32c6098bfbaf83c63c",
+      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Polygroup Industrias México",
+      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
+      "fonte": "USTR",
+      "tipo_fonte": "Oficial",
+      "data_publicacao": "2026-11-21T14:04:11.500428-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "media",
+      "foco_madeira": false,
+      "tags": [
+        "USTR"
+      ]
+    },
     {
       "id": "6b0136de71be9e5f2d5f",
       "titulo": "Política industrial pode fazer do Brasil um país produtor, não apenas consumidor, afirma secretário do MDIC",
@@ -57,66 +120,6 @@
       "tags": [
         "USTR",
         "MDIC"
-      ]
-    },
-    {
-      "id": "38caf795bffc31888e1d",
-      "titulo": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-20T15:14:06.741892-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
-      ]
-    },
-    {
-      "id": "ee8a140c9fc30264e204",
-      "titulo": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-20T15:14:06.739689-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
-      ]
-    },
-    {
-      "id": "737d1160a7ef1cf939c8",
-      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-20T15:14:06.738113-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
-      ]
-    },
-    {
-      "id": "cc32c6098bfbaf83c63c",
-      "titulo": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Polygroup Industrias México",
-      "resumo": "Publicação relevante identificada pelo monitoramento. Consulte a fonte para os detalhes.",
-      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
-      "fonte": "USTR",
-      "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-20T15:14:06.736722-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "media",
-      "foco_madeira": false,
-      "tags": [
-        "USTR"
       ]
     },
     {
@@ -3727,6 +3730,23 @@
       ]
     },
     {
+      "id": "e0f5d54b53104761d5f9",
+      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
+      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
+      ]
+    },
+    {
       "id": "59e29ad29077df7fc7af",
       "titulo": "Tarifa adicional de 25% dos EUA ameaça exportações brasileiras e preocupa indústria, avalia CNI",
       "resumo": "Tarifa adicional de 25% dos EUA ameaça exportações brasileiras e preocupa indústria, avalia CNI Agência de Notícias da Indústria",
@@ -3742,23 +3762,6 @@
         "Brasil",
         "exportações",
         "USTR"
-      ]
-    },
-    {
-      "id": "e0f5d54b53104761d5f9",
-      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
-      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
       ]
     },
     {
