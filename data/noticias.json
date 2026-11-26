@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-25T16:44:19.281602-03:00",
+    "atualizado_em": "2026-11-26T16:25:04.152606-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 199,
+    "novos_itens_encontrados": 139,
     "falhas_de_coleta": [
       "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",
       "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))"
@@ -18,7 +18,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-25T16:43:30.998676-03:00",
+      "data_publicacao": "2026-11-26T16:24:14.812578-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-25T16:43:30.994272-03:00",
+      "data_publicacao": "2026-11-26T16:24:14.808642-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-25T16:43:30.991756-03:00",
+      "data_publicacao": "2026-11-26T16:24:14.806606-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -63,7 +63,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-25T16:43:30.988847-03:00",
+      "data_publicacao": "2026-11-26T16:24:14.804191-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -875,9 +875,9 @@
     {
       "id": "43095629ee37071fd40f",
       "titulo": "Tarifaço dos EUA afeta economia do Paraná, diz especialista",
-      "resumo": "Tarifaço dos EUA afeta economia do Paraná, diz especialista Band",
+      "resumo": "Tarifaço dos EUA afeta economia do Paraná, diz especialista band.com.br",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3JOSW5OMGF4WElDSXlSRUxrZFV1Qk90cVlLaktQYWx2UEF3VXRUS1Z1WWRNbnpsNDdraFI0a1c3UGlIdkpROHA5Qkx4SnY0NFFNM1ZmZ1dTZ3Z6bUx6Q3ZnZEZUbVV0UVJoaWxpb1l3SXZtZUFVekFHTlQ2MnlMR1VUeF83bVR5Q0p5NTV5U3gzQ1NsQzNWckxsaVFnQQ?oc=5",
-      "fonte": "Band",
+      "fonte": "band.com.br",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-08-01T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -2625,24 +2625,6 @@
       ]
     },
     {
-      "id": "48cc22bd762f43256c1c",
-      "titulo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe",
-      "resumo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe Agência de Notícias da Indústria",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkU4RHMyemFwVy1FTjBRMlRXTUFacmhOdnl3S1pPbnhKSlFkaWdxdkJwNS1TcDI5a0lQRDI3aEdoNFlwalo2M2VBTDhsOXZvQzM3WjFNcW4yNXJsTHAzWGMyNUhhWE1SdVV2YThoejZDbFFqM0pTOGF3OWRubjY5UXkydklPb1Z3ZWo0S2E3eUJNM3I4UlRGc2MwdmI3ZEMzVVNoZnMxcXZSOUJFWkQ4UDVmMUhsOGlqdkF6UWh2ZFdaWWVYTmt6a2lGb0tUVEc5NTZsRzJFUU9ENzM4REtKVzdqQzFWdw?oc=5",
-      "fonte": "Agência de Notícias da Indústria",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "USTR",
-        "competitividade"
-      ]
-    },
-    {
       "id": "ccd1d38b8b19a576bca8",
       "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
       "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
@@ -2675,23 +2657,6 @@
       ]
     },
     {
-      "id": "09aabdde5b5424bae56a",
-      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
-      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
-      "fonte": "Estadão",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
-      ]
-    },
-    {
       "id": "b6330ad6907f3746724b",
       "titulo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o…",
       "resumo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o de má Instagram",
@@ -2706,6 +2671,41 @@
         "tarifa",
         "Brasil",
         "Estados Unidos",
+        "exportações"
+      ]
+    },
+    {
+      "id": "48cc22bd762f43256c1c",
+      "titulo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe",
+      "resumo": "CNI: Tarifa adicional de 25% dos EUA prejudica competitividade brasileira e ameaça exportaçõe Agência de Notícias da Indústria",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMkU4RHMyemFwVy1FTjBRMlRXTUFacmhOdnl3S1pPbnhKSlFkaWdxdkJwNS1TcDI5a0lQRDI3aEdoNFlwalo2M2VBTDhsOXZvQzM3WjFNcW4yNXJsTHAzWGMyNUhhWE1SdVV2YThoejZDbFFqM0pTOGF3OWRubjY5UXkydklPb1Z3ZWo0S2E3eUJNM3I4UlRGc2MwdmI3ZEMzVVNoZnMxcXZSOUJFWkQ4UDVmMUhsOGlqdkF6UWh2ZFdaWWVYTmt6a2lGb0tUVEc5NTZsRzJFUU9ENzM4REtKVzdqQzFWdw?oc=5",
+      "fonte": "Agência de Notícias da Indústria",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "USTR",
+        "competitividade"
+      ]
+    },
+    {
+      "id": "09aabdde5b5424bae56a",
+      "titulo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto",
+      "resumo": "Novo tarifaço de Trump afeta 25% das exportações do Brasil para os EUA, aponta estudo; veja impacto Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHlvMlV1b1BRcFlIUG9SNnJCQk1DeHY4LXpvR244WjgzV3ZrTk1DX3lfMzJrUFZ4bkE0akVmZi15aTVCdFlzS2lNQ3d5LS1sTTJGUzUwZmFOUFc0REFDOVJxUDBJbXlXMlQ5ZldlUE1HbU9VQWZiYlVWaVFNbTdGd2lZRzE4RFdGbTRvSmNjcVhYenlmOUFXeDdhT1lKUXA4OHlFTFJqVkxiNU51WkpWQjhER2RiQ3ZPdUgzT2NhQkNVY3N60gHKAUFVX3lxTE12YWw2YUtJQzdIZnp6YlhQd3FyNHRJZk5BYklMeXpqM3ZmSEdiYnlNUE9EeGMxcXpibGljbDNfMGQtMFNkS0VsUmpWbWl5NEhEQnJOX3FJVXZOejhtd25aaGZpRWR2TW9XY2R1R2xDOXpIbm9UZmkza1hMX25jeVhqWUYxNWtzN21OeUlKSGpydzZyR05kcDBHMjJUQVdVM1dOR2JzN25YdURtVkhLaDd1RjV6ODNTSUYzLVAwcllVaFYxTEYzeDZiMWc?oc=5",
+      "fonte": "Estadão",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
         "exportações"
       ]
     },
