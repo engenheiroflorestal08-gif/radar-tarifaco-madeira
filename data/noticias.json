@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "atualizado_em": "2026-11-27T16:19:42.942223-03:00",
+    "atualizado_em": "2026-11-28T14:56:09.342663-03:00",
     "descricao": "Monitoramento automático de notícias públicas sobre tarifas, comércio exterior e indústria brasileira da madeira.",
     "versao": "1.0.0",
     "total_fontes_consultadas": 12,
-    "novos_itens_encontrados": 148,
+    "novos_itens_encontrados": 183,
     "falhas_de_coleta": [
       "MDIC - Informativos de Comércio Exterior: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/RSS (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",
       "MDIC: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mdic/pt-br/assuntos/noticias (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))"
@@ -18,7 +18,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-27T16:18:54.609825-03:00",
+      "data_publicacao": "2026-11-28T14:55:20.557641-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -33,7 +33,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-27T16:18:54.606233-03:00",
+      "data_publicacao": "2026-11-28T14:55:20.554525-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -48,7 +48,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-27T16:18:54.604093-03:00",
+      "data_publicacao": "2026-11-28T14:55:20.552569-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -63,7 +63,7 @@
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
       "fonte": "USTR",
       "tipo_fonte": "Oficial",
-      "data_publicacao": "2026-11-27T16:18:54.601837-03:00",
+      "data_publicacao": "2026-11-28T14:55:20.550499-03:00",
       "categoria": "Política tarifária",
       "prioridade": "media",
       "foco_madeira": false,
@@ -2644,6 +2644,38 @@
       ]
     },
     {
+      "id": "ccd1d38b8b19a576bca8",
+      "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
+      "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSm9zLUs4LWtuR1JFc2YyOExPR2VYZFBwd1VEbktRRWVwOXVCYVF2emxDdmttOGh4c2ZuWG5RZjlhWDFlcUg0Q19acVJuY1pZZnc4MTA1VVpIZ1o1djFKMFBsYTZjWWdMTjFTZVVRRXgxWThWZ3BTdGE3ak10aGhDcTJCdXF4RTZ4bktJVnVLdU5LQUttWVNibTA1RnAyakwtemxKeG5VLXN5VnNsNlhzRnhzVml5dFFYUUJNaEdNX2xtQjg?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "5178b3fe9bd9e9a9a314",
+      "titulo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan",
+      "resumo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkZ1c3ZaN0pvcEFxTF9NeElOV3NOQnVFRVAtSk5yMTJMUWkzM0FGcUFBR2dvM2tZSzI3QzdCUTU3c3RMbUltQXpoQWdhakxwb2tvQU5WcFJXd0hWM0FuZzVLSlJaNGZTQURnMU4wdmtBbHpMZUcyUFBfbkZxd0E0Ni1hazF6dHdRbm5DLU5wNVNZYzJna3dSMU9ZajUwS1ZJVndzMFo4eTB1MmtINV9pNUM1WHhYcVg2dk40eA?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-07-16T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil"
+      ]
+    },
+    {
       "id": "b6330ad6907f3746724b",
       "titulo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o…",
       "resumo": "ECONOMIA | Cerca de 25% das exportações brasileiras para os Estados Unidos estão sujeitas ao novo tarifaço imposto pelo governo Trump, segundo estudo da MB Associados. ⁣ ⁣ O valor em risco chega a US$ 9,51 bilhões. O setor mais afetado é o de má Instagram",
@@ -2685,38 +2717,6 @@
       "resumo": "Setores atingidos por tarifaço dos EUA terão novo plano de socorro Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXZlTE9fSVZ2d29WREFTQTRIOTQxeXdjNDlhc1pRUWRzYTZSalhzclBwb04wNl9nNHpWM1hKWG1KUTdLa2RwTGNEZ01YWFg3T253RTlNM2NqSmFveEY4b0NTWVFNR3ZiX3BaSk1tM1hSX3NKZzN0NzlaSlVxbms1SW5uMHkwUkM4ZHhGU1dfZXdSbVBhNERkWkdQRnZvTDhCYWlFWExFQXVLTnIzUzNkdWdkc0NYaXdaYnZqb3JXUzliUQ?oc=5",
       "fonte": "Agência Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
-      "id": "ccd1d38b8b19a576bca8",
-      "titulo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados",
-      "resumo": "Amcham explica impacto do tarifaço dos EUA e cita setores afetados CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSm9zLUs4LWtuR1JFc2YyOExPR2VYZFBwd1VEbktRRWVwOXVCYVF2emxDdmttOGh4c2ZuWG5RZjlhWDFlcUg0Q19acVJuY1pZZnc4MTA1VVpIZ1o1djFKMFBsYTZjWWdMTjFTZVVRRXgxWThWZ3BTdGE3ak10aGhDcTJCdXF4RTZ4bktJVnVLdU5LQUttWVNibTA1RnAyakwtemxKeG5VLXN5VnNsNlhzRnhzVml5dFFYUUJNaEdNX2xtQjg?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-07-16T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil"
-      ]
-    },
-    {
-      "id": "5178b3fe9bd9e9a9a314",
-      "titulo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan",
-      "resumo": "Tarifaço dos EUA é interferência externa indevida, diz Durigan CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkZ1c3ZaN0pvcEFxTF9NeElOV3NOQnVFRVAtSk5yMTJMUWkzM0FGcUFBR2dvM2tZSzI3QzdCUTU3c3RMbUltQXpoQWdhakxwb2tvQU5WcFJXd0hWM0FuZzVLSlJaNGZTQURnMU4wdmtBbHpMZUcyUFBfbkZxd0E0Ni1hazF6dHdRbm5DLU5wNVNZYzJna3dSMU9ZajUwS1ZJVndzMFo4eTB1MmtINV9pNUM1WHhYcVg2dk40eA?oc=5",
-      "fonte": "CNN Brasil",
       "tipo_fonte": "Imprensa",
       "data_publicacao": "2026-07-16T04:00:00-03:00",
       "categoria": "Política tarifária",
@@ -3763,23 +3763,6 @@
       ]
     },
     {
-      "id": "e0f5d54b53104761d5f9",
-      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
-      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
-      "fonte": "CNN Brasil",
-      "tipo_fonte": "Imprensa",
-      "data_publicacao": "2026-06-02T04:00:00-03:00",
-      "categoria": "Política tarifária",
-      "prioridade": "alta",
-      "foco_madeira": false,
-      "tags": [
-        "tarifa",
-        "Brasil",
-        "exportações"
-      ]
-    },
-    {
       "id": "59e29ad29077df7fc7af",
       "titulo": "Tarifa adicional de 25% dos EUA ameaça exportações brasileiras e preocupa indústria, avalia CNI",
       "resumo": "Tarifa adicional de 25% dos EUA ameaça exportações brasileiras e preocupa indústria, avalia CNI Agência de Notícias da Indústria",
@@ -3795,6 +3778,23 @@
         "Brasil",
         "exportações",
         "USTR"
+      ]
+    },
+    {
+      "id": "e0f5d54b53104761d5f9",
+      "titulo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras",
+      "resumo": "Tarifaço dos EUA pode atingir US$ 4 bi em exportações brasileiras CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU4zUlU0cHBwZGhWNHRoSkhITzNoa29sbzZfZGFOT2g0WkdzRzdqT2p2ajAwdkJjdERpSGVxYTM1NTYwaTBlY3VNMnJwTmNfcy1FZ1UzWHozUUJqR1V0cDZ2VUhrN1dFU1dFdU1CcHJYT2g3enltbFJaSzlUVUt4UzVkZW1ZRWU2eXdTQUFEUWZmWldRZXVmN1A4YjBZdzIx?oc=5",
+      "fonte": "CNN Brasil",
+      "tipo_fonte": "Imprensa",
+      "data_publicacao": "2026-06-02T04:00:00-03:00",
+      "categoria": "Política tarifária",
+      "prioridade": "alta",
+      "foco_madeira": false,
+      "tags": [
+        "tarifa",
+        "Brasil",
+        "exportações"
       ]
     },
     {
